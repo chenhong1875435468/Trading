@@ -1,4 +1,4 @@
-﻿# Python
+# Python
 __pycache__/
 *.py[cod]
 *.egg-info/
@@ -37,3 +37,6 @@ Thumbs.db
 
 # Jupyter
 .ipynb_checkpoints/
+
+# Local tools
+.tools/
