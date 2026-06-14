@@ -29,7 +29,7 @@ strategy:
   adx_period: 14
   trend_adx_threshold: 24.0
   range_adx_threshold: 22.0
-  intrabar_trend_adx_threshold: 22.0
+  intrabar_trend_adx_threshold: 28.0
   min_trend_di_gap: 6.0
   long_trend_di_gap_offset: 5.0
   long_trend_adx_offset: 8.0
@@ -38,7 +38,7 @@ strategy:
   rsi_period: 14
   rsi_overbought: 68.0
   rsi_oversold: 32.0
-  trend_buy_max_rsi: 68.0
+  trend_buy_max_rsi: 66.0
   trend_sell_min_rsi: 28.0
 
   # ATR
@@ -56,7 +56,7 @@ strategy:
   min_trend_ema_gap_atr: 0.25
   max_trend_distance_atr: 2.20
   max_trend_adx_drop: 0.0
-  long_trend_efficiency_offset: 0.08
+  long_trend_efficiency_offset: 0.12
 
   # 区间识别
   range_lookback_bars: 36
@@ -96,7 +96,7 @@ strategy:
   supertrend_multiplier: 3.0
 
   # 入场信号K线
-  use_signal_bar_trend_entry: true
+  use_signal_bar_trend_entry: false
   use_intrabar_trend_entry: true
   synchronize_trend_entry_to_bar: true
 
@@ -139,12 +139,12 @@ strategy:
   fibonacci_zone_buffer_atr: 0.25
 
   # 止损止盈
-  use_wider_trend_stop: true
-  trend_atr_stop_multiplier: 1.50
+  use_wider_trend_stop: false
+  trend_atr_stop_multiplier: 1.20
   range_atr_stop_buffer: 0.25
-  trend_reward_risk: 2.50
-  long_trend_reward_risk: 2.00
-  short_trend_reward_risk: 1.80
+  trend_reward_risk: 2.90
+  long_trend_reward_risk: 1.70
+  short_trend_reward_risk: 0.00
   range_reward_risk: 1.00
   range_atr_stop_multiplier: 0.55
   min_stop_points: 80
@@ -165,10 +165,10 @@ strategy:
   range_grid_use_higher_bias: true
 
   # 出场管理
-  use_breakeven_stop: false
+  use_breakeven_stop: true
   breakeven_trigger_r: 0.40
   breakeven_buffer_points: 30
-  use_atr_trailing_stop: false
+  use_atr_trailing_stop: true
   atr_trail_trigger_r: 1.10
   atr_trail_multiplier: 1.40
   min_managed_stop_step_points: 250
@@ -177,7 +177,6 @@ strategy:
 
   # 交易方向: both / long_only / short_only
   trade_direction: both
-  use_ema200_trend_filter: true
 
   # 风控
   max_spread_points: 350

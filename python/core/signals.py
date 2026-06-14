@@ -183,6 +183,7 @@ class SignalEngine:
             and atr_active
             and trend_quality_up
             and ema_up
+            and bool(row.get("higher_ema_up", True))
             and close_above_mid
             and di_bullish
         ):
@@ -194,6 +195,7 @@ class SignalEngine:
             and atr_active
             and trend_quality_down
             and ema_down
+            and bool(row.get("higher_ema_down", True))
             and close_below_mid
             and di_bearish
         ):
@@ -260,11 +262,16 @@ class SignalEngine:
         self, df: pd.DataFrame, idx: int, regime: Regime, atr_val: float
     ) -> tuple[Signal, float, float, str]:
         """使用 M5 K线数据做 Intrabar 精确入场（对应 EA BuildIntrabarTrendSignal）。"""
-        cfg = self.cfg
-        signal_bar_time = df.index[idx]
+        return self._intrabar_entry_m5_at(df, idx, regime, atr_val, df.index[idx])
 
-        # 取 M5 数据中 <= 当前 M15 bar 时间 的最近 N 根 K线
-        m5_before = self.df_m5[self.df_m5.index <= signal_bar_time]
+    def _intrabar_entry_m5_at(
+        self, df: pd.DataFrame, idx: int, regime: Regime, atr_val: float, entry_time
+    ) -> tuple[Signal, float, float, str]:
+        """使用指定 M5 收盘时点做 Intrabar 入场检测。"""
+        cfg = self.cfg
+
+        # 取 M5 数据中 <= 指定入场检查时间 的最近 N 根 K线
+        m5_before = self.df_m5[self.df_m5.index <= entry_time]
         if len(m5_before) < 4:
             return Signal.NONE, 0.0, 0.0, 0.0, ""
 

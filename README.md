@@ -3,6 +3,9 @@
 > 项目仓库：[https://github.com/chenhong1875435468/Trading](https://github.com/chenhong1875435468/Trading)
 > 当前分支：`codex/trend-v3-dual-direction`
 
+
+本项目核心在于：Python研究->发现有效策略->MQL5实现EA->mt5回测+实盘
+
 ---
 
 ## 目录
@@ -15,6 +18,37 @@
 ---
 
 ## 当前进展
+
+### 2026-06-14 状态快照
+
+| 模块 | 当前状态 | 结论 |
+|------|----------|------|
+| MT5 EA 主线 | `XAUUSD_Regime_EA.mq5` / `XAUUSD_Regime_EA_trend_v3.set` 已编译通过 | 仍以 v7.1 Candle 过滤器试验为最新 EA 版本，`compile.log` 显示 0 错误 0 警告 |
+| 已整理 MT5 回测 | `backtest_reports/`、`backtest/final/`、`backtest/roll/`、`backtest/tmp/` 已归档 | 历史最佳年段仍集中在 v5.8/v6.3；v6.3 Year: Net 195.85 / PF 3.07 / 33 笔 |
+| 最新 JSON 实验 | `data/v149_*` ~ `data/v182_*` | v182 完成入场扩展最终分段；`move12` 与 `move12_entrybar07` 在 verylong 段表现靠前 |
+| Python 研究流水线 | `python/core/`、`python/analysis/`、`python/experiments/`、`python/tools/`、`python/reports/` 已形成基础闭环 | 当前定位为 MT5 真实交易分析、行情特征归因、参数假设生成；MT5 仍是最终验证源 |
+| 最新行情数据 | `python/data/raw/XAUUSD_M5.csv`、`python/data/raw/XAUUSD_M15.csv` | M15 已覆盖 2023-01-03 至 2026-06-13；M5 受 MT5 本地历史限制，仅覆盖 2025-01-14 至 2026-06-13 |
+| MT5 分段复核 | `python/reports/mt5_runs/*_summary.md` | Python 候选集在 MT5 valid 段较好，但 train/test 不稳，暂不建议直接替换 EA 参数 |
+
+#### 最新关键结果
+
+- `python/reports/backtest_audit/backtest_audit.md`：已解析 30 行精选实验与 60 个 final MT5 HTML 报告；final 报告中 verylong 最高约 Net 303.62 / PF 2.58 / 95 笔。
+- `data/v182_entry_extension_final_segments.json`：`move12` verylong Net 305.02 / PF 3.09 / 77 笔；`move12_entrybar07` verylong Net 301.32 / PF 3.12 / 74 笔，且相对回撤更低。
+- `python/reports/research_runs/mt5_export_m15_20240223_20260612_v1/summary.md`：Python 研究候选参数在 Python 回测中 train/test 为负、valid 略正，说明离线模型与 MT5 结果仍需继续对齐。
+- `python/reports/mt5_runs/candidate_m15_v1_summary.md`：候选集 MT5 复核结果为 train Net -10.72 / PF 0.93，test Net -32.19 / PF 0.37，valid Net 120.89 / PF 2.57。
+- `python/reports/mt5_runs/baseline_m15_aligned_*`：对齐基线 train Net 34.69 / PF 1.33，test Net -38.91 / PF 0.44，valid Net 192.90 / PF 4.23；近期行情适配明显强于中间测试段。
+- `python/reports/backtest_audit/current_project_status_2026-06-14.md`：本次续做已接入本地 MT5，同步 M15/M5 原始行情，对齐 11 个 Python 配置漂移参数，并修正开仓价、EMA200 覆盖、M30 高周期确认、移动止损同 K 线误触发；当前 Python baseline 为 Net 40.68 / PF 1.26 / 26 笔。
+- `python/experiments/exp003_m5_intrabar_backtest.py`：valid 段 M5 执行诊断为 Net 42.42 / PF 1.22 / 22 笔；MT5 baseline valid 为 Net 192.90 / PF 4.23 / 17 笔，说明仍有执行细节未对齐。
+- `python/analysis/mt5_trade_feature_analysis.py`：已解析 baseline_m15_aligned 的 79 笔 MT5 真实交易，并生成特征归因报告 `python/reports/analysis/baseline_m15_aligned_feature_analysis.md`。
+- `python/reports/analysis/baseline_m15_aligned_research_hypotheses.md`：形成首批 MT5 待验证假设：提高趋势效率阈值、收紧趋势 choppiness、测试 ATR 下限/`InpMinAtrFactor`、诊断空头 RSI 32-38 中间带、谨慎测试宽时段过滤。
+
+#### 下一步建议
+
+- 优先使用 Python 分析 MT5 真实交易与行情特征，生成 EA 参数/过滤器假设；不要把 Python 回测作为最终收益裁判。
+- 使用 `python/reports/analysis/baseline_m15_aligned_research_hypotheses.md` 作为下一轮 MT5 sweep 计划。
+- 先在 MT5 里增加 `Max bars in chart` / 补下载更深的 M5 历史，否则 2024 年训练段无法真实复刻 M5 intrabar 入场。
+- 对 `move12_entrybar07` 这类 MT5 表现更稳的入场扩展组合做更长滚动窗口复核，而不是直接采用 Python 候选集。
+- 将 `python/tools/sync_mt5_history.py` 固化为标准数据更新入口，并在每次同步后生成数据质量摘要。
 
 ### EA 开发状态
 
@@ -58,6 +92,7 @@
 | 滚动窗口报告 | 28 个 | `backtest/roll/` — roll6m_* 半年度滚动 |
 | 参数扫描报告 | 637 个 | `backtest/tmp/` — tmp_* 按子类分目录 |
 | JSON 实验数据 | 34 个 | `data/` — v149~v182 版本化实验片段 |
+| Python 研究文件 | 116 个 | `python/` — 不含 `.pyc` 的源码、数据、报告与工具文件 |
 
 ### 已完成的优化维度
 
@@ -129,7 +164,12 @@
 │   ├── v149_* ~ v182_*               # 版本化实验片段（34个文件）
 │   └── ...
 │
-└── python/                            # 【待创建】Python 策略分析系统
+└── python/                            # 【已搭建】Python 策略分析系统基础流水线
+    ├── core/                          # 数据加载、指标、信号、回测引擎
+    ├── experiments/                   # 离线实验入口
+    ├── tools/                         # MT5 历史数据同步工具
+    ├── data/raw/                      # M5/M15 原始行情 CSV
+    └── reports/                       # Python 研究与 MT5 分段复核报告
 ```
 
 ---

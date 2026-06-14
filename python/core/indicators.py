@@ -419,4 +419,24 @@ def compute_all(df: pd.DataFrame, config: dict) -> pd.DataFrame:
     result["vwap_deviation_atr"] = (result["close"] - result["vwap"]) / result["atr"]
     result["trend_distance_atr"] = (result["close"] - result["ema_fast"]).abs() / result["atr"]
 
+    # Higher-timeframe EMA confirmation. EA uses M30 fast/slow EMA confirmation
+    # in regime detection; shift by one M30 bar to avoid using an unfinished bar.
+    m30 = result[["open", "high", "low", "close"]].resample("30min").agg(
+        {"open": "first", "high": "max", "low": "min", "close": "last"}
+    ).dropna(subset=["open"])
+    higher_fast = ema(m30["close"], config["fast_ema_period"])
+    higher_slow = ema(m30["close"], config["slow_ema_period"])
+    higher_up = (
+        (higher_fast.shift(1) > higher_slow.shift(1))
+        & (higher_fast.shift(1) > higher_fast.shift(3))
+        & (higher_slow.shift(1) >= higher_slow.shift(3))
+    )
+    higher_down = (
+        (higher_fast.shift(1) < higher_slow.shift(1))
+        & (higher_fast.shift(1) < higher_fast.shift(3))
+        & (higher_slow.shift(1) <= higher_slow.shift(3))
+    )
+    result["higher_ema_up"] = higher_up.reindex(result.index, method="ffill").fillna(False)
+    result["higher_ema_down"] = higher_down.reindex(result.index, method="ffill").fillna(False)
+
     return result

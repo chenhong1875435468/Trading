@@ -1,6 +1,7 @@
 # 数据处理
 pandas>=2.0.0
 numpy>=1.24.0
+MetaTrader5>=5.0.5735
 
 # 技术指标
 ta-lib>=0.4.28

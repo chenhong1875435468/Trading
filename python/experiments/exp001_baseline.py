@@ -39,6 +39,12 @@ def main():
         df_m5 = load_mt5_csv(str(m5_path))
         df_m5 = clean_data(df_m5)
         print(f"  M5  数据: {df_m5.index.min()} → {df_m5.index.max()}, {len(df_m5)} 行")
+        if df_m5.index.min() > df.index.min():
+            missing_m15 = int((df.index < df_m5.index.min()).sum())
+            print(
+                "  警告: M5 数据早于 "
+                f"{df_m5.index.min()} 的区间缺失，{missing_m15} 根 M15 K线无法做真实 M5 intrabar 对齐。"
+            )
 
     # 3. 计算指标
     print("[3/5] 计算技术指标...")

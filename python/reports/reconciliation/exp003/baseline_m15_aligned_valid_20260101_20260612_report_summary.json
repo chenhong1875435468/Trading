@@ -1,0 +1,19 @@
+{
+  "mt5_report": "python\\reports\\mt5_runs\\baseline_m15_aligned_valid_20260101_20260612\\baseline_m15_aligned_valid_20260101_20260612_report.htm",
+  "python_trades": "python\\reports\\experiments\\exp003_m5_intrabar_trades.csv",
+  "start": "2026-01-01",
+  "end": "2026-06-12 23:59:59",
+  "python_time_offset_hours": -8.0,
+  "orders": 34,
+  "deals": 35,
+  "mt5_trades": 17,
+  "python_trades_in_window": 22,
+  "median_entry_delta_minutes": 135.0,
+  "max_entry_delta_minutes": 20005.0,
+  "outputs": {
+    "deals": "python\\reports\\reconciliation\\exp003\\baseline_m15_aligned_valid_20260101_20260612_report_deals.csv",
+    "orders": "python\\reports\\reconciliation\\exp003\\baseline_m15_aligned_valid_20260101_20260612_report_orders.csv",
+    "mt5_trades": "python\\reports\\reconciliation\\exp003\\baseline_m15_aligned_valid_20260101_20260612_report_mt5_trades.csv",
+    "comparison": "python\\reports\\reconciliation\\exp003\\baseline_m15_aligned_valid_20260101_20260612_report_comparison.csv"
+  }
+}

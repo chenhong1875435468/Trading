@@ -185,7 +185,9 @@ class BacktestEngine:
                         dates.append(bar_time)
                         continue
 
-                    entry = close  # 当前K线收盘价入场
+                    entry = sig_row.get("entry", 0.0)
+                    if entry <= 0:
+                        entry = close
                     sl = sig_row["sl"]
                     tp = sig_row["tp"]
 
@@ -273,12 +275,9 @@ class BacktestEngine:
                 if trail_sl < trade.sl:
                     trade.sl = trail_sl
 
-        # 检查是否被新止损触发
-        if trade.direction == 1 and low <= trade.sl:
-            return trade.sl, "trail"
-        if trade.direction == -1 and high >= trade.sl:
-            return trade.sl, "trail"
-
+        # Do not test the newly modified stop against the same completed bar.
+        # EA modifies stops on the current tick/new entry bar; the bar's prior
+        # high/low is already in the past. The new stop can only be hit later.
         return 0.0, ""
 
     def _check_risk_limits(
