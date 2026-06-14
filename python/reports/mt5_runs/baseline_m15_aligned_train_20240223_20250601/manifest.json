@@ -1,0 +1,58 @@
+{
+  "run_dir": "/Users/ch/Documents/Codex/2026-06-14/chenhong1875435468-trading-https-github-com-chenhong1875435468/python/reports/mt5_runs/baseline_m15_aligned_train_20240223_20250601",
+  "mt5_config": "/Users/ch/Library/Application Support/net.metaquotes.wine.metatrader5/drive_c/Program Files/MetaTrader 5/config/baseline_m15_aligned_train_20240223_20250601_tester.ini",
+  "tester_config": {
+    "expert": "Trading\\XAUUSD_Regime_EA",
+    "expert_parameters": "Trading_XAUUSD_Regime_EA_trend_v3.set",
+    "symbol": "XAUUSD",
+    "period": "M15",
+    "model": 1,
+    "from_date": "2024.02.23",
+    "to_date": "2025.06.01",
+    "deposit": 100,
+    "currency": "USD",
+    "leverage": 100,
+    "execution_mode": 0,
+    "optimization": 0,
+    "visual": 0,
+    "report": "baseline_m15_aligned_train_20240223_20250601_report",
+    "replace_report": 1,
+    "shutdown_terminal": 1
+  },
+  "workspace": {
+    "root": "/Users/ch/Library/Application Support/net.metaquotes.wine.metatrader5/drive_c/Program Files/MetaTrader 5",
+    "experts_dir": "/Users/ch/Library/Application Support/net.metaquotes.wine.metatrader5/drive_c/Program Files/MetaTrader 5/MQL5/Experts/Trading",
+    "scripts_dir": "/Users/ch/Library/Application Support/net.metaquotes.wine.metatrader5/drive_c/Program Files/MetaTrader 5/MQL5/Scripts/Trading",
+    "tester_profiles_dir": "/Users/ch/Library/Application Support/net.metaquotes.wine.metatrader5/drive_c/Program Files/MetaTrader 5/MQL5/Profiles/Tester",
+    "files_dir": "/Users/ch/Library/Application Support/net.metaquotes.wine.metatrader5/drive_c/Program Files/MetaTrader 5/MQL5/Files"
+  },
+  "timed_out": false,
+  "returncode": 0,
+  "report_files": [
+    "/Users/ch/Documents/Codex/2026-06-14/chenhong1875435468-trading-https-github-com-chenhong1875435468/python/reports/mt5_runs/baseline_m15_aligned_train_20240223_20250601/baseline_m15_aligned_train_20240223_20250601_report-holding.png",
+    "/Users/ch/Documents/Codex/2026-06-14/chenhong1875435468-trading-https-github-com-chenhong1875435468/python/reports/mt5_runs/baseline_m15_aligned_train_20240223_20250601/baseline_m15_aligned_train_20240223_20250601_report-hst.png",
+    "/Users/ch/Documents/Codex/2026-06-14/chenhong1875435468-trading-https-github-com-chenhong1875435468/python/reports/mt5_runs/baseline_m15_aligned_train_20240223_20250601/baseline_m15_aligned_train_20240223_20250601_report-mfemae.png",
+    "/Users/ch/Documents/Codex/2026-06-14/chenhong1875435468-trading-https-github-com-chenhong1875435468/python/reports/mt5_runs/baseline_m15_aligned_train_20240223_20250601/baseline_m15_aligned_train_20240223_20250601_report.htm",
+    "/Users/ch/Documents/Codex/2026-06-14/chenhong1875435468-trading-https-github-com-chenhong1875435468/python/reports/mt5_runs/baseline_m15_aligned_train_20240223_20250601/baseline_m15_aligned_train_20240223_20250601_report.png"
+  ],
+  "metrics": {
+    "net_profit": 34.69,
+    "gross_profit": 138.7,
+    "gross_loss": -104.01,
+    "profit_factor": 1.33,
+    "expected_payoff": 0.79,
+    "sharpe_ratio": 4.24,
+    "total_trades": 44,
+    "deals": 88,
+    "max_balance_drawdown": 30.96,
+    "max_equity_drawdown": 45.22,
+    "relative_balance_drawdown": 24.08,
+    "relative_equity_drawdown": 31.01,
+    "winning_trades": 24,
+    "losing_trades": 20,
+    "largest_profit_trade": 45.38,
+    "largest_loss_trade": -16.49,
+    "average_profit_trade": 5.78,
+    "average_loss_trade": -5.2
+  }
+}
