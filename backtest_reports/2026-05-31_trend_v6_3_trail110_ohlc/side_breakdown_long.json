@@ -1,0 +1,18 @@
+﻿[
+    {
+        "Side":  "sell",
+        "Trades":  73,
+        "Wins":  41,
+        "WinRate":  "56.16%",
+        "Net":  "203.23",
+        "Avg":  "2.78"
+    },
+    {
+        "Side":  "buy",
+        "Trades":  17,
+        "Wins":  14,
+        "WinRate":  "82.35%",
+        "Net":  "18.12",
+        "Avg":  "1.07"
+    }
+]

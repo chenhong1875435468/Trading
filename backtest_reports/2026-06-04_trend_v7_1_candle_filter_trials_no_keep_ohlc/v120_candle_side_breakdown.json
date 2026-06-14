@@ -1,0 +1,98 @@
+﻿[
+    {
+        "Report":  "v120_base_Test2024_2025_ohlc",
+        "Side":  "buy",
+        "Trades":  7,
+        "Net":  -6.09,
+        "Wins":  5,
+        "Losses":  2
+    },
+    {
+        "Report":  "v120_base_Test2024_2025_ohlc",
+        "Side":  "sell",
+        "Trades":  27,
+        "Net":  39.28,
+        "Wins":  14,
+        "Losses":  13
+    },
+    {
+        "Report":  "v123_candle_momentum_Test2024_2025_ohlc",
+        "Side":  "buy",
+        "Trades":  5,
+        "Net":  -2.91,
+        "Wins":  4,
+        "Losses":  null
+    },
+    {
+        "Report":  "v123_candle_momentum_Test2024_2025_ohlc",
+        "Side":  "sell",
+        "Trades":  27,
+        "Net":  39.28,
+        "Wins":  14,
+        "Losses":  13
+    },
+    {
+        "Report":  "v120_base_Valid2025_2026_ohlc",
+        "Side":  "buy",
+        "Trades":  4,
+        "Net":  3.8,
+        "Wins":  4,
+        "Losses":  0
+    },
+    {
+        "Report":  "v120_base_Valid2025_2026_ohlc",
+        "Side":  "sell",
+        "Trades":  31,
+        "Net":  198.69,
+        "Wins":  21,
+        "Losses":  10
+    },
+    {
+        "Report":  "v123_candle_momentum_Valid2025_2026_ohlc",
+        "Side":  "buy",
+        "Trades":  4,
+        "Net":  -1.32,
+        "Wins":  3,
+        "Losses":  null
+    },
+    {
+        "Report":  "v123_candle_momentum_Valid2025_2026_ohlc",
+        "Side":  "sell",
+        "Trades":  31,
+        "Net":  198.69,
+        "Wins":  21,
+        "Losses":  10
+    },
+    {
+        "Report":  "v120_base_VeryLong2023_2026_ohlc",
+        "Side":  "buy",
+        "Trades":  15,
+        "Net":  16.62,
+        "Wins":  13,
+        "Losses":  2
+    },
+    {
+        "Report":  "v120_base_VeryLong2023_2026_ohlc",
+        "Side":  "sell",
+        "Trades":  76,
+        "Net":  242.92,
+        "Wins":  43,
+        "Losses":  33
+    },
+    {
+        "Report":  "v123_candle_momentum_VeryLong2023_2026_ohlc",
+        "Side":  "buy",
+        "Trades":  13,
+        "Net":  14.68,
+        "Wins":  11,
+        "Losses":  2
+    },
+    {
+        "Report":  "v123_candle_momentum_VeryLong2023_2026_ohlc",
+        "Side":  "sell",
+        "Trades":  76,
+        "Net":  242.92,
+        "Wins":  43,
+        "Losses":  33
+    }
+]

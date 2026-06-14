@@ -1,0 +1,119 @@
+﻿[
+    {
+        "Period":  "YearTo0604Pullback",
+        "EntryType":  "Breakout",
+        "Trades":  29,
+        "Net":  161.64,
+        "Wins":  21,
+        "Losses":  8,
+        "Avg":  5.57
+    },
+    {
+        "Period":  "YearTo0604Pullback",
+        "EntryType":  "Other",
+        "Trades":  5,
+        "Net":  40.35,
+        "Wins":  3,
+        "Losses":  2,
+        "Avg":  8.07
+    },
+    {
+        "Period":  "YearTo0604Pullback",
+        "EntryType":  "StructurePullback",
+        "Trades":  1,
+        "Net":  -7.26,
+        "Wins":  0,
+        "Losses":  null,
+        "Avg":  -7.26
+    },
+    {
+        "Period":  "YearTo0604Pullback",
+        "EntryType":  "Grid",
+        "Trades":  4,
+        "Net":  2.66,
+        "Wins":  3,
+        "Losses":  null,
+        "Avg":  0.66
+    },
+    {
+        "Period":  "LongTo0604Pullback",
+        "EntryType":  "Breakout",
+        "Trades":  75,
+        "Net":  225.92,
+        "Wins":  48,
+        "Losses":  27,
+        "Avg":  3.01
+    },
+    {
+        "Period":  "LongTo0604Pullback",
+        "EntryType":  "StructurePullback",
+        "Trades":  2,
+        "Net":  -15.98,
+        "Wins":  0,
+        "Losses":  2,
+        "Avg":  -7.99
+    },
+    {
+        "Period":  "LongTo0604Pullback",
+        "EntryType":  "Other",
+        "Trades":  8,
+        "Net":  30.03,
+        "Wins":  4,
+        "Losses":  4,
+        "Avg":  3.75
+    },
+    {
+        "Period":  "LongTo0604Pullback",
+        "EntryType":  "Grid",
+        "Trades":  4,
+        "Net":  2.66,
+        "Wins":  3,
+        "Losses":  null,
+        "Avg":  0.66
+    },
+    {
+        "Period":  "VeryLong2023Pullback",
+        "EntryType":  "Breakout",
+        "Trades":  84,
+        "Net":  227.33,
+        "Wins":  52,
+        "Losses":  32,
+        "Avg":  2.71
+    },
+    {
+        "Period":  "VeryLong2023Pullback",
+        "EntryType":  "Other",
+        "Trades":  9,
+        "Net":  27.08,
+        "Wins":  4,
+        "Losses":  5,
+        "Avg":  3.01
+    },
+    {
+        "Period":  "VeryLong2023Pullback",
+        "EntryType":  "StructurePullback",
+        "Trades":  2,
+        "Net":  -15.98,
+        "Wins":  0,
+        "Losses":  2,
+        "Avg":  -7.99
+    },
+    {
+        "Period":  "VeryLong2023Pullback",
+        "EntryType":  "Grid",
+        "Trades":  4,
+        "Net":  2.66,
+        "Wins":  3,
+        "Losses":  null,
+        "Avg":  0.66
+    },
+    {
+        "Period":  "LatestTo0604Pullback",
+        "EntryType":  "Breakout",
+        "Trades":  2,
+        "Net":  0.84,
+        "Wins":  null,
+        "Losses":  null,
+        "Avg":  0.42
+    }
+]

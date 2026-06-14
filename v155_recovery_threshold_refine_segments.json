@@ -1,0 +1,122 @@
+﻿[
+    {
+        "Threshold":  "7.00",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "Threshold":  "7.00",
+        "Period":  "train",
+        "Net":  "32.61",
+        "PF":  "2.49",
+        "EquityDD":  "10.06 (7.35%)",
+        "Trades":  "21"
+    },
+    {
+        "Threshold":  "7.00",
+        "Period":  "test",
+        "Net":  "3.57",
+        "PF":  "1.03",
+        "EquityDD":  "50.13 (41.18%)",
+        "Trades":  "40"
+    },
+    {
+        "Threshold":  "7.00",
+        "Period":  "valid",
+        "Net":  "228.14",
+        "PF":  "3.98",
+        "EquityDD":  "42.66 (23.10%)",
+        "Trades":  "32"
+    },
+    {
+        "Threshold":  "7.00",
+        "Period":  "verylong",
+        "Net":  "264.32",
+        "PF":  "2.23",
+        "EquityDD":  "50.13 (32.48%)",
+        "Trades":  "93"
+    },
+    {
+        "Threshold":  "7.50",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "Threshold":  "7.50",
+        "Period":  "train",
+        "Net":  "32.61",
+        "PF":  "2.49",
+        "EquityDD":  "10.06 (7.35%)",
+        "Trades":  "21"
+    },
+    {
+        "Threshold":  "7.50",
+        "Period":  "test",
+        "Net":  "19.38",
+        "PF":  "1.19",
+        "EquityDD":  "45.09 (34.03%)",
+        "Trades":  "39"
+    },
+    {
+        "Threshold":  "7.50",
+        "Period":  "valid",
+        "Net":  "228.14",
+        "PF":  "3.98",
+        "EquityDD":  "42.66 (23.10%)",
+        "Trades":  "32"
+    },
+    {
+        "Threshold":  "7.50",
+        "Period":  "verylong",
+        "Net":  "280.13",
+        "PF":  "2.40",
+        "EquityDD":  "46.75 (25.18%)",
+        "Trades":  "92"
+    },
+    {
+        "Threshold":  "8.00",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "Threshold":  "8.00",
+        "Period":  "train",
+        "Net":  "32.61",
+        "PF":  "2.49",
+        "EquityDD":  "10.06 (7.35%)",
+        "Trades":  "21"
+    },
+    {
+        "Threshold":  "8.00",
+        "Period":  "test",
+        "Net":  "19.38",
+        "PF":  "1.19",
+        "EquityDD":  "45.09 (34.03%)",
+        "Trades":  "39"
+    },
+    {
+        "Threshold":  "8.00",
+        "Period":  "valid",
+        "Net":  "228.14",
+        "PF":  "3.98",
+        "EquityDD":  "42.66 (23.10%)",
+        "Trades":  "32"
+    },
+    {
+        "Threshold":  "8.00",
+        "Period":  "verylong",
+        "Net":  "280.13",
+        "PF":  "2.40",
+        "EquityDD":  "46.75 (25.18%)",
+        "Trades":  "92"
+    }
+]

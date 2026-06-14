@@ -1,0 +1,67 @@
+﻿[
+    {
+        "Period":  "Train 2025.05.22-2026.01.22",
+        "NetProfit":  "175.88",
+        "ProfitFactor":  "1.11",
+        "ExpectedPayoff":  "0.51",
+        "Sharpe":  "2.07",
+        "Trades":  "347",
+        "SellTrades":  "126 (46.03%)",
+        "BuyTrades":  "221 (45.25%)",
+        "MaxBalanceDD":  "176.71 (51.95%)",
+        "MaxEquityDD":  "182.60 (53.22%)",
+        "RelBalanceDD":  "51.95% (176.71)"
+    },
+    {
+        "Period":  "Test 2026.01.22-2026.04.22",
+        "NetProfit":  "11.27",
+        "ProfitFactor":  "1.01",
+        "ExpectedPayoff":  "0.09",
+        "Sharpe":  "0.30",
+        "Trades":  "121",
+        "SellTrades":  "52 (42.31%)",
+        "BuyTrades":  "69 (39.13%)",
+        "MaxBalanceDD":  "385.34 (85.71%)",
+        "MaxEquityDD":  "454.09 (91.03%)",
+        "RelBalanceDD":  "85.71% (385.34)"
+    },
+    {
+        "Period":  "Valid 2026.04.22-2026.05.22",
+        "NetProfit":  "-92.39",
+        "ProfitFactor":  "0.34",
+        "ExpectedPayoff":  "-6.60",
+        "Sharpe":  "-5.00",
+        "Trades":  "14",
+        "SellTrades":  "13 (23.08%)",
+        "BuyTrades":  "1 (0.00%)",
+        "MaxBalanceDD":  "92.39 (92.39%)",
+        "MaxEquityDD":  "101.36 (93.02%)",
+        "RelBalanceDD":  "92.39% (92.39)"
+    },
+    {
+        "Period":  "Year 2025.05.22-2026.05.22",
+        "NetProfit":  "117.21",
+        "ProfitFactor":  "1.03",
+        "ExpectedPayoff":  "0.23",
+        "Sharpe":  "1.08",
+        "Trades":  "512",
+        "SellTrades":  "210 (44.29%)",
+        "BuyTrades":  "302 (43.38%)",
+        "MaxBalanceDD":  "483.35 (77.28%)",
+        "MaxEquityDD":  "543.13 (80.50%)",
+        "RelBalanceDD":  "77.28% (483.35)"
+    },
+    {
+        "Period":  "Long 2024.01.02-2026.05.22",
+        "NetProfit":  "389.88",
+        "ProfitFactor":  "1.07",
+        "ExpectedPayoff":  "0.33",
+        "Sharpe":  "1.09",
+        "Trades":  "1184",
+        "SellTrades":  "451 (39.02%)",
+        "BuyTrades":  "733 (42.97%)",
+        "MaxBalanceDD":  "483.35 (53.82%)",
+        "MaxEquityDD":  "543.13 (57.33%)",
+        "RelBalanceDD":  "93.80% (95.28)"
+    }
+]

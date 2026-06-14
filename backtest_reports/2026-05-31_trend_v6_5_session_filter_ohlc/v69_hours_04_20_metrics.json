@@ -1,0 +1,32 @@
+﻿[
+    {
+        "Period":  "YearCurrent",
+        "Net":  "162.97",
+        "PF":  "3.00",
+        "Trades":  "27",
+        "Win":  "19 (70.37%)",
+        "AvgWin":  "12.87",
+        "AvgLoss":  "-10.02",
+        "MaxDD":  "36.51 (21.88%)"
+    },
+    {
+        "Period":  "LongCurrent",
+        "Net":  "182.45",
+        "PF":  "2.07",
+        "Trades":  "65",
+        "Win":  "41 (63.08%)",
+        "AvgWin":  "8.62",
+        "AvgLoss":  "-7.00",
+        "MaxDD":  "36.51 (19.59%)"
+    },
+    {
+        "Period":  "Latest",
+        "Net":  "0.74",
+        "PF":  "1.07",
+        "Trades":  "2",
+        "Win":  "1 (50.00%)",
+        "AvgWin":  "10.94",
+        "AvgLoss":  "-10.10",
+        "MaxDD":  "10.20 (10.20%)"
+    }
+]

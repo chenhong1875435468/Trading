@@ -1,0 +1,82 @@
+﻿[
+    {
+        "Variant":  "base",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "Variant":  "base",
+        "Period":  "verylong",
+        "Net":  "281.79",
+        "PF":  "2.27",
+        "EquityDD":  "48.42 (28.51%)",
+        "Trades":  "99"
+    },
+    {
+        "Variant":  "move22_rsi26",
+        "Period":  "latest",
+        "Net":  "-5.77",
+        "PF":  "0.66",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "4"
+    },
+    {
+        "Variant":  "move22_rsi26",
+        "Period":  "verylong",
+        "Net":  "243.96",
+        "PF":  "1.95",
+        "EquityDD":  "68.76 (35.55%)",
+        "Trades":  "111"
+    },
+    {
+        "Variant":  "move25_rsi25",
+        "Period":  "latest",
+        "Net":  "-5.77",
+        "PF":  "0.66",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "4"
+    },
+    {
+        "Variant":  "move25_rsi25",
+        "Period":  "verylong",
+        "Net":  "232.53",
+        "PF":  "1.87",
+        "EquityDD":  "68.76 (37.78%)",
+        "Trades":  "113"
+    },
+    {
+        "Variant":  "move22_rsi26_body35",
+        "Period":  "latest",
+        "Net":  "-5.77",
+        "PF":  "0.66",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "4"
+    },
+    {
+        "Variant":  "move22_rsi26_body35",
+        "Period":  "verylong",
+        "Net":  "233.39",
+        "PF":  "1.85",
+        "EquityDD":  "68.76 (34.68%)",
+        "Trades":  "117"
+    },
+    {
+        "Variant":  "move22_rsi26_close60",
+        "Period":  "latest",
+        "Net":  "-5.77",
+        "PF":  "0.66",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "4"
+    },
+    {
+        "Variant":  "move22_rsi26_close60",
+        "Period":  "verylong",
+        "Net":  "276.67",
+        "PF":  "2.14",
+        "EquityDD":  "68.76 (30.41%)",
+        "Trades":  "114"
+    }
+]

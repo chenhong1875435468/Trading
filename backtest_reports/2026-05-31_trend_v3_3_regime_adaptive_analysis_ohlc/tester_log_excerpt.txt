@@ -1,0 +1,120 @@
+﻿DQ	0	00:26:20.200	Core 01	  InpStrategyMode=0
+IG	0	00:26:20.200	Core 01	  InpMaxStopPoints=3500
+HH	0	00:26:20.200	Core 01	final balance 219.86 USD
+PO	0	00:26:20.200	Core 01	2026.05.21 23:58:59   Diagnostics summary | bars=56643 trendUp=1170 trendDown=753 range=10955 unclear=43765 buySignals=292 sellSignals=216 blocked=132 attempts=376 success=376
+JG	0	00:26:20.200	Core 01	2026.05.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=123 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=8 stopTooSmall=1 lot=0 actualRisk=0 unknown=0
+IF	0	00:27:27.719	Core 01	  InpStrategyMode=0
+DS	0	00:27:27.719	Core 01	  InpMaxStopPoints=3500
+NF	0	00:27:27.719	Core 01	final balance 44.05 USD
+IS	0	00:27:27.719	Core 01	2026.01.21 23:58:59   Diagnostics summary | bars=15871 trendUp=349 trendDown=185 range=3208 unclear=12129 buySignals=90 sellSignals=52 blocked=34 attempts=108 success=108
+CJ	0	00:27:27.719	Core 01	2026.01.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=33 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=1 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+EO	0	00:27:35.044	Core 01	  InpStrategyMode=0
+HI	0	00:27:35.044	Core 01	  InpMaxStopPoints=3500
+LP	0	00:27:35.044	Core 01	final balance 54.82 USD
+RI	0	00:27:35.044	Core 01	2026.04.21 23:58:59   Diagnostics summary | bars=5801 trendUp=86 trendDown=89 range=1189 unclear=4437 buySignals=23 sellSignals=20 blocked=15 attempts=28 success=28
+NS	0	00:27:35.044	Core 01	2026.04.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=8 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=7 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+KH	0	00:27:41.182	Core 01	  InpStrategyMode=0
+NP	0	00:27:41.182	Core 01	  InpMaxStopPoints=3500
+NQ	0	00:27:41.182	Core 01	final balance 146.66 USD
+MD	0	00:27:41.182	Core 01	2026.05.21 23:58:59   Diagnostics summary | bars=2031 trendUp=16 trendDown=57 range=503 unclear=1455 buySignals=6 sellSignals=18 blocked=4 attempts=20 success=20
+FL	0	00:27:41.182	Core 01	2026.05.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=4 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=0 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+FD	0	00:27:48.748	Core 01	  InpStrategyMode=0
+GD	0	00:27:48.748	Core 01	  InpMaxStopPoints=3500
+OG	0	00:27:48.748	Core 01	final balance -4.73 USD
+RQ	0	00:27:48.748	Core 01	2026.05.21 23:58:59   Diagnostics summary | bars=23703 trendUp=451 trendDown=331 range=4900 unclear=18021 buySignals=119 sellSignals=90 blocked=49 attempts=160 success=134
+HJ	0	00:27:48.748	Core 01	2026.05.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=41 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=8 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+FO	0	00:27:55.731	Core 01	  InpStrategyMode=0
+CI	0	00:27:55.731	Core 01	  InpMaxStopPoints=3500
+RI	0	00:27:55.731	Core 01	final balance 219.86 USD
+JM	0	00:27:55.731	Core 01	2026.05.21 23:58:59   Diagnostics summary | bars=56643 trendUp=1170 trendDown=753 range=10955 unclear=43765 buySignals=292 sellSignals=216 blocked=132 attempts=376 success=376
+DE	0	00:27:55.731	Core 01	2026.05.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=123 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=8 stopTooSmall=1 lot=0 actualRisk=0 unknown=0
+HD	0	00:30:03.525	Core 01	  InpStrategyMode=0
+QE	0	00:30:03.525	Core 01	  InpMaxStopPoints=3500
+CD	0	00:30:03.525	Core 01	final balance 44.05 USD
+LE	0	00:30:03.525	Core 01	2026.01.21 23:58:59   Diagnostics summary | bars=15871 trendUp=349 trendDown=185 range=3208 unclear=12129 buySignals=90 sellSignals=52 blocked=34 attempts=108 success=108
+RL	0	00:30:03.525	Core 01	2026.01.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=33 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=1 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+CN	0	00:30:12.395	Core 01	  InpStrategyMode=0
+NK	0	00:30:12.395	Core 01	  InpMaxStopPoints=3500
+FN	0	00:30:12.395	Core 01	final balance 54.82 USD
+DK	0	00:30:12.395	Core 01	2026.04.21 23:58:59   Diagnostics summary | bars=5801 trendUp=86 trendDown=89 range=1189 unclear=4437 buySignals=23 sellSignals=20 blocked=15 attempts=28 success=28
+HQ	0	00:30:12.395	Core 01	2026.04.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=8 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=7 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+LF	0	00:30:18.929	Core 01	  InpStrategyMode=0
+QR	0	00:30:18.929	Core 01	  InpMaxStopPoints=3500
+MS	0	00:30:18.929	Core 01	final balance 146.66 USD
+NJ	0	00:30:18.929	Core 01	2026.05.21 23:58:59   Diagnostics summary | bars=2031 trendUp=16 trendDown=57 range=503 unclear=1455 buySignals=6 sellSignals=18 blocked=4 attempts=20 success=20
+IR	0	00:30:18.929	Core 01	2026.05.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=4 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=0 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+GS	0	00:30:26.387	Core 01	  InpStrategyMode=0
+RF	0	00:30:26.387	Core 01	  InpMaxStopPoints=3500
+JE	0	00:30:26.387	Core 01	final balance -4.73 USD
+KF	0	00:30:26.387	Core 01	2026.05.21 23:58:59   Diagnostics summary | bars=23703 trendUp=451 trendDown=331 range=4900 unclear=18021 buySignals=119 sellSignals=90 blocked=49 attempts=160 success=134
+QL	0	00:30:26.387	Core 01	2026.05.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=41 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=8 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+GM	0	00:30:35.330	Core 01	  InpStrategyMode=0
+FK	0	00:30:35.330	Core 01	  InpMaxStopPoints=3500
+KK	0	00:30:35.330	Core 01	final balance 219.86 USD
+CS	0	00:30:35.330	Core 01	2026.05.21 23:58:59   Diagnostics summary | bars=56643 trendUp=1170 trendDown=753 range=10955 unclear=43765 buySignals=292 sellSignals=216 blocked=132 attempts=376 success=376
+MD	0	00:30:35.330	Core 01	2026.05.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=123 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=8 stopTooSmall=1 lot=0 actualRisk=0 unknown=0
+QF	0	00:33:19.114	Core 01	  InpMaxStopPoints=3500
+IJ	0	00:33:19.114	Core 01	final balance 67.95 USD
+PO	0	00:33:19.114	Core 01	2026.01.21 23:58:59   Diagnostics summary | bars=15871 trendUp=349 trendDown=185 range=3208 unclear=12129 buySignals=75 sellSignals=38 blocked=28 attempts=85 success=85
+CF	0	00:33:19.114	Core 01	2026.01.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=27 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=1 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+IE	0	00:33:52.100	Core 01	  InpMaxStopPoints=3500
+DL	0	00:33:52.100	Core 01	final balance 6.02 USD
+HK	0	00:33:52.100	Core 01	2026.04.21 23:58:59   Diagnostics summary | bars=5801 trendUp=86 trendDown=89 range=1189 unclear=4437 buySignals=18 sellSignals=15 blocked=8 attempts=25 success=6
+RQ	0	00:33:52.100	Core 01	2026.04.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=1 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=7 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+LG	0	00:33:59.050	Core 01	  InpMaxStopPoints=3500
+LP	0	00:33:59.050	Core 01	final balance 117.28 USD
+RD	0	00:33:59.050	Core 01	2026.05.21 23:58:59   Diagnostics summary | bars=2031 trendUp=16 trendDown=57 range=503 unclear=1455 buySignals=2 sellSignals=13 blocked=2 attempts=13 success=13
+HM	0	00:33:59.050	Core 01	2026.05.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=2 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=0 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+CS	0	00:34:06.076	Core 01	  InpMaxStopPoints=3500
+QD	0	00:34:06.076	Core 01	final balance 6.56 USD
+HP	0	00:34:06.076	Core 01	2026.05.21 23:58:59   Diagnostics summary | bars=23703 trendUp=451 trendDown=331 range=4900 unclear=18021 buySignals=95 sellSignals=66 blocked=36 attempts=125 success=89
+MJ	0	00:34:06.076	Core 01	2026.05.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=28 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=8 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+GI	0	00:34:16.507	Core 01	  InpMaxStopPoints=3500
+NQ	0	00:34:16.507	Core 01	final balance 164.52 USD
+EE	0	00:34:16.507	Core 01	2026.05.21 23:58:59   Diagnostics summary | bars=56643 trendUp=1170 trendDown=753 range=10955 unclear=43765 buySignals=255 sellSignals=149 blocked=113 attempts=291 success=291
+ON	0	00:34:16.507	Core 01	2026.05.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=105 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=8 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+CL	0	00:35:55.246	Core 01	  InpMaxStopPoints=3500
+CE	0	00:35:55.246	Core 01	final balance 67.95 USD
+FE	0	00:35:55.246	Core 01	2026.01.21 23:58:59   Diagnostics summary | bars=15871 trendUp=349 trendDown=185 range=3208 unclear=12129 buySignals=75 sellSignals=38 blocked=28 attempts=85 success=85
+QL	0	00:35:55.246	Core 01	2026.01.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=27 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=1 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+EK	0	00:36:03.347	Core 01	  InpMaxStopPoints=3500
+HJ	0	00:36:03.347	Core 01	final balance 6.02 USD
+LN	0	00:36:03.347	Core 01	2026.04.21 23:58:59   Diagnostics summary | bars=5801 trendUp=86 trendDown=89 range=1189 unclear=4437 buySignals=18 sellSignals=15 blocked=8 attempts=25 success=6
+NK	0	00:36:03.347	Core 01	2026.04.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=1 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=7 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+GM	0	00:36:11.335	Core 01	  InpMaxStopPoints=3500
+ON	0	00:36:11.335	Core 01	final balance 117.28 USD
+MI	0	00:36:11.335	Core 01	2026.05.21 23:58:59   Diagnostics summary | bars=2031 trendUp=16 trendDown=57 range=503 unclear=1455 buySignals=2 sellSignals=13 blocked=2 attempts=13 success=13
+KG	0	00:36:11.335	Core 01	2026.05.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=2 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=0 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+LI	0	00:36:18.890	Core 01	  InpMaxStopPoints=3500
+JR	0	00:36:18.890	Core 01	final balance 6.56 USD
+GJ	0	00:36:18.890	Core 01	2026.05.21 23:58:59   Diagnostics summary | bars=23703 trendUp=451 trendDown=331 range=4900 unclear=18021 buySignals=95 sellSignals=66 blocked=36 attempts=125 success=89
+NO	0	00:36:18.890	Core 01	2026.05.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=28 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=8 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+RO	0	00:36:26.730	Core 01	  InpMaxStopPoints=3500
+CO	0	00:36:26.730	Core 01	final balance 164.52 USD
+LN	0	00:36:26.730	Core 01	2026.05.21 23:58:59   Diagnostics summary | bars=56643 trendUp=1170 trendDown=753 range=10955 unclear=43765 buySignals=255 sellSignals=149 blocked=113 attempts=291 success=291
+JP	0	00:36:26.730	Core 01	2026.05.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=105 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=8 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+LG	0	00:38:37.281	Core 01	  InpStrategyMode=0
+QR	0	00:38:37.281	Core 01	  InpMaxStopPoints=3500
+OG	0	00:38:37.281	Core 01	final balance 44.05 USD
+DS	0	00:38:37.281	Core 01	2026.01.21 23:58:59   Diagnostics summary | bars=15871 trendUp=349 trendDown=185 range=3208 unclear=12129 buySignals=90 sellSignals=52 blocked=34 attempts=108 success=108
+RI	0	00:38:37.281	Core 01	2026.01.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=33 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=1 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+DP	0	00:38:44.078	Core 01	  InpStrategyMode=0
+IH	0	00:38:44.078	Core 01	  InpMaxStopPoints=3500
+EQ	0	00:38:44.078	Core 01	final balance 54.82 USD
+GI	0	00:38:44.078	Core 01	2026.04.21 23:58:59   Diagnostics summary | bars=5801 trendUp=86 trendDown=89 range=1189 unclear=4437 buySignals=23 sellSignals=20 blocked=15 attempts=28 success=28
+CS	0	00:38:44.078	Core 01	2026.04.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=8 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=7 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+PI	0	00:38:50.949	Core 01	  InpStrategyMode=0
+IP	0	00:38:50.949	Core 01	  InpMaxStopPoints=3500
+IP	0	00:38:50.949	Core 01	final balance 146.66 USD
+JD	0	00:38:50.949	Core 01	2026.05.21 23:58:59   Diagnostics summary | bars=2031 trendUp=16 trendDown=57 range=503 unclear=1455 buySignals=6 sellSignals=18 blocked=4 attempts=20 success=20
+QM	0	00:38:50.949	Core 01	2026.05.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=4 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=0 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+FE	0	00:39:00.491	Core 01	  InpStrategyMode=0
+GS	0	00:39:00.491	Core 01	  InpMaxStopPoints=3500
+GF	0	00:39:00.491	Core 01	final balance -4.73 USD
+RP	0	00:39:00.491	Core 01	2026.05.21 23:58:59   Diagnostics summary | bars=23703 trendUp=451 trendDown=331 range=4900 unclear=18021 buySignals=119 sellSignals=90 blocked=49 attempts=160 success=134
+HI	0	00:39:00.491	Core 01	2026.05.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=41 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=8 stopTooSmall=0 lot=0 actualRisk=0 unknown=0
+OP	0	00:39:10.550	Core 01	  InpStrategyMode=0
+JI	0	00:39:10.550	Core 01	  InpMaxStopPoints=3500
+KI	0	00:39:10.550	Core 01	final balance 219.86 USD
+CL	0	00:39:10.550	Core 01	2026.05.21 23:58:59   Diagnostics summary | bars=56643 trendUp=1170 trendDown=753 range=10955 unclear=43765 buySignals=292 sellSignals=216 blocked=132 attempts=376 success=376
+QF	0	00:39:10.550	Core 01	2026.05.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=123 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=8 stopTooSmall=1 lot=0 actualRisk=0 unknown=0

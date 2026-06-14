@@ -1,0 +1,65 @@
+﻿[
+    {
+        "Period":  "YearTo0604Pullback",
+        "Kind":  "Trend",
+        "Trades":  35,
+        "Net":  194.73,
+        "Wins":  24,
+        "Losses":  11,
+        "Avg":  5.56
+    },
+    {
+        "Period":  "YearTo0604Pullback",
+        "Kind":  "Grid",
+        "Trades":  4,
+        "Net":  2.66,
+        "Wins":  3,
+        "Losses":  null,
+        "Avg":  0.66
+    },
+    {
+        "Period":  "LongTo0604Pullback",
+        "Kind":  "Trend",
+        "Trades":  85,
+        "Net":  239.97,
+        "Wins":  52,
+        "Losses":  33,
+        "Avg":  2.82
+    },
+    {
+        "Period":  "LongTo0604Pullback",
+        "Kind":  "Grid",
+        "Trades":  4,
+        "Net":  2.66,
+        "Wins":  3,
+        "Losses":  null,
+        "Avg":  0.66
+    },
+    {
+        "Period":  "VeryLong2023Pullback",
+        "Kind":  "Trend",
+        "Trades":  95,
+        "Net":  238.43,
+        "Wins":  56,
+        "Losses":  39,
+        "Avg":  2.51
+    },
+    {
+        "Period":  "VeryLong2023Pullback",
+        "Kind":  "Grid",
+        "Trades":  4,
+        "Net":  2.66,
+        "Wins":  3,
+        "Losses":  null,
+        "Avg":  0.66
+    },
+    {
+        "Period":  "LatestTo0604Pullback",
+        "Kind":  "Trend",
+        "Trades":  2,
+        "Net":  0.84,
+        "Wins":  null,
+        "Losses":  null,
+        "Avg":  0.42
+    }
+]

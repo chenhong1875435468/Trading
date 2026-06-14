@@ -1,0 +1,72 @@
+﻿[
+    {
+        "Period":  "Train",
+        "Sweep":  "true",
+        "Net":  "-24.39",
+        "PF":  "0.86",
+        "Trades":  "44",
+        "WinTrades":  "20 (45.45%)",
+        "LossTrades":  "24 (54.55%)",
+        "AvgWin":  "7.69",
+        "AvgLoss":  "-7.33",
+        "MaxLoss":  "-16.18",
+        "MaxDD":  "101.90 (57.55%)",
+        "RelDD":  "57.55% (101.90)"
+    },
+    {
+        "Period":  "Test",
+        "Sweep":  "true",
+        "Net":  "60.39",
+        "PF":  "1.74",
+        "Trades":  "9",
+        "WinTrades":  "5 (55.56%)",
+        "LossTrades":  "4 (44.44%)",
+        "AvgWin":  "28.41",
+        "AvgLoss":  "-20.30",
+        "MaxLoss":  "-24.70",
+        "MaxDD":  "38.13 (20.53%)",
+        "RelDD":  "20.53% (38.13)"
+    },
+    {
+        "Period":  "Valid",
+        "Sweep":  "true",
+        "Net":  "57.60",
+        "PF":  "2.21",
+        "Trades":  "11",
+        "WinTrades":  "7 (63.64%)",
+        "LossTrades":  "4 (36.36%)",
+        "AvgWin":  "15.03",
+        "AvgLoss":  "-11.77",
+        "MaxLoss":  "-20.43",
+        "MaxDD":  "30.05 (25.08%)",
+        "RelDD":  "25.08% (30.05)"
+    },
+    {
+        "Period":  "Year",
+        "Sweep":  "true",
+        "Net":  "93.60",
+        "PF":  "1.30",
+        "Trades":  "64",
+        "WinTrades":  "32 (50.00%)",
+        "LossTrades":  "32 (50.00%)",
+        "AvgWin":  "12.53",
+        "AvgLoss":  "-9.51",
+        "MaxLoss":  "-24.70",
+        "MaxDD":  "101.90 (57.55%)",
+        "RelDD":  "57.55% (101.90)"
+    },
+    {
+        "Period":  "Long",
+        "Sweep":  "true",
+        "Net":  "89.02",
+        "PF":  "1.14",
+        "Trades":  "167",
+        "WinTrades":  "77 (46.11%)",
+        "LossTrades":  "90 (53.89%)",
+        "AvgWin":  "9.17",
+        "AvgLoss":  "-6.76",
+        "MaxLoss":  "-24.70",
+        "MaxDD":  "101.90 (59.08%)",
+        "RelDD":  "59.08% (101.90)"
+    }
+]

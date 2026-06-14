@@ -1,0 +1,72 @@
+﻿[
+    {
+        "Window":  "2023H1",
+        "From":  "2023.01.02",
+        "To":  "2023.07.01",
+        "Net":  "0.00",
+        "PF":  "0.00",
+        "EquityDD":  "0.00 (0.00%)",
+        "Trades":  "0",
+        "Report":  "roll6m_candle2_maxlossr090_2023H1.htm"
+    },
+    {
+        "Window":  "2023H2",
+        "From":  "2023.07.01",
+        "To":  "2024.01.01",
+        "Net":  "19.66",
+        "PF":  "3.33",
+        "EquityDD":  "9.15 (7.68%)",
+        "Trades":  "11",
+        "Report":  "roll6m_candle2_maxlossr090_2023H2.htm"
+    },
+    {
+        "Window":  "2024H1",
+        "From":  "2024.01.01",
+        "To":  "2024.07.01",
+        "Net":  "39.68",
+        "PF":  "3.55",
+        "EquityDD":  "11.47 (8.77%)",
+        "Trades":  "16",
+        "Report":  "roll6m_candle2_maxlossr090_2024H1.htm"
+    },
+    {
+        "Window":  "2024H2",
+        "From":  "2024.07.01",
+        "To":  "2025.01.01",
+        "Net":  "-5.49",
+        "PF":  "0.86",
+        "EquityDD":  "31.88 (30.37%)",
+        "Trades":  "18",
+        "Report":  "roll6m_candle2_maxlossr090_2024H2.htm"
+    },
+    {
+        "Window":  "2025H1",
+        "From":  "2025.01.01",
+        "To":  "2025.07.01",
+        "Net":  "35.38",
+        "PF":  "1.71",
+        "EquityDD":  "45.09 (34.44%)",
+        "Trades":  "17",
+        "Report":  "roll6m_candle2_maxlossr090_2025H1.htm"
+    },
+    {
+        "Window":  "2025H2",
+        "From":  "2025.07.01",
+        "To":  "2026.01.01",
+        "Net":  "31.22",
+        "PF":  "1.68",
+        "EquityDD":  "42.66 (24.96%)",
+        "Trades":  "17",
+        "Report":  "roll6m_candle2_maxlossr090_2025H2.htm"
+    },
+    {
+        "Window":  "2026H1",
+        "From":  "2026.01.01",
+        "To":  "2026.06.06",
+        "Net":  "183.09",
+        "PF":  "7.28",
+        "EquityDD":  "41.30 (14.27%)",
+        "Trades":  "14",
+        "Report":  "roll6m_candle2_maxlossr090_2026H1.htm"
+    }
+]

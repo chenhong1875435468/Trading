@@ -1,0 +1,46 @@
+﻿[
+    {
+        "Period":  "YearTo0604GridV2",
+        "Net":  "181.32",
+        "PF":  "2.25",
+        "Trades":  "40",
+        "Win":  "26 (65.00%)",
+        "AvgWin":  "12.54",
+        "AvgLoss":  "-10.20",
+        "MaxLoss":  "-19.17",
+        "MaxDD":  "30.33 (19.13%)"
+    },
+    {
+        "Period":  "LongTo0604GridV2",
+        "Net":  "248.08",
+        "PF":  "1.95",
+        "Trades":  "91",
+        "Win":  "54 (59.34%)",
+        "AvgWin":  "9.42",
+        "AvgLoss":  "-6.92",
+        "MaxLoss":  "-19.17",
+        "MaxDD":  "30.33 (13.46%)"
+    },
+    {
+        "Period":  "VeryLong2023GridV2",
+        "Net":  "242.11",
+        "PF":  "1.87",
+        "Trades":  "104",
+        "Win":  "58 (55.77%)",
+        "AvgWin":  "8.98",
+        "AvgLoss":  "-5.94",
+        "MaxLoss":  "-19.17",
+        "MaxDD":  "30.33 (13.83%)"
+    },
+    {
+        "Period":  "LatestTo0604GridV2",
+        "Net":  "0.74",
+        "PF":  "1.07",
+        "Trades":  "2",
+        "Win":  "1 (50.00%)",
+        "AvgWin":  "10.94",
+        "AvgLoss":  "-10.10",
+        "MaxLoss":  "-10.10",
+        "MaxDD":  "10.20 (10.20%)"
+    }
+]

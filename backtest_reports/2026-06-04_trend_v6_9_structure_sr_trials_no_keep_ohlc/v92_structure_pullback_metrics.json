@@ -1,0 +1,46 @@
+﻿[
+    {
+        "Period":  "YearTo0604Pullback",
+        "Net":  "195.12",
+        "PF":  "2.48",
+        "Trades":  "39",
+        "Win":  "26 (66.67%)",
+        "AvgWin":  "12.59",
+        "AvgLoss":  "-10.01",
+        "MaxLoss":  "-18.12",
+        "MaxDD":  "36.29 (20.88%)"
+    },
+    {
+        "Period":  "LongTo0604Pullback",
+        "Net":  "241.90",
+        "PF":  "1.95",
+        "Trades":  "89",
+        "Win":  "52 (58.43%)",
+        "AvgWin":  "9.54",
+        "AvgLoss":  "-6.75",
+        "MaxLoss":  "-18.12",
+        "MaxDD":  "36.29 (16.45%)"
+    },
+    {
+        "Period":  "VeryLong2023Pullback",
+        "Net":  "240.83",
+        "PF":  "1.90",
+        "Trades":  "99",
+        "Win":  "56 (56.57%)",
+        "AvgWin":  "9.08",
+        "AvgLoss":  "-6.11",
+        "MaxLoss":  "-18.12",
+        "MaxDD":  "36.29 (16.53%)"
+    },
+    {
+        "Period":  "LatestTo0604Pullback",
+        "Net":  "0.74",
+        "PF":  "1.07",
+        "Trades":  "2",
+        "Win":  "1 (50.00%)",
+        "AvgWin":  "10.94",
+        "AvgLoss":  "-10.10",
+        "MaxLoss":  "-10.10",
+        "MaxDD":  "10.20 (10.20%)"
+    }
+]

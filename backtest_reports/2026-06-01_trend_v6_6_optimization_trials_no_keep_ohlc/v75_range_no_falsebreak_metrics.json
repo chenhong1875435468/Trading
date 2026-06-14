@@ -1,0 +1,38 @@
+﻿[
+    {
+        "Period":  "YearCurrent",
+        "Net":  "199.42",
+        "PF":  "2.96",
+        "Trades":  "32",
+        "Win":  "22 (68.75%)",
+        "RangeTrades":  null,
+        "RangeNet":  1.51,
+        "TrendTrades":  31,
+        "TrendNet":  199.83,
+        "MaxDD":  "23.85 (14.19%)"
+    },
+    {
+        "Period":  "LongCurrent",
+        "Net":  "256.75",
+        "PF":  "2.21",
+        "Trades":  "79",
+        "Win":  "47 (59.49%)",
+        "RangeTrades":  null,
+        "RangeNet":  1.51,
+        "TrendTrades":  78,
+        "TrendNet":  255.47,
+        "MaxDD":  "23.85 (10.58%)"
+    },
+    {
+        "Period":  "Latest",
+        "Net":  "0.74",
+        "PF":  "1.07",
+        "Trades":  "2",
+        "Win":  "1 (50.00%)",
+        "RangeTrades":  0,
+        "RangeNet":  0,
+        "TrendTrades":  2,
+        "TrendNet":  0.84,
+        "MaxDD":  "10.20 (10.20%)"
+    }
+]

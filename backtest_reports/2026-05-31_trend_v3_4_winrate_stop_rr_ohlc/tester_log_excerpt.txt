@@ -1,0 +1,180 @@
+﻿ED	0	01:06:25.513	Core 01	2026.03.12 22:15:00   position modified [#302 sell 0.01 XAUUSD 5112.00 sl: 5099.97 tp: 5077.21]
+JJ	0	01:06:25.513	Core 01	2026.03.12 22:15:00   Position #302 Moved SL to 5099.97 (ATR trail)
+DI	0	01:06:25.513	Core 01	2026.03.12 23:21:40   take profit triggered #302 sell 0.01 XAUUSD 5112.00 sl: 5099.97 tp: 5077.21 [#303 buy 0.01 XAUUSD at 5077.21]
+NH	0	01:06:25.513	Core 01	2026.03.12 23:21:40   deal #303 buy 0.01 XAUUSD at 5077.21 done (based on order #303)
+FE	0	01:06:25.513	Core 01	2026.03.12 23:21:40   deal performed [#303 buy 0.01 XAUUSD at 5077.21]
+LK	0	01:06:25.513	Core 01	2026.03.12 23:21:40   order performed buy 0.01 at 5077.21 [#303 buy 0.01 XAUUSD at 5077.21]
+QK	0	01:06:25.513	Core 01	2026.03.16 19:30:00   market sell 0.01 XAUUSD sl: 4998.94 tp: 4945.60 (4979.89 / 4980.00 / 4979.89)
+OH	0	01:06:25.513	Core 01	2026.03.16 19:30:00   deal #304 sell 0.01 XAUUSD at 4979.89 done (based on order #304)
+HQ	0	01:06:25.513	Core 01	2026.03.16 19:30:00   deal performed [#304 sell 0.01 XAUUSD at 4979.89]
+PP	0	01:06:25.513	Core 01	2026.03.16 19:30:00   order performed sell 0.01 at 4979.89 [#304 sell 0.01 XAUUSD at 4979.89]
+HM	0	01:06:25.513	Core 01	2026.03.16 19:30:00   Order opened: SELL 0.01 lots, SL 4998.94, TP 4945.60 | Trend sell v3: closed M5 breakdown in strong downtrend
+KN	0	01:06:25.513	Core 01	2026.03.16 20:10:40   stop loss triggered #304 sell 0.01 XAUUSD 4979.89 sl: 4998.94 tp: 4945.60 [#305 buy 0.01 XAUUSD at 4998.94]
+RF	0	01:06:25.513	Core 01	2026.03.16 20:10:40   deal #305 buy 0.01 XAUUSD at 4998.94 done (based on order #305)
+PO	0	01:06:25.513	Core 01	2026.03.16 20:10:40   deal performed [#305 buy 0.01 XAUUSD at 4998.94]
+CQ	0	01:06:25.513	Core 01	2026.03.16 20:10:40   order performed buy 0.01 at 4998.94 [#305 buy 0.01 XAUUSD at 4998.94]
+OQ	0	01:06:25.513	Core 01	2026.03.16 20:45:00   market sell 0.01 XAUUSD sl: 5006.70 tp: 4953.70 (4987.77 / 4987.88 / 4987.77)
+QR	0	01:06:25.513	Core 01	2026.03.16 20:45:00   deal #306 sell 0.01 XAUUSD at 4987.77 done (based on order #306)
+HO	0	01:06:25.513	Core 01	2026.03.16 20:45:00   deal performed [#306 sell 0.01 XAUUSD at 4987.77]
+LG	0	01:06:25.513	Core 01	2026.03.16 20:45:00   order performed sell 0.01 at 4987.77 [#306 sell 0.01 XAUUSD at 4987.77]
+OG	0	01:06:25.513	Core 01	2026.03.16 20:45:00   Order opened: SELL 0.01 lots, SL 5006.70, TP 4953.70 | Trend sell: ADX strong, HTF down, pullback resumed
+PD	0	01:06:25.513	Core 01	2026.03.16 21:27:40   stop loss triggered #306 sell 0.01 XAUUSD 4987.77 sl: 5006.70 tp: 4953.70 [#307 buy 0.01 XAUUSD at 5006.70]
+PL	0	01:06:25.513	Core 01	2026.03.16 21:27:40   deal #307 buy 0.01 XAUUSD at 5006.70 done (based on order #307)
+DQ	0	01:06:25.513	Core 01	2026.03.16 21:27:40   deal performed [#307 buy 0.01 XAUUSD at 5006.70]
+DG	0	01:06:25.513	Core 01	2026.03.16 21:27:40   order performed buy 0.01 at 5006.70 [#307 buy 0.01 XAUUSD at 5006.70]
+RG	0	01:06:25.513	Core 01	2026.03.18 13:05:00   market sell 0.01 XAUUSD sl: 4999.58 tp: 4970.32 (4989.13 / 4989.24 / 4989.13)
+ID	0	01:06:25.513	Core 01	2026.03.18 13:05:00   deal #308 sell 0.01 XAUUSD at 4989.13 done (based on order #308)
+NE	0	01:06:25.513	Core 01	2026.03.18 13:05:00   deal performed [#308 sell 0.01 XAUUSD at 4989.13]
+RM	0	01:06:25.513	Core 01	2026.03.18 13:05:00   order performed sell 0.01 at 4989.13 [#308 sell 0.01 XAUUSD at 4989.13]
+NR	0	01:06:25.513	Core 01	2026.03.18 13:05:00   Order opened: SELL 0.01 lots, SL 4999.58, TP 4970.32 | Trend sell v3: closed M5 breakdown in strong downtrend
+HI	0	01:06:25.513	Core 01	2026.03.18 13:35:00   position modified [#308 sell 0.01 XAUUSD 4989.13 sl: 4988.83 tp: 4970.32]
+MJ	0	01:06:25.513	Core 01	2026.03.18 13:35:00   Position #308 Moved SL to 4988.83 (breakeven)
+RO	0	01:06:25.513	Core 01	2026.03.18 13:35:40   take profit triggered #308 sell 0.01 XAUUSD 4989.13 sl: 4988.83 tp: 4970.32 [#309 buy 0.01 XAUUSD at 4970.32]
+KF	0	01:06:25.513	Core 01	2026.03.18 13:35:40   deal #309 buy 0.01 XAUUSD at 4970.32 done (based on order #309)
+QO	0	01:06:25.513	Core 01	2026.03.18 13:35:40   deal performed [#309 buy 0.01 XAUUSD at 4970.32]
+DQ	0	01:06:25.513	Core 01	2026.03.18 13:35:40   order performed buy 0.01 at 4970.32 [#309 buy 0.01 XAUUSD at 4970.32]
+EN	0	01:06:25.513	Core 01	2026.04.16 17:15:00   market buy 0.01 XAUUSD sl: 4782.66 tp: 4820.63 (4801.06 / 4801.18 / 4801.06)
+OM	0	01:06:25.513	Core 01	2026.04.16 17:15:00   deal #310 buy 0.01 XAUUSD at 4801.18 done (based on order #310)
+EP	0	01:06:25.513	Core 01	2026.04.16 17:15:00   deal performed [#310 buy 0.01 XAUUSD at 4801.18]
+EF	0	01:06:25.513	Core 01	2026.04.16 17:15:00   order performed buy 0.01 at 4801.18 [#310 buy 0.01 XAUUSD at 4801.18]
+JH	0	01:06:25.513	Core 01	2026.04.16 17:15:00   Order opened: BUY 0.01 lots, SL 4782.66, TP 4820.63 | Range buy v2: lower rejection with VWAP/RSI filters
+LE	0	01:06:25.513	Core 01	2026.04.16 17:40:40   stop loss triggered #310 buy 0.01 XAUUSD 4801.18 sl: 4782.66 tp: 4820.63 [#311 sell 0.01 XAUUSD at 4782.66]
+LR	0	01:06:25.513	Core 01	2026.04.16 17:40:40   deal #311 sell 0.01 XAUUSD at 4782.66 done (based on order #311)
+OO	0	01:06:25.513	Core 01	2026.04.16 17:40:40   deal performed [#311 sell 0.01 XAUUSD at 4782.66]
+RG	0	01:06:25.513	Core 01	2026.04.16 17:40:40   order performed sell 0.01 at 4782.66 [#311 sell 0.01 XAUUSD at 4782.66]
+RH	0	01:06:25.513	Core 01	2026.04.17 04:45:00   market buy 0.01 XAUUSD sl: 4765.94 tp: 4790.51 (4777.78 / 4777.90 / 4777.78)
+KD	0	01:06:25.513	Core 01	2026.04.17 04:45:00   deal #312 buy 0.01 XAUUSD at 4777.90 done (based on order #312)
+OJ	0	01:06:25.513	Core 01	2026.04.17 04:45:00   deal performed [#312 buy 0.01 XAUUSD at 4777.90]
+ML	0	01:06:25.513	Core 01	2026.04.17 04:45:00   order performed buy 0.01 at 4777.90 [#312 buy 0.01 XAUUSD at 4777.90]
+GN	0	01:06:25.513	Core 01	2026.04.17 04:45:00   Order opened: BUY 0.01 lots, SL 4765.94, TP 4790.51 | Range buy v2: lower rejection with VWAP/RSI filters
+RD	0	01:06:25.513	Core 01	2026.04.17 04:55:00   position modified [#312 buy 0.01 XAUUSD 4777.90 sl: 4778.20 tp: 4790.51]
+NL	0	01:06:25.513	Core 01	2026.04.17 04:55:00   Position #312 Moved SL to 4778.20 (breakeven)
+HQ	0	01:06:25.513	Core 01	2026.04.17 04:55:40   take profit triggered #312 buy 0.01 XAUUSD 4777.90 sl: 4778.20 tp: 4790.51 [#313 sell 0.01 XAUUSD at 4790.51]
+JO	0	01:06:25.513	Core 01	2026.04.17 04:55:40   deal #313 sell 0.01 XAUUSD at 4790.51 done (based on order #313)
+KR	0	01:06:25.513	Core 01	2026.04.17 04:55:40   deal performed [#313 sell 0.01 XAUUSD at 4790.51]
+KP	0	01:06:25.513	Core 01	2026.04.17 04:55:40   order performed sell 0.01 at 4790.51 [#313 sell 0.01 XAUUSD at 4790.51]
+NR	0	01:06:25.513	Core 01	2026.04.23 07:45:00   market sell 0.01 XAUUSD sl: 4714.91 tp: 4678.28 (4701.83 / 4701.95 / 4701.83)
+NQ	0	01:06:25.513	Core 01	2026.04.23 07:45:00   deal #314 sell 0.01 XAUUSD at 4701.83 done (based on order #314)
+FH	0	01:06:25.513	Core 01	2026.04.23 07:45:00   deal performed [#314 sell 0.01 XAUUSD at 4701.83]
+CI	0	01:06:25.513	Core 01	2026.04.23 07:45:00   order performed sell 0.01 at 4701.83 [#314 sell 0.01 XAUUSD at 4701.83]
+NF	0	01:06:25.513	Core 01	2026.04.23 07:45:00   Order opened: SELL 0.01 lots, SL 4714.91, TP 4678.28 | Trend sell v3: closed M5 breakdown in strong downtrend
+CE	0	01:06:25.513	Core 01	2026.04.23 08:51:40   stop loss triggered #314 sell 0.01 XAUUSD 4701.83 sl: 4714.91 tp: 4678.28 [#315 buy 0.01 XAUUSD at 4714.91]
+QM	0	01:06:25.513	Core 01	2026.04.23 08:51:40   deal #315 buy 0.01 XAUUSD at 4714.91 done (based on order #315)
+PP	0	01:06:25.513	Core 01	2026.04.23 08:51:40   deal performed [#315 buy 0.01 XAUUSD at 4714.91]
+RF	0	01:06:25.513	Core 01	2026.04.23 08:51:40   order performed buy 0.01 at 4714.91 [#315 buy 0.01 XAUUSD at 4714.91]
+MH	0	01:06:25.513	Core 01	2026.04.24 07:00:00   market sell 0.01 XAUUSD sl: 4685.52 tp: 4647.98 (4672.11 / 4672.23 / 4672.11)
+LK	0	01:06:25.513	Core 01	2026.04.24 07:00:00   deal #316 sell 0.01 XAUUSD at 4672.11 done (based on order #316)
+FF	0	01:06:25.513	Core 01	2026.04.24 07:00:00   deal performed [#316 sell 0.01 XAUUSD at 4672.11]
+ML	0	01:06:25.513	Core 01	2026.04.24 07:00:00   order performed sell 0.01 at 4672.11 [#316 sell 0.01 XAUUSD at 4672.11]
+IQ	0	01:06:25.513	Core 01	2026.04.24 07:00:00   Order opened: SELL 0.01 lots, SL 4685.52, TP 4647.98 | Trend sell v3: closed M5 breakdown in strong downtrend
+LJ	0	01:06:25.513	Core 01	2026.04.24 07:30:00   position modified [#316 sell 0.01 XAUUSD 4672.11 sl: 4671.81 tp: 4647.98]
+KK	0	01:06:25.513	Core 01	2026.04.24 07:30:00   Position #316 Moved SL to 4671.81 (breakeven)
+PO	0	01:06:25.513	Core 01	2026.04.24 07:46:40   stop loss triggered #316 sell 0.01 XAUUSD 4672.11 sl: 4671.81 tp: 4647.98 [#317 buy 0.01 XAUUSD at 4671.81]
+HG	0	01:06:25.513	Core 01	2026.04.24 07:46:40   deal #317 buy 0.01 XAUUSD at 4671.81 done (based on order #317)
+KN	0	01:06:25.513	Core 01	2026.04.24 07:46:40   deal performed [#317 buy 0.01 XAUUSD at 4671.81]
+LP	0	01:06:25.513	Core 01	2026.04.24 07:46:40   order performed buy 0.01 at 4671.81 [#317 buy 0.01 XAUUSD at 4671.81]
+FM	0	01:06:25.513	Core 01	2026.04.27 16:00:00   market buy 0.01 XAUUSD sl: 4695.27 tp: 4705.60 (4699.26 / 4699.38 / 4699.26)
+GN	0	01:06:25.513	Core 01	2026.04.27 16:00:00   deal #318 buy 0.01 XAUUSD at 4699.38 done (based on order #318)
+IG	0	01:06:25.513	Core 01	2026.04.27 16:00:00   deal performed [#318 buy 0.01 XAUUSD at 4699.38]
+FI	0	01:06:25.513	Core 01	2026.04.27 16:00:00   order performed buy 0.01 at 4699.38 [#318 buy 0.01 XAUUSD at 4699.38]
+NI	0	01:06:25.513	Core 01	2026.04.27 16:00:00   Order opened: BUY 0.01 lots, SL 4695.27, TP 4705.60 | Range buy v2: lower rejection with VWAP/RSI filters
+RF	0	01:06:25.513	Core 01	2026.04.27 16:01:40   stop loss triggered #318 buy 0.01 XAUUSD 4699.38 sl: 4695.27 tp: 4705.60 [#319 sell 0.01 XAUUSD at 4695.27]
+RQ	0	01:06:25.513	Core 01	2026.04.27 16:01:40   deal #319 sell 0.01 XAUUSD at 4695.27 done (based on order #319)
+EH	0	01:06:25.513	Core 01	2026.04.27 16:01:40   deal performed [#319 sell 0.01 XAUUSD at 4695.27]
+RI	0	01:06:25.513	Core 01	2026.04.27 16:01:40   order performed sell 0.01 at 4695.27 [#319 sell 0.01 XAUUSD at 4695.27]
+OH	0	01:06:25.513	Core 01	2026.04.28 07:05:00   market sell 0.01 XAUUSD sl: 4676.53 tp: 4652.60 (4667.98 / 4668.10 / 4667.98)
+FJ	0	01:06:25.513	Core 01	2026.04.28 07:05:00   deal #320 sell 0.01 XAUUSD at 4667.98 done (based on order #320)
+GF	0	01:06:25.513	Core 01	2026.04.28 07:05:00   deal performed [#320 sell 0.01 XAUUSD at 4667.98]
+OO	0	01:06:25.513	Core 01	2026.04.28 07:05:00   order performed sell 0.01 at 4667.98 [#320 sell 0.01 XAUUSD at 4667.98]
+RP	0	01:06:25.513	Core 01	2026.04.28 07:05:00   Order opened: SELL 0.01 lots, SL 4676.53, TP 4652.60 | Trend sell v3: closed M5 breakdown in strong downtrend
+EJ	0	01:06:25.513	Core 01	2026.04.28 08:06:40   take profit triggered #320 sell 0.01 XAUUSD 4667.98 sl: 4676.53 tp: 4652.60 [#321 buy 0.01 XAUUSD at 4652.60]
+MK	0	01:06:25.513	Core 01	2026.04.28 08:06:40   deal #321 buy 0.01 XAUUSD at 4652.60 done (based on order #321)
+QJ	0	01:06:25.513	Core 01	2026.04.28 08:06:40   deal performed [#321 buy 0.01 XAUUSD at 4652.60]
+DL	0	01:06:25.513	Core 01	2026.04.28 08:06:40   order performed buy 0.01 at 4652.60 [#321 buy 0.01 XAUUSD at 4652.60]
+DN	0	01:06:25.513	Core 01	2026.05.04 11:00:00   market sell 0.01 XAUUSD sl: 4591.02 tp: 4557.46 (4579.03 / 4579.15 / 4579.03)
+IM	0	01:06:25.513	Core 01	2026.05.04 11:00:00   deal #322 sell 0.01 XAUUSD at 4579.03 done (based on order #322)
+NL	0	01:06:25.513	Core 01	2026.05.04 11:00:00   deal performed [#322 sell 0.01 XAUUSD at 4579.03]
+LR	0	01:06:25.513	Core 01	2026.05.04 11:00:00   order performed sell 0.01 at 4579.03 [#322 sell 0.01 XAUUSD at 4579.03]
+CK	0	01:06:25.513	Core 01	2026.05.04 11:00:00   Order opened: SELL 0.01 lots, SL 4591.02, TP 4557.46 | Trend sell v3: closed M5 breakdown in strong downtrend
+KQ	0	01:06:25.513	Core 01	2026.05.04 13:03:40   take profit triggered #322 sell 0.01 XAUUSD 4579.03 sl: 4591.02 tp: 4557.46 [#323 buy 0.01 XAUUSD at 4557.46]
+QP	0	01:06:25.513	Core 01	2026.05.04 13:03:40   deal #323 buy 0.01 XAUUSD at 4557.46 done (based on order #323)
+GM	0	01:06:25.513	Core 01	2026.05.04 13:03:40   deal performed [#323 buy 0.01 XAUUSD at 4557.46]
+LS	0	01:06:25.513	Core 01	2026.05.04 13:03:40   order performed buy 0.01 at 4557.46 [#323 buy 0.01 XAUUSD at 4557.46]
+IS	0	01:06:25.513	Core 01	2026.05.04 21:25:00   market sell 0.01 XAUUSD sl: 4535.12 tp: 4476.80 (4514.29 / 4514.41 / 4514.29)
+NP	0	01:06:25.513	Core 01	2026.05.04 21:25:00   deal #324 sell 0.01 XAUUSD at 4514.29 done (based on order #324)
+CI	0	01:06:25.513	Core 01	2026.05.04 21:25:00   deal performed [#324 sell 0.01 XAUUSD at 4514.29]
+HH	0	01:06:25.513	Core 01	2026.05.04 21:25:00   order performed sell 0.01 at 4514.29 [#324 sell 0.01 XAUUSD at 4514.29]
+LE	0	01:06:25.513	Core 01	2026.05.04 21:25:00   Order opened: SELL 0.01 lots, SL 4535.12, TP 4476.80 | Trend sell v3: closed M5 breakdown in strong downtrend
+CF	0	01:06:25.513	Core 01	2026.05.05 04:05:40   stop loss triggered #324 sell 0.01 XAUUSD 4514.29 sl: 4535.12 tp: 4476.80 [#325 buy 0.01 XAUUSD at 4535.12]
+ON	0	01:06:25.513	Core 01	2026.05.05 04:05:40   deal #325 buy 0.01 XAUUSD at 4535.12 done (based on order #325)
+OG	0	01:06:25.513	Core 01	2026.05.05 04:05:40   deal performed [#325 buy 0.01 XAUUSD at 4535.12]
+GI	0	01:06:25.513	Core 01	2026.05.05 04:05:40   order performed buy 0.01 at 4535.12 [#325 buy 0.01 XAUUSD at 4535.12]
+II	0	01:06:25.513	Core 01	2026.05.05 15:45:00   market sell 0.01 XAUUSD sl: 4576.66 tp: 4555.45 (4567.19 / 4567.31 / 4567.19)
+IJ	0	01:06:25.513	Core 01	2026.05.05 15:45:00   deal #326 sell 0.01 XAUUSD at 4567.19 done (based on order #326)
+RG	0	01:06:25.513	Core 01	2026.05.05 15:45:00   deal performed [#326 sell 0.01 XAUUSD at 4567.19]
+LO	0	01:06:25.513	Core 01	2026.05.05 15:45:00   order performed sell 0.01 at 4567.19 [#326 sell 0.01 XAUUSD at 4567.19]
+EM	0	01:06:25.513	Core 01	2026.05.05 15:45:00   Order opened: SELL 0.01 lots, SL 4576.66, TP 4555.45 | Range sell v2: upper rejection with VWAP/RSI filters
+EL	0	01:06:25.513	Core 01	2026.05.05 16:08:40   stop loss triggered #326 sell 0.01 XAUUSD 4567.19 sl: 4576.66 tp: 4555.45 [#327 buy 0.01 XAUUSD at 4576.66]
+KD	0	01:06:25.513	Core 01	2026.05.05 16:08:40   deal #327 buy 0.01 XAUUSD at 4576.66 done (based on order #327)
+II	0	01:06:25.513	Core 01	2026.05.05 16:08:40   deal performed [#327 buy 0.01 XAUUSD at 4576.66]
+MO	0	01:06:25.513	Core 01	2026.05.05 16:08:40   order performed buy 0.01 at 4576.66 [#327 buy 0.01 XAUUSD at 4576.66]
+LO	0	01:06:25.513	Core 01	2026.05.11 03:00:00   market sell 0.01 XAUUSD sl: 4702.75 tp: 4671.61 (4691.63 / 4691.75 / 4691.63)
+CL	0	01:06:25.513	Core 01	2026.05.11 03:00:00   deal #328 sell 0.01 XAUUSD at 4691.63 done (based on order #328)
+JM	0	01:06:25.513	Core 01	2026.05.11 03:00:00   deal performed [#328 sell 0.01 XAUUSD at 4691.63]
+EE	0	01:06:25.513	Core 01	2026.05.11 03:00:00   order performed sell 0.01 at 4691.63 [#328 sell 0.01 XAUUSD at 4691.63]
+RJ	0	01:06:25.513	Core 01	2026.05.11 03:00:00   Order opened: SELL 0.01 lots, SL 4702.75, TP 4671.61 | Trend sell v3: closed M5 breakdown in strong downtrend
+OQ	0	01:06:25.513	Core 01	2026.05.11 03:20:00   position modified [#328 sell 0.01 XAUUSD 4691.63 sl: 4691.33 tp: 4671.61]
+ER	0	01:06:25.513	Core 01	2026.05.11 03:20:00   Position #328 Moved SL to 4691.33 (breakeven)
+NF	0	01:06:25.513	Core 01	2026.05.11 03:31:40   stop loss triggered #328 sell 0.01 XAUUSD 4691.63 sl: 4691.33 tp: 4671.61 [#329 buy 0.01 XAUUSD at 4691.33]
+FN	0	01:06:25.513	Core 01	2026.05.11 03:31:40   deal #329 buy 0.01 XAUUSD at 4691.33 done (based on order #329)
+JG	0	01:06:25.513	Core 01	2026.05.11 03:31:40   deal performed [#329 buy 0.01 XAUUSD at 4691.33]
+LI	0	01:06:25.513	Core 01	2026.05.11 03:31:40   order performed buy 0.01 at 4691.33 [#329 buy 0.01 XAUUSD at 4691.33]
+GF	0	01:06:25.513	Core 01	2026.05.13 17:00:00   market buy 0.01 XAUUSD sl: 4667.38 tp: 4692.59 (4679.33 / 4679.45 / 4679.33)
+HE	0	01:06:25.513	Core 01	2026.05.13 17:00:00   deal #330 buy 0.01 XAUUSD at 4679.45 done (based on order #330)
+LH	0	01:06:25.513	Core 01	2026.05.13 17:00:00   deal performed [#330 buy 0.01 XAUUSD at 4679.45]
+CN	0	01:06:25.513	Core 01	2026.05.13 17:00:00   order performed buy 0.01 at 4679.45 [#330 buy 0.01 XAUUSD at 4679.45]
+KP	0	01:06:25.513	Core 01	2026.05.13 17:00:00   Order opened: BUY 0.01 lots, SL 4667.38, TP 4692.59 | Range buy v2: lower rejection with VWAP/RSI filters
+IR	0	01:06:25.513	Core 01	2026.05.13 17:35:00   position modified [#330 buy 0.01 XAUUSD 4679.45 sl: 4679.75 tp: 4692.59]
+IM	0	01:06:25.513	Core 01	2026.05.13 17:35:00   Position #330 Moved SL to 4679.75 (breakeven)
+PR	0	01:06:25.513	Core 01	2026.05.13 17:45:40   stop loss triggered #330 buy 0.01 XAUUSD 4679.45 sl: 4679.75 tp: 4692.59 [#331 sell 0.01 XAUUSD at 4679.75]
+DM	0	01:06:25.513	Core 01	2026.05.13 17:45:40   deal #331 sell 0.01 XAUUSD at 4679.75 done (based on order #331)
+QL	0	01:06:25.513	Core 01	2026.05.13 17:45:40   deal performed [#331 sell 0.01 XAUUSD at 4679.75]
+QR	0	01:06:25.513	Core 01	2026.05.13 17:45:40   order performed sell 0.01 at 4679.75 [#331 sell 0.01 XAUUSD at 4679.75]
+KD	0	01:06:25.513	Core 01	2026.05.15 06:35:00   market sell 0.01 XAUUSD sl: 4628.16 tp: 4575.16 (4609.23 / 4609.35 / 4609.23)
+MG	0	01:06:25.513	Core 01	2026.05.15 06:35:00   deal #332 sell 0.01 XAUUSD at 4609.23 done (based on order #332)
+IJ	0	01:06:25.513	Core 01	2026.05.15 06:35:00   deal performed [#332 sell 0.01 XAUUSD at 4609.23]
+IK	0	01:06:25.513	Core 01	2026.05.15 06:35:00   order performed sell 0.01 at 4609.23 [#332 sell 0.01 XAUUSD at 4609.23]
+ND	0	01:06:25.513	Core 01	2026.05.15 06:35:00   Order opened: SELL 0.01 lots, SL 4628.16, TP 4575.16 | Trend sell v3: closed M5 breakdown in strong downtrend
+NG	0	01:06:25.513	Core 01	2026.05.15 08:10:00   position modified [#332 sell 0.01 XAUUSD 4609.23 sl: 4608.93 tp: 4575.16]
+JG	0	01:06:25.513	Core 01	2026.05.15 08:10:00   Position #332 Moved SL to 4608.93 (breakeven)
+RK	0	01:06:25.513	Core 01	2026.05.15 08:20:00   position modified [#332 sell 0.01 XAUUSD 4609.23 sl: 4597.62 tp: 4575.16]
+LR	0	01:06:25.513	Core 01	2026.05.15 08:20:00   Position #332 Moved SL to 4597.62 (ATR trail)
+CQ	0	01:06:25.513	Core 01	2026.05.15 08:32:40   take profit triggered #332 sell 0.01 XAUUSD 4609.23 sl: 4597.62 tp: 4575.16 [#333 buy 0.01 XAUUSD at 4575.16]
+DP	0	01:06:25.513	Core 01	2026.05.15 08:32:40   deal #333 buy 0.01 XAUUSD at 4575.16 done (based on order #333)
+QM	0	01:06:25.513	Core 01	2026.05.15 08:32:40   deal performed [#333 buy 0.01 XAUUSD at 4575.16]
+QS	0	01:06:25.513	Core 01	2026.05.15 08:32:40   order performed buy 0.01 at 4575.16 [#333 buy 0.01 XAUUSD at 4575.16]
+OS	0	01:06:25.513	Core 01	2026.05.15 10:55:00   market sell 0.01 XAUUSD sl: 4589.21 tp: 4537.38 (4570.70 / 4570.82 / 4570.70)
+IP	0	01:06:25.513	Core 01	2026.05.15 10:55:00   deal #334 sell 0.01 XAUUSD at 4570.70 done (based on order #334)
+GI	0	01:06:25.513	Core 01	2026.05.15 10:55:00   deal performed [#334 sell 0.01 XAUUSD at 4570.70]
+FH	0	01:06:25.513	Core 01	2026.05.15 10:55:00   order performed sell 0.01 at 4570.70 [#334 sell 0.01 XAUUSD at 4570.70]
+EF	0	01:06:25.513	Core 01	2026.05.15 10:55:00   Order opened: SELL 0.01 lots, SL 4589.21, TP 4537.38 | Trend sell v3: closed M5 breakdown in strong downtrend
+FF	0	01:06:25.513	Core 01	2026.05.15 11:35:00   position modified [#334 sell 0.01 XAUUSD 4570.70 sl: 4570.40 tp: 4537.38]
+MF	0	01:06:25.513	Core 01	2026.05.15 11:35:00   Position #334 Moved SL to 4570.40 (breakeven)
+PJ	0	01:06:25.513	Core 01	2026.05.15 12:15:00   position modified [#334 sell 0.01 XAUUSD 4570.70 sl: 4565.56 tp: 4537.38]
+IE	0	01:06:25.513	Core 01	2026.05.15 12:15:00   Position #334 Moved SL to 4565.56 (ATR trail)
+DO	0	01:06:25.513	Core 01	2026.05.15 12:45:00   position modified [#334 sell 0.01 XAUUSD 4570.70 sl: 4561.39 tp: 4537.38]
+MN	0	01:06:25.513	Core 01	2026.05.15 12:45:00   Position #334 Moved SL to 4561.39 (ATR trail)
+LD	0	01:06:25.513	Core 01	2026.05.15 12:50:00   position modified [#334 sell 0.01 XAUUSD 4570.70 sl: 4555.85 tp: 4537.38]
+EJ	0	01:06:25.513	Core 01	2026.05.15 12:50:00   Position #334 Moved SL to 4555.85 (ATR trail)
+LH	0	01:06:25.513	Core 01	2026.05.15 12:50:40   take profit triggered #334 sell 0.01 XAUUSD 4570.70 sl: 4555.85 tp: 4537.38 [#335 buy 0.01 XAUUSD at 4537.38]
+MI	0	01:06:25.513	Core 01	2026.05.15 12:50:40   deal #335 buy 0.01 XAUUSD at 4537.38 done (based on order #335)
+JD	0	01:06:25.513	Core 01	2026.05.15 12:50:40   deal performed [#335 buy 0.01 XAUUSD at 4537.38]
+PK	0	01:06:25.513	Core 01	2026.05.15 12:50:40   order performed buy 0.01 at 4537.38 [#335 buy 0.01 XAUUSD at 4537.38]
+QG	0	01:06:25.513	Core 01	final balance 189.02 USD
+CD	0	01:06:25.513	Core 01	2026.05.21 23:58:59   Diagnostics summary | bars=56545 trendUp=729 trendDown=747 range=10955 unclear=44114 buySignals=66 sellSignals=153 blocked=52 attempts=167 success=167
+QM	0	01:06:25.513	Core 01	2026.05.21 23:58:59   Block summary | autoPaused=0 tradeDisabled=0 symbolDisabled=0 hours=0 spread=0 direction=0 openPositions=43 dailyTradeLimit=0 dailyLoss=0 consecutiveLoss=0 cooldown=0 stopTooLarge=9 stopTooSmall=0 rewardRisk=0 lot=0 actualRisk=0 unknown=0
+IK	0	01:06:25.513	Core 01	XAUUSD,M15: 3371367 ticks, 56467 bars generated. Test passed in 0:00:00.920 (including ticks preprocessing 0:00:00.109).
+HF	0	01:06:25.513	Core 01	134 Mb memory used including 18 Mb of history data, 128 Mb of tick data
+FG	0	01:06:25.513	Core 01	log file "C:\Users\chenhomg\AppData\Roaming\MetaQuotes\Tester\D0E8209F77C8CF37AD8BF550E51FF075\Agent-127.0.0.1-3000\logs\20260531.log" written
+ME	0	01:06:25.640	Tester	automatical testing finished
+FL	0	01:06:25.640	Core 01	connection closed

@@ -1,0 +1,170 @@
+﻿[
+    {
+        "Variant":  "base",
+        "Period":  "h1_2025",
+        "Net":  "35.38",
+        "PF":  "1.71",
+        "EquityDD":  "45.09 (34.44%)",
+        "Trades":  "17"
+    },
+    {
+        "Variant":  "base",
+        "Period":  "test",
+        "Net":  "28.47",
+        "PF":  "1.31",
+        "EquityDD":  "45.09 (32.26%)",
+        "Trades":  "37"
+    },
+    {
+        "Variant":  "base",
+        "Period":  "verylong",
+        "Net":  "303.54",
+        "PF":  "2.61",
+        "EquityDD":  "45.09 (24.40%)",
+        "Trades":  "93"
+    },
+    {
+        "Variant":  "move14",
+        "Period":  "h1_2025",
+        "Net":  "35.38",
+        "PF":  "1.71",
+        "EquityDD":  "45.09 (34.44%)",
+        "Trades":  "17"
+    },
+    {
+        "Variant":  "move14",
+        "Period":  "test",
+        "Net":  "16.29",
+        "PF":  "1.16",
+        "EquityDD":  "45.09 (35.34%)",
+        "Trades":  "34"
+    },
+    {
+        "Variant":  "move14",
+        "Period":  "verylong",
+        "Net":  "262.68",
+        "PF":  "2.34",
+        "EquityDD":  "45.09 (29.08%)",
+        "Trades":  "85"
+    },
+    {
+        "Variant":  "move12",
+        "Period":  "h1_2025",
+        "Net":  "60.38",
+        "PF":  "3.43",
+        "EquityDD":  "36.40 (27.80%)",
+        "Trades":  "15"
+    },
+    {
+        "Variant":  "move12",
+        "Period":  "test",
+        "Net":  "52.76",
+        "PF":  "1.84",
+        "EquityDD":  "36.40 (26.18%)",
+        "Trades":  "29"
+    },
+    {
+        "Variant":  "move12",
+        "Period":  "verylong",
+        "Net":  "305.02",
+        "PF":  "3.09",
+        "EquityDD":  "41.98 (20.53%)",
+        "Trades":  "77"
+    },
+    {
+        "Variant":  "entrybar07",
+        "Period":  "h1_2025",
+        "Net":  "35.38",
+        "PF":  "1.71",
+        "EquityDD":  "45.09 (34.44%)",
+        "Trades":  "17"
+    },
+    {
+        "Variant":  "entrybar07",
+        "Period":  "test",
+        "Net":  "23.94",
+        "PF":  "1.25",
+        "EquityDD":  "45.09 (33.34%)",
+        "Trades":  "35"
+    },
+    {
+        "Variant":  "entrybar07",
+        "Period":  "verylong",
+        "Net":  "296.77",
+        "PF":  "2.57",
+        "EquityDD":  "45.09 (25.87%)",
+        "Trades":  "89"
+    },
+    {
+        "Variant":  "entrybar06",
+        "Period":  "h1_2025",
+        "Net":  "-12.89",
+        "PF":  "0.75",
+        "EquityDD":  "60.35 (47.06%)",
+        "Trades":  "13"
+    },
+    {
+        "Variant":  "entrybar06",
+        "Period":  "test",
+        "Net":  "-32.41",
+        "PF":  "0.62",
+        "EquityDD":  "60.35 (48.49%)",
+        "Trades":  "27"
+    },
+    {
+        "Variant":  "entrybar06",
+        "Period":  "verylong",
+        "Net":  "88.82",
+        "PF":  "1.49",
+        "EquityDD":  "74.07 (44.09%)",
+        "Trades":  "71"
+    },
+    {
+        "Variant":  "move14_entrybar07",
+        "Period":  "h1_2025",
+        "Net":  "35.38",
+        "PF":  "1.71",
+        "EquityDD":  "45.09 (34.44%)",
+        "Trades":  "17"
+    },
+    {
+        "Variant":  "move14_entrybar07",
+        "Period":  "test",
+        "Net":  "17.10",
+        "PF":  "1.17",
+        "EquityDD":  "45.09 (35.12%)",
+        "Trades":  "33"
+    },
+    {
+        "Variant":  "move14_entrybar07",
+        "Period":  "verylong",
+        "Net":  "259.79",
+        "PF":  "2.35",
+        "EquityDD":  "45.09 (30.37%)",
+        "Trades":  "81"
+    },
+    {
+        "Variant":  "move12_entrybar07",
+        "Period":  "h1_2025",
+        "Net":  "60.38",
+        "PF":  "3.43",
+        "EquityDD":  "36.40 (27.80%)",
+        "Trades":  "15"
+    },
+    {
+        "Variant":  "move12_entrybar07",
+        "Period":  "test",
+        "Net":  "52.76",
+        "PF":  "1.84",
+        "EquityDD":  "36.40 (26.18%)",
+        "Trades":  "29"
+    },
+    {
+        "Variant":  "move12_entrybar07",
+        "Period":  "verylong",
+        "Net":  "301.32",
+        "PF":  "3.12",
+        "EquityDD":  "41.30 (9.87%)",
+        "Trades":  "74"
+    }
+]

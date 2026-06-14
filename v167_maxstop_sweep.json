@@ -1,0 +1,122 @@
+﻿[
+    {
+        "MaxStop":  "1600",
+        "Period":  "latest",
+        "Net":  "-16.91",
+        "PF":  "0.00",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "2"
+    },
+    {
+        "MaxStop":  "1600",
+        "Period":  "test",
+        "Net":  "34.28",
+        "PF":  "1.43",
+        "EquityDD":  "38.68 (31.77%)",
+        "Trades":  "37"
+    },
+    {
+        "MaxStop":  "1600",
+        "Period":  "verylong",
+        "Net":  "138.75",
+        "PF":  "1.78",
+        "EquityDD":  "56.31 (20.78%)",
+        "Trades":  "88"
+    },
+    {
+        "MaxStop":  "1800",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "MaxStop":  "1800",
+        "Period":  "test",
+        "Net":  "34.28",
+        "PF":  "1.43",
+        "EquityDD":  "38.68 (31.77%)",
+        "Trades":  "37"
+    },
+    {
+        "MaxStop":  "1800",
+        "Period":  "verylong",
+        "Net":  "248.16",
+        "PF":  "2.40",
+        "EquityDD":  "42.66 (20.47%)",
+        "Trades":  "91"
+    },
+    {
+        "MaxStop":  "2000",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "MaxStop":  "2000",
+        "Period":  "test",
+        "Net":  "22.26",
+        "PF":  "1.23",
+        "EquityDD":  "45.09 (33.30%)",
+        "Trades":  "39"
+    },
+    {
+        "MaxStop":  "2000",
+        "Period":  "verylong",
+        "Net":  "236.14",
+        "PF":  "2.21",
+        "EquityDD":  "50.35 (24.67%)",
+        "Trades":  "93"
+    },
+    {
+        "MaxStop":  "2200",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "MaxStop":  "2200",
+        "Period":  "test",
+        "Net":  "22.26",
+        "PF":  "1.23",
+        "EquityDD":  "45.09 (33.30%)",
+        "Trades":  "39"
+    },
+    {
+        "MaxStop":  "2200",
+        "Period":  "verylong",
+        "Net":  "296.77",
+        "PF":  "2.52",
+        "EquityDD":  "45.09 (24.57%)",
+        "Trades":  "94"
+    },
+    {
+        "MaxStop":  "2500",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "MaxStop":  "2500",
+        "Period":  "test",
+        "Net":  "22.26",
+        "PF":  "1.23",
+        "EquityDD":  "45.09 (33.30%)",
+        "Trades":  "39"
+    },
+    {
+        "MaxStop":  "2500",
+        "Period":  "verylong",
+        "Net":  "300.44",
+        "PF":  "2.54",
+        "EquityDD":  "45.09 (24.57%)",
+        "Trades":  "95"
+    }
+]

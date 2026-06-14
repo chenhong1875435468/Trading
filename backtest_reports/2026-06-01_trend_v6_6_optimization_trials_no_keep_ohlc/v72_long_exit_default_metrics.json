@@ -1,0 +1,35 @@
+﻿[
+    {
+        "Period":  "YearCurrent",
+        "Net":  "188.84",
+        "PF":  "2.73",
+        "Trades":  "32",
+        "Win":  "21 (65.62%)",
+        "AvgWin":  "14.19",
+        "AvgLoss":  "-9.78",
+        "MaxDD":  "23.85 (15.15%)",
+        "Params":  "\u003ctd nowrap colspan=\"10\" align=\"left\"\u003e\u003cb\u003eInpLongBreakevenTriggerR=1.5\u003c/b\u003e\u003c/td\u003e \u003ctd nowrap colspan=\"10\" align=\"left\"\u003e\u003cb\u003eInpLongAtrTrailTriggerR=1.8\u003c/b\u003e\u003c/td\u003e \u003ctd nowrap colspan=\"10\" align=\"left\"\u003e\u003cb\u003eInpLongAtrTrailMultiplier=2.0\u003c/b\u003e\u003c/td\u003e"
+    },
+    {
+        "Period":  "LongCurrent",
+        "Net":  "254.58",
+        "PF":  "2.12",
+        "Trades":  "79",
+        "Win":  "45 (56.96%)",
+        "AvgWin":  "10.70",
+        "AvgLoss":  "-6.55",
+        "MaxDD":  "23.85 (10.69%)",
+        "Params":  "\u003ctd nowrap colspan=\"10\" align=\"left\"\u003e\u003cb\u003eInpLongBreakevenTriggerR=1.5\u003c/b\u003e\u003c/td\u003e \u003ctd nowrap colspan=\"10\" align=\"left\"\u003e\u003cb\u003eInpLongAtrTrailTriggerR=1.8\u003c/b\u003e\u003c/td\u003e \u003ctd nowrap colspan=\"10\" align=\"left\"\u003e\u003cb\u003eInpLongAtrTrailMultiplier=2.0\u003c/b\u003e\u003c/td\u003e"
+    },
+    {
+        "Period":  "Latest",
+        "Net":  "0.74",
+        "PF":  "1.07",
+        "Trades":  "2",
+        "Win":  "1 (50.00%)",
+        "AvgWin":  "10.94",
+        "AvgLoss":  "-10.10",
+        "MaxDD":  "10.20 (10.20%)",
+        "Params":  "\u003ctd nowrap colspan=\"10\" align=\"left\"\u003e\u003cb\u003eInpLongBreakevenTriggerR=1.5\u003c/b\u003e\u003c/td\u003e \u003ctd nowrap colspan=\"10\" align=\"left\"\u003e\u003cb\u003eInpLongAtrTrailTriggerR=1.8\u003c/b\u003e\u003c/td\u003e \u003ctd nowrap colspan=\"10\" align=\"left\"\u003e\u003cb\u003eInpLongAtrTrailMultiplier=2.0\u003c/b\u003e\u003c/td\u003e"
+    }
+]

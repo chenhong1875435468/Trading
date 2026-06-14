@@ -1,0 +1,137 @@
+﻿[
+    {
+        "Threshold":  "0.00",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "BalanceDD":  null,
+        "Trades":  "3"
+    },
+    {
+        "Threshold":  "0.00",
+        "Period":  "test",
+        "Net":  "5.28",
+        "PF":  "1.04",
+        "EquityDD":  "48.42 (39.77%)",
+        "BalanceDD":  null,
+        "Trades":  "42"
+    },
+    {
+        "Threshold":  "0.00",
+        "Period":  "verylong",
+        "Net":  "281.79",
+        "PF":  "2.27",
+        "EquityDD":  "48.42 (28.51%)",
+        "BalanceDD":  null,
+        "Trades":  "99"
+    },
+    {
+        "Threshold":  "5.00",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "BalanceDD":  null,
+        "Trades":  "3"
+    },
+    {
+        "Threshold":  "5.00",
+        "Period":  "test",
+        "Net":  "3.57",
+        "PF":  "1.03",
+        "EquityDD":  "50.13 (41.18%)",
+        "BalanceDD":  null,
+        "Trades":  "40"
+    },
+    {
+        "Threshold":  "5.00",
+        "Period":  "verylong",
+        "Net":  "274.11",
+        "PF":  "2.27",
+        "EquityDD":  "50.13 (30.54%)",
+        "BalanceDD":  null,
+        "Trades":  "94"
+    },
+    {
+        "Threshold":  "8.00",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "BalanceDD":  null,
+        "Trades":  "3"
+    },
+    {
+        "Threshold":  "8.00",
+        "Period":  "test",
+        "Net":  "19.38",
+        "PF":  "1.19",
+        "EquityDD":  "45.09 (34.03%)",
+        "BalanceDD":  null,
+        "Trades":  "39"
+    },
+    {
+        "Threshold":  "8.00",
+        "Period":  "verylong",
+        "Net":  "280.13",
+        "PF":  "2.40",
+        "EquityDD":  "46.75 (25.18%)",
+        "BalanceDD":  null,
+        "Trades":  "92"
+    },
+    {
+        "Threshold":  "10.00",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "BalanceDD":  null,
+        "Trades":  "3"
+    },
+    {
+        "Threshold":  "10.00",
+        "Period":  "test",
+        "Net":  "19.38",
+        "PF":  "1.19",
+        "EquityDD":  "45.09 (34.03%)",
+        "BalanceDD":  null,
+        "Trades":  "39"
+    },
+    {
+        "Threshold":  "10.00",
+        "Period":  "verylong",
+        "Net":  "280.13",
+        "PF":  "2.40",
+        "EquityDD":  "46.75 (25.18%)",
+        "BalanceDD":  null,
+        "Trades":  "92"
+    },
+    {
+        "Threshold":  "12.00",
+        "Period":  "latest",
+        "Net":  "-16.91",
+        "PF":  "0.00",
+        "EquityDD":  "41.30 (41.16%)",
+        "BalanceDD":  null,
+        "Trades":  "2"
+    },
+    {
+        "Threshold":  "12.00",
+        "Period":  "test",
+        "Net":  "19.38",
+        "PF":  "1.19",
+        "EquityDD":  "45.09 (34.03%)",
+        "BalanceDD":  null,
+        "Trades":  "39"
+    },
+    {
+        "Threshold":  "12.00",
+        "Period":  "verylong",
+        "Net":  "268.99",
+        "PF":  "2.35",
+        "EquityDD":  "46.75 (25.18%)",
+        "BalanceDD":  null,
+        "Trades":  "90"
+    }
+]

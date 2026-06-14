@@ -1,0 +1,68 @@
+﻿[
+    {
+        "Month":  "2025-11",
+        "Trades":  3,
+        "Net":  "-25.82",
+        "Wins":  0
+    },
+    {
+        "Month":  "2025-07",
+        "Trades":  5,
+        "Net":  "-12.99",
+        "Wins":  2
+    },
+    {
+        "Month":  "2025-12",
+        "Trades":  2,
+        "Net":  "-11.22",
+        "Wins":  null
+    },
+    {
+        "Month":  "2025-09",
+        "Trades":  2,
+        "Net":  "-1.77",
+        "Wins":  null
+    },
+    {
+        "Month":  "2025-08",
+        "Trades":  5,
+        "Net":  "-1.55",
+        "Wins":  4
+    },
+    {
+        "Month":  "2026-04",
+        "Trades":  3,
+        "Net":  "3.86",
+        "Wins":  2
+    },
+    {
+        "Month":  "2026-01",
+        "Trades":  1,
+        "Net":  "4.37",
+        "Wins":  null
+    },
+    {
+        "Month":  "2025-06",
+        "Trades":  3,
+        "Net":  "22.31",
+        "Wins":  2
+    },
+    {
+        "Month":  "2026-03",
+        "Trades":  4,
+        "Net":  "36.31",
+        "Wins":  3
+    },
+    {
+        "Month":  "2025-10",
+        "Trades":  5,
+        "Net":  "43.05",
+        "Wins":  5
+    },
+    {
+        "Month":  "2026-05",
+        "Trades":  5,
+        "Net":  "69.65",
+        "Wins":  4
+    }
+]

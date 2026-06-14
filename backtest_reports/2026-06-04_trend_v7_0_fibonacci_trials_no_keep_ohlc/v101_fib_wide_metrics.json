@@ -1,0 +1,46 @@
+﻿[
+    {
+        "Period":  "YearTo0604FibWide",
+        "Net":  "116.26",
+        "PF":  "3.83",
+        "Trades":  "17",
+        "Win":  "13 (76.47%)",
+        "AvgWin":  "12.10",
+        "AvgLoss":  "-10.04",
+        "MaxLoss":  "-16.93",
+        "MaxDD":  "17.03 (10.49%)"
+    },
+    {
+        "Period":  "LongTo0604FibWide",
+        "Net":  "147.23",
+        "PF":  "2.93",
+        "Trades":  "39",
+        "Win":  "26 (66.67%)",
+        "AvgWin":  "8.59",
+        "AvgLoss":  "-5.70",
+        "MaxLoss":  "-16.93",
+        "MaxDD":  "17.03 (8.81%)"
+    },
+    {
+        "Period":  "VeryLong2023FibWide",
+        "Net":  "146.33",
+        "PF":  "2.86",
+        "Trades":  "41",
+        "Win":  "27 (65.85%)",
+        "AvgWin":  "8.33",
+        "AvgLoss":  "-5.46",
+        "MaxLoss":  "-16.93",
+        "MaxDD":  "17.03 (8.85%)"
+    },
+    {
+        "Period":  "LatestTo0604FibWide",
+        "Net":  "10.89",
+        "PF":  "218.80",
+        "Trades":  "1",
+        "Win":  "1 (100.00%)",
+        "AvgWin":  "10.94",
+        "AvgLoss":  "0.00",
+        "MaxLoss":  "0.00",
+        "MaxDD":  "0.05 (0.05%)"
+    }
+]

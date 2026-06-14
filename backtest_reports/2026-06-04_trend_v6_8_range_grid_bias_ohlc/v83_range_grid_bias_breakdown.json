@@ -1,0 +1,65 @@
+﻿[
+    {
+        "Period":  "YearTo0604GridV4",
+        "Kind":  "Trend",
+        "Trades":  31,
+        "Net":  199.83,
+        "Wins":  22,
+        "Losses":  9,
+        "Avg":  6.45
+    },
+    {
+        "Period":  "YearTo0604GridV4",
+        "Kind":  "Grid",
+        "Trades":  4,
+        "Net":  2.66,
+        "Wins":  3,
+        "Losses":  null,
+        "Avg":  0.66
+    },
+    {
+        "Period":  "LongTo0604GridV4",
+        "Kind":  "Trend",
+        "Trades":  78,
+        "Net":  255.47,
+        "Wins":  49,
+        "Losses":  29,
+        "Avg":  3.28
+    },
+    {
+        "Period":  "LongTo0604GridV4",
+        "Kind":  "Grid",
+        "Trades":  4,
+        "Net":  2.66,
+        "Wins":  3,
+        "Losses":  null,
+        "Avg":  0.66
+    },
+    {
+        "Period":  "VeryLong2023GridV4",
+        "Kind":  "Trend",
+        "Trades":  87,
+        "Net":  256.88,
+        "Wins":  53,
+        "Losses":  34,
+        "Avg":  2.95
+    },
+    {
+        "Period":  "VeryLong2023GridV4",
+        "Kind":  "Grid",
+        "Trades":  4,
+        "Net":  2.66,
+        "Wins":  3,
+        "Losses":  null,
+        "Avg":  0.66
+    },
+    {
+        "Period":  "LatestTo0604GridV4",
+        "Kind":  "Trend",
+        "Trades":  2,
+        "Net":  0.84,
+        "Wins":  null,
+        "Losses":  null,
+        "Avg":  0.42
+    }
+]

@@ -1,0 +1,162 @@
+﻿[
+    {
+        "MaxLossR":  "0.80",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "MaxLossR":  "0.80",
+        "Period":  "h2_2024",
+        "Net":  "-3.01",
+        "PF":  "0.92",
+        "EquityDD":  "29.40 (28.01%)",
+        "Trades":  "18"
+    },
+    {
+        "MaxLossR":  "0.80",
+        "Period":  "test",
+        "Net":  "-31.36",
+        "PF":  "0.71",
+        "EquityDD":  "76.71 (56.07%)",
+        "Trades":  "37"
+    },
+    {
+        "MaxLossR":  "0.80",
+        "Period":  "verylong",
+        "Net":  "247.62",
+        "PF":  "2.25",
+        "EquityDD":  "77.20 (42.38%)",
+        "Trades":  "93"
+    },
+    {
+        "MaxLossR":  "0.85",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "MaxLossR":  "0.85",
+        "Period":  "h2_2024",
+        "Net":  "-5.49",
+        "PF":  "0.86",
+        "EquityDD":  "31.88 (30.37%)",
+        "Trades":  "18"
+    },
+    {
+        "MaxLossR":  "0.85",
+        "Period":  "test",
+        "Net":  "-33.51",
+        "PF":  "0.69",
+        "EquityDD":  "78.78 (57.61%)",
+        "Trades":  "37"
+    },
+    {
+        "MaxLossR":  "0.85",
+        "Period":  "verylong",
+        "Net":  "242.29",
+        "PF":  "2.18",
+        "EquityDD":  "80.66 (44.38%)",
+        "Trades":  "93"
+    },
+    {
+        "MaxLossR":  "0.90",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "MaxLossR":  "0.90",
+        "Period":  "h2_2024",
+        "Net":  "-5.49",
+        "PF":  "0.86",
+        "EquityDD":  "31.88 (30.37%)",
+        "Trades":  "18"
+    },
+    {
+        "MaxLossR":  "0.90",
+        "Period":  "test",
+        "Net":  "28.47",
+        "PF":  "1.31",
+        "EquityDD":  "45.09 (32.26%)",
+        "Trades":  "37"
+    },
+    {
+        "MaxLossR":  "0.90",
+        "Period":  "verylong",
+        "Net":  "303.54",
+        "PF":  "2.61",
+        "EquityDD":  "45.09 (24.40%)",
+        "Trades":  "93"
+    },
+    {
+        "MaxLossR":  "0.95",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "MaxLossR":  "0.95",
+        "Period":  "h2_2024",
+        "Net":  "-6.58",
+        "PF":  "0.84",
+        "EquityDD":  "32.97 (31.41%)",
+        "Trades":  "18"
+    },
+    {
+        "MaxLossR":  "0.95",
+        "Period":  "test",
+        "Net":  "25.62",
+        "PF":  "1.27",
+        "EquityDD":  "45.09 (32.52%)",
+        "Trades":  "37"
+    },
+    {
+        "MaxLossR":  "0.95",
+        "Period":  "verylong",
+        "Net":  "300.44",
+        "PF":  "2.57",
+        "EquityDD":  "45.09 (24.58%)",
+        "Trades":  "93"
+    },
+    {
+        "MaxLossR":  "1.00",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "MaxLossR":  "1.00",
+        "Period":  "h2_2024",
+        "Net":  "-6.58",
+        "PF":  "0.84",
+        "EquityDD":  "32.97 (31.41%)",
+        "Trades":  "18"
+    },
+    {
+        "MaxLossR":  "1.00",
+        "Period":  "test",
+        "Net":  "25.54",
+        "PF":  "1.27",
+        "EquityDD":  "45.09 (32.52%)",
+        "Trades":  "37"
+    },
+    {
+        "MaxLossR":  "1.00",
+        "Period":  "verylong",
+        "Net":  "300.36",
+        "PF":  "2.57",
+        "EquityDD":  "45.09 (24.58%)",
+        "Trades":  "93"
+    }
+]

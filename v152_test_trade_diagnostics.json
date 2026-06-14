@@ -1,0 +1,314 @@
+﻿{
+    "total":  {
+                  "Trades":  42,
+                  "Net":  5.28,
+                  "Wins":  21,
+                  "Losses":  21
+              },
+    "byDaySeq":  [
+                     {
+                         "DaySeq":  1,
+                         "Trades":  40,
+                         "Net":  27.67,
+                         "Avg":  0.69,
+                         "Worst":  -18.07
+                     },
+                     {
+                         "DaySeq":  2,
+                         "Trades":  2,
+                         "Net":  -22.39,
+                         "Avg":  -11.2,
+                         "Worst":  -15.81
+                     }
+                 ],
+    "bySide":  [
+                   {
+                       "Side":  "buy",
+                       "Trades":  10,
+                       "Net":  -7.36,
+                       "Avg":  -0.74,
+                       "Worst":  -4.16
+                   },
+                   {
+                       "Side":  "sell",
+                       "Trades":  32,
+                       "Net":  12.64,
+                       "Avg":  0.39,
+                       "Worst":  -18.07
+                   }
+               ],
+    "byReason":  [
+                     {
+                         "Reason":  "Trend buy v7: candle-confirmed",
+                         "Trades":  10,
+                         "Net":  -7.36,
+                         "Avg":  -0.74,
+                         "Worst":  -4.16
+                     },
+                     {
+                         "Reason":  "Trend sell v7: candle-confirme",
+                         "Trades":  32,
+                         "Net":  12.64,
+                         "Avg":  0.39,
+                         "Worst":  -18.07
+                     }
+                 ],
+    "byHour":  [
+                   {
+                       "Hour":  20,
+                       "Trades":  4,
+                       "Net":  -21.11,
+                       "Avg":  -5.28,
+                       "Worst":  -15.81
+                   },
+                   {
+                       "Hour":  21,
+                       "Trades":  2,
+                       "Net":  -11.22,
+                       "Avg":  -5.61,
+                       "Worst":  -10.83
+                   },
+                   {
+                       "Hour":  12,
+                       "Trades":  1,
+                       "Net":  -7.41,
+                       "Avg":  -7.41,
+                       "Worst":  -7.41
+                   },
+                   {
+                       "Hour":  13,
+                       "Trades":  3,
+                       "Net":  -6.55,
+                       "Avg":  -2.18,
+                       "Worst":  -3.53
+                   },
+                   {
+                       "Hour":  7,
+                       "Trades":  3,
+                       "Net":  -5.77,
+                       "Avg":  -1.92,
+                       "Worst":  -3.39
+                   },
+                   {
+                       "Hour":  8,
+                       "Trades":  2,
+                       "Net":  -3.28,
+                       "Avg":  -1.64,
+                       "Worst":  -3.53
+                   },
+                   {
+                       "Hour":  23,
+                       "Trades":  1,
+                       "Net":  -2.77,
+                       "Avg":  -2.77,
+                       "Worst":  -2.77
+                   },
+                   {
+                       "Hour":  1,
+                       "Trades":  1,
+                       "Net":  -2.13,
+                       "Avg":  -2.13,
+                       "Worst":  -2.13
+                   },
+                   {
+                       "Hour":  19,
+                       "Trades":  2,
+                       "Net":  -0.74,
+                       "Avg":  -0.37,
+                       "Worst":  -6.64
+                   },
+                   {
+                       "Hour":  9,
+                       "Trades":  1,
+                       "Net":  0.25,
+                       "Avg":  0.25,
+                       "Worst":  0.25
+                   },
+                   {
+                       "Hour":  3,
+                       "Trades":  1,
+                       "Net":  0.25,
+                       "Avg":  0.25,
+                       "Worst":  0.25
+                   },
+                   {
+                       "Hour":  2,
+                       "Trades":  1,
+                       "Net":  3.52,
+                       "Avg":  3.52,
+                       "Worst":  3.52
+                   },
+                   {
+                       "Hour":  4,
+                       "Trades":  2,
+                       "Net":  4.12,
+                       "Avg":  2.06,
+                       "Worst":  0.25
+                   },
+                   {
+                       "Hour":  14,
+                       "Trades":  2,
+                       "Net":  4.13,
+                       "Avg":  2.06,
+                       "Worst":  -4.16
+                   },
+                   {
+                       "Hour":  6,
+                       "Trades":  6,
+                       "Net":  9.32,
+                       "Avg":  1.55,
+                       "Worst":  -4.51
+                   },
+                   {
+                       "Hour":  18,
+                       "Trades":  6,
+                       "Net":  9.45,
+                       "Avg":  1.58,
+                       "Worst":  -18.07
+                   },
+                   {
+                       "Hour":  22,
+                       "Trades":  4,
+                       "Net":  35.22,
+                       "Avg":  8.8,
+                       "Worst":  -8.69
+                   }
+               ],
+    "worst":  [
+                  {
+                      "OpenTime":  "\/Date(1745403600000)\/",
+                      "Side":  "sell",
+                      "DaySeq":  1,
+                      "Reason":  "Trend sell v7: candle-confirme",
+                      "CloseReason":  "sl 3293.32",
+                      "Profit":  -18.07,
+                      "HoldMin":  61.7
+                  },
+                  {
+                      "OpenTime":  "\/Date(1743769800000)\/",
+                      "Side":  "sell",
+                      "DaySeq":  2,
+                      "Reason":  "Trend sell v7: candle-confirme",
+                      "CloseReason":  "sl 3033.84",
+                      "Profit":  -15.81,
+                      "HoldMin":  115.7
+                  },
+                  {
+                      "OpenTime":  "\/Date(1746193500000)\/",
+                      "Side":  "sell",
+                      "DaySeq":  1,
+                      "Reason":  "Trend sell v7: candle-confirme",
+                      "CloseReason":  "sl 3236.03",
+                      "Profit":  -10.83,
+                      "HoldMin":  90.7
+                  },
+                  {
+                      "OpenTime":  "\/Date(1744123200000)\/",
+                      "Side":  "sell",
+                      "DaySeq":  1,
+                      "Reason":  "Trend sell v7: candle-confirme",
+                      "CloseReason":  "sl 2985.72",
+                      "Profit":  -8.6900000000000013,
+                      "HoldMin":  13.7
+                  },
+                  {
+                      "OpenTime":  "\/Date(1723632600000)\/",
+                      "Side":  "sell",
+                      "DaySeq":  1,
+                      "Reason":  "Trend sell v7: candle-confirme",
+                      "CloseReason":  "sl 2451.97",
+                      "Profit":  -7.629999999999999,
+                      "HoldMin":  526.7
+                  },
+                  {
+                      "OpenTime":  "\/Date(1743741900000)\/",
+                      "Side":  "sell",
+                      "DaySeq":  1,
+                      "Reason":  "Trend sell v7: candle-confirme",
+                      "CloseReason":  "sl 3095.60",
+                      "Profit":  -7.41,
+                      "HoldMin":  18.3
+                  },
+                  {
+                      "OpenTime":  "\/Date(1731410100000)\/",
+                      "Side":  "sell",
+                      "DaySeq":  1,
+                      "Reason":  "Trend sell v7: candle-confirme",
+                      "CloseReason":  "sl 2599.91",
+                      "Profit":  -6.64,
+                      "HoldMin":  52.3
+                  },
+                  {
+                      "OpenTime":  "\/Date(1735554000000)\/",
+                      "Side":  "sell",
+                      "DaySeq":  2,
+                      "Reason":  "Trend sell v7: candle-confirme",
+                      "CloseReason":  "sl 2604.96",
+                      "Profit":  -6.58,
+                      "HoldMin":  98.7
+                  },
+                  {
+                      "OpenTime":  "\/Date(1729687200000)\/",
+                      "Side":  "sell",
+                      "DaySeq":  1,
+                      "Reason":  "Trend sell v7: candle-confirme",
+                      "CloseReason":  "sl 2721.52",
+                      "Profit":  -5.8,
+                      "HoldMin":  359.3
+                  },
+                  {
+                      "OpenTime":  "\/Date(1731535500000)\/",
+                      "Side":  "sell",
+                      "DaySeq":  1,
+                      "Reason":  "Trend sell v7: candle-confirme",
+                      "CloseReason":  "sl 2564.29",
+                      "Profit":  -4.51,
+                      "HoldMin":  46.7
+                  },
+                  {
+                      "OpenTime":  "\/Date(1740981900000)\/",
+                      "Side":  "buy",
+                      "DaySeq":  1,
+                      "Reason":  "Trend buy v7: candle-confirmed",
+                      "CloseReason":  "sl 2871.98",
+                      "Profit":  -4.16,
+                      "HoldMin":  62.7
+                  },
+                  {
+                      "OpenTime":  "\/Date(1729833600000)\/",
+                      "Side":  "sell",
+                      "DaySeq":  1,
+                      "Reason":  "Trend sell v7: candle-confirme",
+                      "CloseReason":  "sl 2720.91",
+                      "Profit":  -3.53,
+                      "HoldMin":  19.3
+                  },
+                  {
+                      "OpenTime":  "\/Date(1721779200000)\/",
+                      "Side":  "buy",
+                      "DaySeq":  1,
+                      "Reason":  "Trend buy v7: candle-confirmed",
+                      "CloseReason":  "sl 2414.47",
+                      "Profit":  -3.53,
+                      "HoldMin":  16.7
+                  },
+                  {
+                      "OpenTime":  "\/Date(1724281800000)\/",
+                      "Side":  "sell",
+                      "DaySeq":  1,
+                      "Reason":  "Trend sell v7: candle-confirme",
+                      "CloseReason":  "sl 2503.85",
+                      "Profit":  -3.3899999999999997,
+                      "HoldMin":  80.7
+                  },
+                  {
+                      "OpenTime":  "\/Date(1735534800000)\/",
+                      "Side":  "sell",
+                      "DaySeq":  1,
+                      "Reason":  "Trend sell v7: candle-confirme",
+                      "CloseReason":  "sl 2613.84",
+                      "Profit":  -3.27,
+                      "HoldMin":  12.7
+                  }
+              ]
+}

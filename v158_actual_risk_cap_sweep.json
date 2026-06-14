@@ -1,0 +1,122 @@
+﻿[
+    {
+        "Cap":  "0.0",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "Cap":  "0.0",
+        "Period":  "test",
+        "Net":  "19.38",
+        "PF":  "1.19",
+        "EquityDD":  "45.09 (34.03%)",
+        "Trades":  "39"
+    },
+    {
+        "Cap":  "0.0",
+        "Period":  "verylong",
+        "Net":  "295.64",
+        "PF":  "2.48",
+        "EquityDD":  "46.75 (23.24%)",
+        "Trades":  "95"
+    },
+    {
+        "Cap":  "8.0",
+        "Period":  "latest",
+        "Net":  "-6.76",
+        "PF":  "0.00",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "1"
+    },
+    {
+        "Cap":  "8.0",
+        "Period":  "test",
+        "Net":  "-15.56",
+        "PF":  "0.62",
+        "EquityDD":  "31.65 (31.36%)",
+        "Trades":  "23"
+    },
+    {
+        "Cap":  "8.0",
+        "Period":  "verylong",
+        "Net":  "155.31",
+        "PF":  "1.99",
+        "EquityDD":  "58.89 (34.67%)",
+        "Trades":  "82"
+    },
+    {
+        "Cap":  "10.0",
+        "Period":  "latest",
+        "Net":  "-6.76",
+        "PF":  "0.00",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "1"
+    },
+    {
+        "Cap":  "10.0",
+        "Period":  "test",
+        "Net":  "-6.83",
+        "PF":  "0.91",
+        "EquityDD":  "41.56 (34.99%)",
+        "Trades":  "32"
+    },
+    {
+        "Cap":  "10.0",
+        "Period":  "verylong",
+        "Net":  "148.01",
+        "PF":  "1.82",
+        "EquityDD":  "54.50 (32.09%)",
+        "Trades":  "88"
+    },
+    {
+        "Cap":  "12.0",
+        "Period":  "latest",
+        "Net":  "-16.91",
+        "PF":  "0.00",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "2"
+    },
+    {
+        "Cap":  "12.0",
+        "Period":  "test",
+        "Net":  "-14.68",
+        "PF":  "0.82",
+        "EquityDD":  "41.56 (34.14%)",
+        "Trades":  "33"
+    },
+    {
+        "Cap":  "12.0",
+        "Period":  "verylong",
+        "Net":  "130.18",
+        "PF":  "1.65",
+        "EquityDD":  "72.33 (42.58%)",
+        "Trades":  "90"
+    },
+    {
+        "Cap":  "15.0",
+        "Period":  "latest",
+        "Net":  "-16.91",
+        "PF":  "0.00",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "2"
+    },
+    {
+        "Cap":  "15.0",
+        "Period":  "test",
+        "Net":  "-14.18",
+        "PF":  "0.83",
+        "EquityDD":  "41.56 (34.14%)",
+        "Trades":  "35"
+    },
+    {
+        "Cap":  "15.0",
+        "Period":  "verylong",
+        "Net":  "295.64",
+        "PF":  "2.48",
+        "EquityDD":  "46.75 (23.24%)",
+        "Trades":  "95"
+    }
+]

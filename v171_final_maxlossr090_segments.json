@@ -1,0 +1,42 @@
+﻿[
+    {
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3",
+        "Report":  "final_maxlossr090_latest_20260522_20260606.htm"
+    },
+    {
+        "Period":  "train",
+        "Net":  "48.37",
+        "PF":  "3.22",
+        "EquityDD":  "9.93 (7.65%)",
+        "Trades":  "24",
+        "Report":  "final_maxlossr090_train_20230102_20240601.htm"
+    },
+    {
+        "Period":  "test",
+        "Net":  "25.19",
+        "PF":  "1.26",
+        "EquityDD":  "45.09 (33.04%)",
+        "Trades":  "39",
+        "Report":  "final_maxlossr090_test_20240601_20250601.htm"
+    },
+    {
+        "Period":  "valid",
+        "Net":  "230.06",
+        "PF":  "4.07",
+        "EquityDD":  "42.66 (22.86%)",
+        "Trades":  "32",
+        "Report":  "final_maxlossr090_valid_20250601_20260606.htm"
+    },
+    {
+        "Period":  "verylong",
+        "Net":  "303.62",
+        "PF":  "2.58",
+        "EquityDD":  "45.09 (24.39%)",
+        "Trades":  "95",
+        "Report":  "final_maxlossr090_verylong_20230102_20260606.htm"
+    }
+]

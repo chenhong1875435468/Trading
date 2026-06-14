@@ -1,0 +1,122 @@
+﻿[
+    {
+        "Variant":  "base",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "Variant":  "base",
+        "Period":  "train",
+        "Net":  "48.12",
+        "PF":  "3.19",
+        "EquityDD":  "9.93 (7.66%)",
+        "Trades":  "24"
+    },
+    {
+        "Variant":  "base",
+        "Period":  "test",
+        "Net":  "22.26",
+        "PF":  "1.23",
+        "EquityDD":  "45.09 (33.30%)",
+        "Trades":  "39"
+    },
+    {
+        "Variant":  "base",
+        "Period":  "valid",
+        "Net":  "230.06",
+        "PF":  "4.07",
+        "EquityDD":  "42.66 (22.86%)",
+        "Trades":  "32"
+    },
+    {
+        "Variant":  "base",
+        "Period":  "verylong",
+        "Net":  "300.44",
+        "PF":  "2.54",
+        "EquityDD":  "45.09 (24.57%)",
+        "Trades":  "95"
+    },
+    {
+        "Variant":  "longrr14",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "Variant":  "longrr14",
+        "Period":  "train",
+        "Net":  "44.38",
+        "PF":  "3.02",
+        "EquityDD":  "11.25 (8.70%)",
+        "Trades":  "23"
+    },
+    {
+        "Variant":  "longrr14",
+        "Period":  "test",
+        "Net":  "29.23",
+        "PF":  "1.32",
+        "EquityDD":  "45.09 (31.62%)",
+        "Trades":  "32"
+    },
+    {
+        "Variant":  "longrr14",
+        "Period":  "valid",
+        "Net":  "228.31",
+        "PF":  "4.05",
+        "EquityDD":  "42.66 (23.07%)",
+        "Trades":  "31"
+    },
+    {
+        "Variant":  "longrr14",
+        "Period":  "verylong",
+        "Net":  "301.92",
+        "PF":  "2.62",
+        "EquityDD":  "46.83 (22.56%)",
+        "Trades":  "86"
+    },
+    {
+        "Variant":  "longrr14_candle2",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "Variant":  "longrr14_candle2",
+        "Period":  "train",
+        "Net":  "41.02",
+        "PF":  "2.87",
+        "EquityDD":  "11.25 (8.70%)",
+        "Trades":  "23"
+    },
+    {
+        "Variant":  "longrr14_candle2",
+        "Period":  "test",
+        "Net":  "32.76",
+        "PF":  "1.38",
+        "EquityDD":  "45.09 (30.85%)",
+        "Trades":  "31"
+    },
+    {
+        "Variant":  "longrr14_candle2",
+        "Period":  "valid",
+        "Net":  "228.31",
+        "PF":  "4.05",
+        "EquityDD":  "42.66 (23.07%)",
+        "Trades":  "31"
+    },
+    {
+        "Variant":  "longrr14_candle2",
+        "Period":  "verylong",
+        "Net":  "302.09",
+        "PF":  "2.65",
+        "EquityDD":  "46.83 (22.54%)",
+        "Trades":  "85"
+    }
+]

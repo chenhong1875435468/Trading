@@ -1,0 +1,65 @@
+﻿[
+    {
+        "Period":  "YearTo0604FibLongOnly",
+        "Side":  "sell",
+        "Trades":  31,
+        "Net":  198.69,
+        "Wins":  21,
+        "Losses":  10,
+        "Avg":  6.41
+    },
+    {
+        "Period":  "YearTo0604FibLongOnly",
+        "Side":  "buy",
+        "Trades":  3,
+        "Net":  3.5,
+        "Wins":  3,
+        "Losses":  0,
+        "Avg":  1.17
+    },
+    {
+        "Period":  "LongTo0604FibLongOnly",
+        "Side":  "sell",
+        "Trades":  68,
+        "Net":  242.9,
+        "Wins":  40,
+        "Losses":  28,
+        "Avg":  3.57
+    },
+    {
+        "Period":  "LongTo0604FibLongOnly",
+        "Side":  "buy",
+        "Trades":  6,
+        "Net":  4.4,
+        "Wins":  6,
+        "Losses":  0,
+        "Avg":  0.73
+    },
+    {
+        "Period":  "VeryLong2023FibLongOnly",
+        "Side":  "sell",
+        "Trades":  76,
+        "Net":  242.92,
+        "Wins":  43,
+        "Losses":  33,
+        "Avg":  3.2
+    },
+    {
+        "Period":  "VeryLong2023FibLongOnly",
+        "Side":  "buy",
+        "Trades":  6,
+        "Net":  4.4,
+        "Wins":  6,
+        "Losses":  0,
+        "Avg":  0.73
+    },
+    {
+        "Period":  "LatestTo0604FibLongOnly",
+        "Side":  "sell",
+        "Trades":  2,
+        "Net":  0.84,
+        "Wins":  null,
+        "Losses":  null,
+        "Avg":  0.42
+    }
+]

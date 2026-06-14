@@ -1,0 +1,170 @@
+﻿[
+    {
+        "Variant":  "base",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "Variant":  "base",
+        "Period":  "test",
+        "Net":  "19.38",
+        "PF":  "1.19",
+        "EquityDD":  "45.09 (34.03%)",
+        "Trades":  "39"
+    },
+    {
+        "Variant":  "base",
+        "Period":  "verylong",
+        "Net":  "295.64",
+        "PF":  "2.48",
+        "EquityDD":  "46.75 (23.24%)",
+        "Trades":  "95"
+    },
+    {
+        "Variant":  "be035",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "Variant":  "be035",
+        "Period":  "test",
+        "Net":  "10.30",
+        "PF":  "1.12",
+        "EquityDD":  "42.22 (29.32%)",
+        "Trades":  "39"
+    },
+    {
+        "Variant":  "be035",
+        "Period":  "verylong",
+        "Net":  "218.70",
+        "PF":  "2.24",
+        "EquityDD":  "42.66 (16.70%)",
+        "Trades":  "95"
+    },
+    {
+        "Variant":  "be040",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "Variant":  "be040",
+        "Period":  "test",
+        "Net":  "22.26",
+        "PF":  "1.23",
+        "EquityDD":  "45.09 (33.30%)",
+        "Trades":  "39"
+    },
+    {
+        "Variant":  "be040",
+        "Period":  "verylong",
+        "Net":  "300.44",
+        "PF":  "2.54",
+        "EquityDD":  "45.09 (24.57%)",
+        "Trades":  "95"
+    },
+    {
+        "Variant":  "trail09_mult12_step150",
+        "Period":  "latest",
+        "Net":  "-2.72",
+        "PF":  "0.84",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "Variant":  "trail09_mult12_step150",
+        "Period":  "test",
+        "Net":  "11.79",
+        "PF":  "1.12",
+        "EquityDD":  "46.97 (38.58%)",
+        "Trades":  "39"
+    },
+    {
+        "Variant":  "trail09_mult12_step150",
+        "Period":  "verylong",
+        "Net":  "285.14",
+        "PF":  "2.46",
+        "EquityDD":  "46.97 (30.38%)",
+        "Trades":  "95"
+    },
+    {
+        "Variant":  "trail08_mult10_step100",
+        "Period":  "latest",
+        "Net":  "0.58",
+        "PF":  "1.03",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "Variant":  "trail08_mult10_step100",
+        "Period":  "test",
+        "Net":  "17.43",
+        "PF":  "1.17",
+        "EquityDD":  "47.51 (39.03%)",
+        "Trades":  "39"
+    },
+    {
+        "Variant":  "trail08_mult10_step100",
+        "Period":  "verylong",
+        "Net":  "271.88",
+        "PF":  "2.40",
+        "EquityDD":  "47.51 (30.55%)",
+        "Trades":  "95"
+    },
+    {
+        "Variant":  "be040_trail09",
+        "Period":  "latest",
+        "Net":  "-2.72",
+        "PF":  "0.84",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "Variant":  "be040_trail09",
+        "Period":  "test",
+        "Net":  "13.73",
+        "PF":  "1.14",
+        "EquityDD":  "42.23 (34.48%)",
+        "Trades":  "39"
+    },
+    {
+        "Variant":  "be040_trail09",
+        "Period":  "verylong",
+        "Net":  "289.00",
+        "PF":  "2.53",
+        "EquityDD":  "42.66 (18.19%)",
+        "Trades":  "95"
+    },
+    {
+        "Variant":  "be035_trail08",
+        "Period":  "latest",
+        "Net":  "0.58",
+        "PF":  "1.03",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "Variant":  "be035_trail08",
+        "Period":  "test",
+        "Net":  "-1.51",
+        "PF":  "0.98",
+        "EquityDD":  "42.09 (39.91%)",
+        "Trades":  "39"
+    },
+    {
+        "Variant":  "be035_trail08",
+        "Period":  "verylong",
+        "Net":  "217.14",
+        "PF":  "2.27",
+        "EquityDD":  "42.66 (18.45%)",
+        "Trades":  "95"
+    }
+]

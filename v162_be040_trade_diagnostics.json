@@ -1,0 +1,346 @@
+﻿{
+    "testTotal":  {
+                      "Trades":  39,
+                      "Net":  22.26,
+                      "Wins":  21,
+                      "Losses":  18
+                  },
+    "testBySide":  [
+                       {
+                           "Side":  "buy",
+                           "Trades":  10,
+                           "Net":  -7.36,
+                           "Avg":  -0.74,
+                           "Worst":  -4.16,
+                           "Best":  3.52
+                       },
+                       {
+                           "Side":  "sell",
+                           "Trades":  29,
+                           "Net":  29.62,
+                           "Avg":  1.02,
+                           "Worst":  -18.07,
+                           "Best":  45.33
+                       }
+                   ],
+    "testByMonth":  [
+                        {
+                            "Month":  "2024-08",
+                            "Trades":  3,
+                            "Net":  -14.07,
+                            "Worst":  -7.63
+                        },
+                        {
+                            "Month":  "2025-05",
+                            "Trades":  6,
+                            "Net":  -9.58,
+                            "Worst":  -10.83
+                        },
+                        {
+                            "Month":  "2024-10",
+                            "Trades":  4,
+                            "Net":  -8.83,
+                            "Worst":  -5.8
+                        },
+                        {
+                            "Month":  "2024-11",
+                            "Trades":  6,
+                            "Net":  -4.25,
+                            "Worst":  -6.64
+                        },
+                        {
+                            "Month":  "2025-03",
+                            "Trades":  1,
+                            "Net":  -4.16,
+                            "Worst":  -4.16
+                        },
+                        {
+                            "Month":  "2024-07",
+                            "Trades":  1,
+                            "Net":  -3.53,
+                            "Worst":  -3.53
+                        },
+                        {
+                            "Month":  "2025-01",
+                            "Trades":  2,
+                            "Net":  3.01,
+                            "Worst":  -1.67
+                        },
+                        {
+                            "Month":  "2024-09",
+                            "Trades":  2,
+                            "Net":  4.12,
+                            "Worst":  0.25
+                        },
+                        {
+                            "Month":  "2025-02",
+                            "Trades":  2,
+                            "Net":  11.31,
+                            "Worst":  -0.39
+                        },
+                        {
+                            "Month":  "2024-06",
+                            "Trades":  3,
+                            "Net":  14.33,
+                            "Worst":  -2.13
+                        },
+                        {
+                            "Month":  "2024-12",
+                            "Trades":  4,
+                            "Net":  16.7,
+                            "Worst":  -3.27
+                        },
+                        {
+                            "Month":  "2025-04",
+                            "Trades":  5,
+                            "Net":  17.21,
+                            "Worst":  -18.07
+                        }
+                    ],
+    "testByHour":  [
+                       {
+                           "Hour":  21,
+                           "Trades":  2,
+                           "Net":  -11.22,
+                           "Worst":  -10.83
+                       },
+                       {
+                           "Hour":  12,
+                           "Trades":  1,
+                           "Net":  -7.41,
+                           "Worst":  -7.41
+                       },
+                       {
+                           "Hour":  13,
+                           "Trades":  3,
+                           "Net":  -6.55,
+                           "Worst":  -3.53
+                       },
+                       {
+                           "Hour":  20,
+                           "Trades":  3,
+                           "Net":  -5.3,
+                           "Worst":  -5.8
+                       },
+                       {
+                           "Hour":  14,
+                           "Trades":  1,
+                           "Net":  -4.16,
+                           "Worst":  -4.16
+                       },
+                       {
+                           "Hour":  8,
+                           "Trades":  2,
+                           "Net":  -3.28,
+                           "Worst":  -3.53
+                       },
+                       {
+                           "Hour":  7,
+                           "Trades":  3,
+                           "Net":  -2.89,
+                           "Worst":  -3.39
+                       },
+                       {
+                           "Hour":  23,
+                           "Trades":  1,
+                           "Net":  -2.77,
+                           "Worst":  -2.77
+                       },
+                       {
+                           "Hour":  1,
+                           "Trades":  1,
+                           "Net":  -2.13,
+                           "Worst":  -2.13
+                       },
+                       {
+                           "Hour":  19,
+                           "Trades":  2,
+                           "Net":  -0.74,
+                           "Worst":  -6.64
+                       },
+                       {
+                           "Hour":  9,
+                           "Trades":  1,
+                           "Net":  0.25,
+                           "Worst":  0.25
+                       },
+                       {
+                           "Hour":  3,
+                           "Trades":  1,
+                           "Net":  0.25,
+                           "Worst":  0.25
+                       },
+                       {
+                           "Hour":  2,
+                           "Trades":  1,
+                           "Net":  3.52,
+                           "Worst":  3.52
+                       },
+                       {
+                           "Hour":  4,
+                           "Trades":  2,
+                           "Net":  4.12,
+                           "Worst":  0.25
+                       },
+                       {
+                           "Hour":  6,
+                           "Trades":  6,
+                           "Net":  9.32,
+                           "Worst":  -4.51
+                       },
+                       {
+                           "Hour":  18,
+                           "Trades":  5,
+                           "Net":  16.03,
+                           "Worst":  -18.07
+                       },
+                       {
+                           "Hour":  22,
+                           "Trades":  4,
+                           "Net":  35.22,
+                           "Worst":  -8.69
+                       }
+                   ],
+    "testWorst":  [
+                      {
+                          "OpenTime":  "\/Date(1745403600000)\/",
+                          "Side":  "sell",
+                          "DaySeq":  1,
+                          "DayProfitBefore":  0,
+                          "Profit":  -18.07,
+                          "CloseReason":  "sl 3293.32",
+                          "HoldMin":  61.7
+                      },
+                      {
+                          "OpenTime":  "\/Date(1746193500000)\/",
+                          "Side":  "sell",
+                          "DaySeq":  1,
+                          "DayProfitBefore":  0,
+                          "Profit":  -10.83,
+                          "CloseReason":  "sl 3236.03",
+                          "HoldMin":  90.7
+                      },
+                      {
+                          "OpenTime":  "\/Date(1744123200000)\/",
+                          "Side":  "sell",
+                          "DaySeq":  1,
+                          "DayProfitBefore":  0,
+                          "Profit":  -8.6900000000000013,
+                          "CloseReason":  "sl 2985.72",
+                          "HoldMin":  13.7
+                      },
+                      {
+                          "OpenTime":  "\/Date(1723632600000)\/",
+                          "Side":  "sell",
+                          "DaySeq":  1,
+                          "DayProfitBefore":  0,
+                          "Profit":  -7.629999999999999,
+                          "CloseReason":  "sl 2451.97",
+                          "HoldMin":  526.7
+                      },
+                      {
+                          "OpenTime":  "\/Date(1743741900000)\/",
+                          "Side":  "sell",
+                          "DaySeq":  1,
+                          "DayProfitBefore":  0,
+                          "Profit":  -7.41,
+                          "CloseReason":  "sl 3095.60",
+                          "HoldMin":  18.3
+                      },
+                      {
+                          "OpenTime":  "\/Date(1731410100000)\/",
+                          "Side":  "sell",
+                          "DaySeq":  1,
+                          "DayProfitBefore":  0,
+                          "Profit":  -6.64,
+                          "CloseReason":  "sl 2599.91",
+                          "HoldMin":  52.3
+                      },
+                      {
+                          "OpenTime":  "\/Date(1729687200000)\/",
+                          "Side":  "sell",
+                          "DaySeq":  1,
+                          "DayProfitBefore":  0,
+                          "Profit":  -5.8,
+                          "CloseReason":  "sl 2721.52",
+                          "HoldMin":  359.3
+                      },
+                      {
+                          "OpenTime":  "\/Date(1731535500000)\/",
+                          "Side":  "sell",
+                          "DaySeq":  1,
+                          "DayProfitBefore":  0,
+                          "Profit":  -4.51,
+                          "CloseReason":  "sl 2564.29",
+                          "HoldMin":  46.7
+                      },
+                      {
+                          "OpenTime":  "\/Date(1740981900000)\/",
+                          "Side":  "buy",
+                          "DaySeq":  1,
+                          "DayProfitBefore":  0,
+                          "Profit":  -4.16,
+                          "CloseReason":  "sl 2871.98",
+                          "HoldMin":  62.7
+                      },
+                      {
+                          "OpenTime":  "\/Date(1729833600000)\/",
+                          "Side":  "sell",
+                          "DaySeq":  1,
+                          "DayProfitBefore":  0,
+                          "Profit":  -3.53,
+                          "CloseReason":  "sl 2720.91",
+                          "HoldMin":  19.3
+                      },
+                      {
+                          "OpenTime":  "\/Date(1721779200000)\/",
+                          "Side":  "buy",
+                          "DaySeq":  1,
+                          "DayProfitBefore":  0,
+                          "Profit":  -3.53,
+                          "CloseReason":  "sl 2414.47",
+                          "HoldMin":  16.7
+                      },
+                      {
+                          "OpenTime":  "\/Date(1724281800000)\/",
+                          "Side":  "sell",
+                          "DaySeq":  1,
+                          "DayProfitBefore":  0,
+                          "Profit":  -3.3899999999999997,
+                          "CloseReason":  "sl 2503.85",
+                          "HoldMin":  80.7
+                      }
+                  ],
+    "verylongBySide":  [
+                           {
+                               "Side":  "buy",
+                               "Trades":  18,
+                               "Net":  15.77,
+                               "Avg":  0.88,
+                               "Worst":  -4.16
+                           },
+                           {
+                               "Side":  "sell",
+                               "Trades":  77,
+                               "Net":  284.67,
+                               "Avg":  3.7,
+                               "Worst":  -18.07
+                           }
+                       ],
+    "validBySide":  [
+                        {
+                            "Side":  "buy",
+                            "Trades":  4,
+                            "Net":  9.21,
+                            "Avg":  2.3,
+                            "Worst":  0.25
+                        },
+                        {
+                            "Side":  "sell",
+                            "Trades":  28,
+                            "Net":  220.85,
+                            "Avg":  7.89,
+                            "Worst":  -12.23
+                        }
+                    ]
+}

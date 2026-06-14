@@ -1,0 +1,137 @@
+﻿[
+    {
+        "Period":  "Train",
+        "Side":  "sell",
+        "Trades":  15,
+        "Net":  45.21,
+        "Wins":  10,
+        "Losses":  5,
+        "Avg":  3.01
+    },
+    {
+        "Period":  "Train",
+        "Side":  "buy",
+        "Trades":  4,
+        "Net":  3.8,
+        "Wins":  4,
+        "Losses":  0,
+        "Avg":  0.95
+    },
+    {
+        "Period":  "Test",
+        "Side":  "sell",
+        "Trades":  7,
+        "Net":  65.91,
+        "Wins":  5,
+        "Losses":  2,
+        "Avg":  9.42
+    },
+    {
+        "Period":  "Valid",
+        "Side":  "sell",
+        "Trades":  7,
+        "Net":  86.73,
+        "Wins":  5,
+        "Losses":  2,
+        "Avg":  12.39
+    },
+    {
+        "Period":  "Year",
+        "Side":  "sell",
+        "Trades":  29,
+        "Net":  197.85,
+        "Wins":  20,
+        "Losses":  9,
+        "Avg":  6.82
+    },
+    {
+        "Period":  "Year",
+        "Side":  "buy",
+        "Trades":  4,
+        "Net":  3.8,
+        "Wins":  4,
+        "Losses":  0,
+        "Avg":  0.95
+    },
+    {
+        "Period":  "Long",
+        "Side":  "sell",
+        "Trades":  66,
+        "Net":  242.06,
+        "Wins":  39,
+        "Losses":  27,
+        "Avg":  3.67
+    },
+    {
+        "Period":  "Long",
+        "Side":  "buy",
+        "Trades":  14,
+        "Net":  15.23,
+        "Wins":  12,
+        "Losses":  2,
+        "Avg":  1.09
+    },
+    {
+        "Period":  "YearTo0604",
+        "Side":  "sell",
+        "Trades":  31,
+        "Net":  198.69,
+        "Wins":  21,
+        "Losses":  10,
+        "Avg":  6.41
+    },
+    {
+        "Period":  "YearTo0604",
+        "Side":  "buy",
+        "Trades":  4,
+        "Net":  3.8,
+        "Wins":  4,
+        "Losses":  0,
+        "Avg":  0.95
+    },
+    {
+        "Period":  "LongTo0604",
+        "Side":  "sell",
+        "Trades":  68,
+        "Net":  242.9,
+        "Wins":  40,
+        "Losses":  28,
+        "Avg":  3.57
+    },
+    {
+        "Period":  "LongTo0604",
+        "Side":  "buy",
+        "Trades":  14,
+        "Net":  15.23,
+        "Wins":  12,
+        "Losses":  2,
+        "Avg":  1.09
+    },
+    {
+        "Period":  "VeryLong2023",
+        "Side":  "buy",
+        "Trades":  15,
+        "Net":  16.62,
+        "Wins":  13,
+        "Losses":  2,
+        "Avg":  1.11
+    },
+    {
+        "Period":  "VeryLong2023",
+        "Side":  "sell",
+        "Trades":  76,
+        "Net":  242.92,
+        "Wins":  43,
+        "Losses":  33,
+        "Avg":  3.2
+    },
+    {
+        "Period":  "LatestTo0604",
+        "Side":  "sell",
+        "Trades":  2,
+        "Net":  0.84,
+        "Wins":  null,
+        "Losses":  null,
+        "Avg":  0.42
+    }
+]

@@ -1,0 +1,170 @@
+﻿[
+    {
+        "ShortRR":  "2.30",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "ShortRR":  "2.30",
+        "Period":  "test",
+        "Net":  "10.60",
+        "PF":  "1.11",
+        "EquityDD":  "45.09 (33.89%)",
+        "Trades":  "39"
+    },
+    {
+        "ShortRR":  "2.30",
+        "Period":  "verylong",
+        "Net":  "231.46",
+        "PF":  "2.18",
+        "EquityDD":  "45.09 (26.01%)",
+        "Trades":  "95"
+    },
+    {
+        "ShortRR":  "2.50",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "ShortRR":  "2.50",
+        "Period":  "test",
+        "Net":  "11.25",
+        "PF":  "1.11",
+        "EquityDD":  "45.09 (34.53%)",
+        "Trades":  "39"
+    },
+    {
+        "ShortRR":  "2.50",
+        "Period":  "verylong",
+        "Net":  "251.23",
+        "PF":  "2.29",
+        "EquityDD":  "45.09 (25.99%)",
+        "Trades":  "95"
+    },
+    {
+        "ShortRR":  "2.70",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "ShortRR":  "2.70",
+        "Period":  "test",
+        "Net":  "16.75",
+        "PF":  "1.17",
+        "EquityDD":  "45.09 (33.90%)",
+        "Trades":  "39"
+    },
+    {
+        "ShortRR":  "2.70",
+        "Period":  "verylong",
+        "Net":  "275.81",
+        "PF":  "2.41",
+        "EquityDD":  "45.09 (25.26%)",
+        "Trades":  "95"
+    },
+    {
+        "ShortRR":  "2.90",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "ShortRR":  "2.90",
+        "Period":  "test",
+        "Net":  "22.26",
+        "PF":  "1.23",
+        "EquityDD":  "45.09 (33.30%)",
+        "Trades":  "39"
+    },
+    {
+        "ShortRR":  "2.90",
+        "Period":  "verylong",
+        "Net":  "300.44",
+        "PF":  "2.54",
+        "EquityDD":  "45.09 (24.57%)",
+        "Trades":  "95"
+    },
+    {
+        "ShortRR":  "3.10",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "ShortRR":  "3.10",
+        "Period":  "test",
+        "Net":  "27.76",
+        "PF":  "1.28",
+        "EquityDD":  "45.09 (32.72%)",
+        "Trades":  "39"
+    },
+    {
+        "ShortRR":  "3.10",
+        "Period":  "verylong",
+        "Net":  "292.34",
+        "PF":  "2.50",
+        "EquityDD":  "56.28 (22.49%)",
+        "Trades":  "95"
+    },
+    {
+        "ShortRR":  "3.30",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "ShortRR":  "3.30",
+        "Period":  "test",
+        "Net":  "33.26",
+        "PF":  "1.34",
+        "EquityDD":  "45.09 (32.16%)",
+        "Trades":  "39"
+    },
+    {
+        "ShortRR":  "3.30",
+        "Period":  "verylong",
+        "Net":  "287.30",
+        "PF":  "2.47",
+        "EquityDD":  "60.13 (14.58%)",
+        "Trades":  "95"
+    },
+    {
+        "ShortRR":  "3.50",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "ShortRR":  "3.50",
+        "Period":  "test",
+        "Net":  "13.59",
+        "PF":  "1.14",
+        "EquityDD":  "58.96 (35.95%)",
+        "Trades":  "39"
+    },
+    {
+        "ShortRR":  "3.50",
+        "Period":  "verylong",
+        "Net":  "226.50",
+        "PF":  "2.07",
+        "EquityDD":  "61.57 (28.55%)",
+        "Trades":  "96"
+    }
+]

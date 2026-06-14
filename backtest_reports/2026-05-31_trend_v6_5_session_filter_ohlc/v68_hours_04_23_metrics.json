@@ -1,0 +1,35 @@
+﻿[
+    {
+        "Period":  "YearCurrent",
+        "Net":  "199.42",
+        "PF":  "2.96",
+        "Trades":  "32",
+        "Win":  "22 (68.75%)",
+        "AvgWin":  "13.68",
+        "AvgLoss":  "-9.99",
+        "MaxDD":  "23.85 (14.19%)",
+        "Params":  "\u003ctd nowrap colspan=\"10\" align=\"left\"\u003e\u003cb\u003eInpUseTradeHours=true\u003c/b\u003e\u003c/td\u003e \u003ctd nowrap colspan=\"10\" align=\"left\"\u003e\u003cb\u003eInpTradeStartHour=4\u003c/b\u003e\u003c/td\u003e \u003ctd nowrap colspan=\"10\" align=\"left\"\u003e\u003cb\u003eInpTradeEndHour=23\u003c/b\u003e\u003c/td\u003e"
+    },
+    {
+        "Period":  "LongCurrent",
+        "Net":  "256.75",
+        "PF":  "2.21",
+        "Trades":  "79",
+        "Win":  "47 (59.49%)",
+        "AvgWin":  "9.99",
+        "AvgLoss":  "-6.53",
+        "MaxDD":  "23.85 (10.58%)",
+        "Params":  "\u003ctd nowrap colspan=\"10\" align=\"left\"\u003e\u003cb\u003eInpUseTradeHours=true\u003c/b\u003e\u003c/td\u003e \u003ctd nowrap colspan=\"10\" align=\"left\"\u003e\u003cb\u003eInpTradeStartHour=4\u003c/b\u003e\u003c/td\u003e \u003ctd nowrap colspan=\"10\" align=\"left\"\u003e\u003cb\u003eInpTradeEndHour=23\u003c/b\u003e\u003c/td\u003e"
+    },
+    {
+        "Period":  "Latest",
+        "Net":  "0.74",
+        "PF":  "1.07",
+        "Trades":  "2",
+        "Win":  "1 (50.00%)",
+        "AvgWin":  "10.94",
+        "AvgLoss":  "-10.10",
+        "MaxDD":  "10.20 (10.20%)",
+        "Params":  "\u003ctd nowrap colspan=\"10\" align=\"left\"\u003e\u003cb\u003eInpUseTradeHours=true\u003c/b\u003e\u003c/td\u003e \u003ctd nowrap colspan=\"10\" align=\"left\"\u003e\u003cb\u003eInpTradeStartHour=4\u003c/b\u003e\u003c/td\u003e \u003ctd nowrap colspan=\"10\" align=\"left\"\u003e\u003cb\u003eInpTradeEndHour=23\u003c/b\u003e\u003c/td\u003e"
+    }
+]

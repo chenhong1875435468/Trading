@@ -1,0 +1,65 @@
+﻿[
+    {
+        "Period":  "YearTo0604FibLongOnly",
+        "Kind":  "Trend",
+        "Trades":  30,
+        "Net":  199.53,
+        "Wins":  21,
+        "Losses":  9,
+        "Avg":  6.65
+    },
+    {
+        "Period":  "YearTo0604FibLongOnly",
+        "Kind":  "Grid",
+        "Trades":  4,
+        "Net":  2.66,
+        "Wins":  3,
+        "Losses":  null,
+        "Avg":  0.66
+    },
+    {
+        "Period":  "LongTo0604FibLongOnly",
+        "Kind":  "Trend",
+        "Trades":  70,
+        "Net":  244.64,
+        "Wins":  43,
+        "Losses":  27,
+        "Avg":  3.49
+    },
+    {
+        "Period":  "LongTo0604FibLongOnly",
+        "Kind":  "Grid",
+        "Trades":  4,
+        "Net":  2.66,
+        "Wins":  3,
+        "Losses":  null,
+        "Avg":  0.66
+    },
+    {
+        "Period":  "VeryLong2023FibLongOnly",
+        "Kind":  "Trend",
+        "Trades":  78,
+        "Net":  244.66,
+        "Wins":  46,
+        "Losses":  32,
+        "Avg":  3.14
+    },
+    {
+        "Period":  "VeryLong2023FibLongOnly",
+        "Kind":  "Grid",
+        "Trades":  4,
+        "Net":  2.66,
+        "Wins":  3,
+        "Losses":  null,
+        "Avg":  0.66
+    },
+    {
+        "Period":  "LatestTo0604FibLongOnly",
+        "Kind":  "Trend",
+        "Trades":  2,
+        "Net":  0.84,
+        "Wins":  null,
+        "Losses":  null,
+        "Avg":  0.42
+    }
+]

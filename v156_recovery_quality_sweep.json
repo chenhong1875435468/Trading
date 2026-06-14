@@ -1,0 +1,162 @@
+﻿[
+    {
+        "Variant":  "money7p5",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "Variant":  "money7p5",
+        "Period":  "train",
+        "Net":  "32.61",
+        "PF":  "2.49",
+        "EquityDD":  "10.06 (7.35%)",
+        "Trades":  "21"
+    },
+    {
+        "Variant":  "money7p5",
+        "Period":  "test",
+        "Net":  "19.38",
+        "PF":  "1.19",
+        "EquityDD":  "45.09 (34.03%)",
+        "Trades":  "39"
+    },
+    {
+        "Variant":  "money7p5",
+        "Period":  "valid",
+        "Net":  "228.14",
+        "PF":  "3.98",
+        "EquityDD":  "42.66 (23.10%)",
+        "Trades":  "32"
+    },
+    {
+        "Variant":  "money7p5",
+        "Period":  "verylong",
+        "Net":  "280.13",
+        "PF":  "2.40",
+        "EquityDD":  "46.75 (25.18%)",
+        "Trades":  "92"
+    },
+    {
+        "Variant":  "money7p5_hold40",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "Variant":  "money7p5_hold40",
+        "Period":  "train",
+        "Net":  "48.12",
+        "PF":  "3.19",
+        "EquityDD":  "9.93 (7.66%)",
+        "Trades":  "24"
+    },
+    {
+        "Variant":  "money7p5_hold40",
+        "Period":  "test",
+        "Net":  "19.38",
+        "PF":  "1.19",
+        "EquityDD":  "45.09 (34.03%)",
+        "Trades":  "39"
+    },
+    {
+        "Variant":  "money7p5_hold40",
+        "Period":  "valid",
+        "Net":  "228.14",
+        "PF":  "3.98",
+        "EquityDD":  "42.66 (23.10%)",
+        "Trades":  "32"
+    },
+    {
+        "Variant":  "money7p5_hold40",
+        "Period":  "verylong",
+        "Net":  "295.64",
+        "PF":  "2.48",
+        "EquityDD":  "46.75 (23.24%)",
+        "Trades":  "95"
+    },
+    {
+        "Variant":  "money7p5_hold45",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "Variant":  "money7p5_hold45",
+        "Period":  "train",
+        "Net":  "48.12",
+        "PF":  "3.19",
+        "EquityDD":  "9.93 (7.66%)",
+        "Trades":  "24"
+    },
+    {
+        "Variant":  "money7p5_hold45",
+        "Period":  "test",
+        "Net":  "19.38",
+        "PF":  "1.19",
+        "EquityDD":  "45.09 (34.03%)",
+        "Trades":  "39"
+    },
+    {
+        "Variant":  "money7p5_hold45",
+        "Period":  "valid",
+        "Net":  "228.14",
+        "PF":  "3.98",
+        "EquityDD":  "42.66 (23.10%)",
+        "Trades":  "32"
+    },
+    {
+        "Variant":  "money7p5_hold45",
+        "Period":  "verylong",
+        "Net":  "295.64",
+        "PF":  "2.48",
+        "EquityDD":  "46.75 (23.24%)",
+        "Trades":  "95"
+    },
+    {
+        "Variant":  "money7p5_hold50",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "Variant":  "money7p5_hold50",
+        "Period":  "train",
+        "Net":  "32.61",
+        "PF":  "2.49",
+        "EquityDD":  "10.06 (7.35%)",
+        "Trades":  "21"
+    },
+    {
+        "Variant":  "money7p5_hold50",
+        "Period":  "test",
+        "Net":  "19.38",
+        "PF":  "1.19",
+        "EquityDD":  "45.09 (34.03%)",
+        "Trades":  "39"
+    },
+    {
+        "Variant":  "money7p5_hold50",
+        "Period":  "valid",
+        "Net":  "228.14",
+        "PF":  "3.98",
+        "EquityDD":  "42.66 (23.10%)",
+        "Trades":  "32"
+    },
+    {
+        "Variant":  "money7p5_hold50",
+        "Period":  "verylong",
+        "Net":  "280.13",
+        "PF":  "2.40",
+        "EquityDD":  "46.75 (25.18%)",
+        "Trades":  "92"
+    }
+]

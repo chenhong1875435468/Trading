@@ -1,0 +1,122 @@
+﻿{
+    "Side":  [
+                 {
+                     "Side":  "sell",
+                     "Trades":  65,
+                     "Net":  241.75,
+                     "Wins":  38,
+                     "Losses":  27,
+                     "WinRate":  58.46,
+                     "AvgWin":  11.7,
+                     "AvgLoss":  -7.52
+                 },
+                 {
+                     "Side":  "buy",
+                     "Trades":  14,
+                     "Net":  15.23,
+                     "Wins":  12,
+                     "Losses":  2,
+                     "WinRate":  85.71,
+                     "AvgWin":  1.9,
+                     "AvgLoss":  -3.8
+                 }
+             ],
+    "Kind":  [
+                 {
+                     "Kind":  "Trend",
+                     "Trades":  78,
+                     "Net":  255.47,
+                     "WinRate":  62.82
+                 },
+                 {
+                     "Kind":  "Range",
+                     "Trades":  1,
+                     "Net":  1.51,
+                     "WinRate":  0
+                 }
+             ],
+    "WorstMonths":  [
+                        {
+                            "Month":  "2025-11",
+                            "Trades":  1,
+                            "Net":  -12.18,
+                            "Wins":  0,
+                            "Losses":  null
+                        },
+                        {
+                            "Month":  "2025-12",
+                            "Trades":  1,
+                            "Net":  -11.52,
+                            "Wins":  0,
+                            "Losses":  null
+                        },
+                        {
+                            "Month":  "2024-10",
+                            "Trades":  4,
+                            "Net":  -9.84,
+                            "Wins":  2,
+                            "Losses":  2
+                        },
+                        {
+                            "Month":  "2024-01",
+                            "Trades":  6,
+                            "Net":  -8.64,
+                            "Wins":  2,
+                            "Losses":  4
+                        },
+                        {
+                            "Month":  "2025-07",
+                            "Trades":  5,
+                            "Net":  -8.2,
+                            "Wins":  3,
+                            "Losses":  2
+                        },
+                        {
+                            "Month":  "2024-08",
+                            "Trades":  4,
+                            "Net":  -6.79,
+                            "Wins":  null,
+                            "Losses":  3
+                        },
+                        {
+                            "Month":  "2024-11",
+                            "Trades":  3,
+                            "Net":  -5.5,
+                            "Wins":  null,
+                            "Losses":  2
+                        },
+                        {
+                            "Month":  "2025-03",
+                            "Trades":  1,
+                            "Net":  -4.11,
+                            "Wins":  0,
+                            "Losses":  null
+                        }
+                    ],
+    "Latest":  [
+                   {
+                       "EntryTime":  "\/Date(1779848100000)\/",
+                       "ExitTime":  "\/Date(1779851980000)\/",
+                       "Side":  "sell",
+                       "Kind":  "Trend",
+                       "Profit":  -10.1,
+                       "Entry":  "Trend sell v4: M5 EMA-aligned ",
+                       "Exit":  "sl 4490.50",
+                       "Hour":  10,
+                       "Month":  "2026-05",
+                       "DurationMin":  65
+                   },
+                   {
+                       "EntryTime":  "\/Date(1779868800000)\/",
+                       "ExitTime":  "\/Date(1779871580000)\/",
+                       "Side":  "sell",
+                       "Kind":  "Trend",
+                       "Profit":  10.94,
+                       "Entry":  "Trend sell v4: M5 EMA-aligned ",
+                       "Exit":  "sl 4427.98",
+                       "Hour":  16,
+                       "Month":  "2026-05",
+                       "DurationMin":  46
+                   }
+               ]
+}

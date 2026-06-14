@@ -1,0 +1,170 @@
+﻿[
+    {
+        "Variant":  "base",
+        "Period":  "h2_2024",
+        "Net":  "-8.77",
+        "PF":  "0.80",
+        "EquityDD":  "31.63 (31.18%)",
+        "Trades":  "20"
+    },
+    {
+        "Variant":  "base",
+        "Period":  "test",
+        "Net":  "25.19",
+        "PF":  "1.26",
+        "EquityDD":  "45.09 (33.04%)",
+        "Trades":  "39"
+    },
+    {
+        "Variant":  "base",
+        "Period":  "verylong",
+        "Net":  "303.62",
+        "PF":  "2.58",
+        "EquityDD":  "45.09 (24.39%)",
+        "Trades":  "95"
+    },
+    {
+        "Variant":  "fibShort",
+        "Period":  "h2_2024",
+        "Net":  "11.67",
+        "PF":  "1.51",
+        "EquityDD":  "11.83 (11.71%)",
+        "Trades":  "14"
+    },
+    {
+        "Variant":  "fibShort",
+        "Period":  "test",
+        "Net":  "3.91",
+        "PF":  "1.08",
+        "EquityDD":  "40.65 (29.88%)",
+        "Trades":  "26"
+    },
+    {
+        "Variant":  "fibShort",
+        "Period":  "verylong",
+        "Net":  "178.67",
+        "PF":  "3.35",
+        "EquityDD":  "56.31 (19.42%)",
+        "Trades":  "58"
+    },
+    {
+        "Variant":  "structRoom",
+        "Period":  "h2_2024",
+        "Net":  "-9.69",
+        "PF":  "0.72",
+        "EquityDD":  "35.83 (34.13%)",
+        "Trades":  "12"
+    },
+    {
+        "Variant":  "structRoom",
+        "Period":  "test",
+        "Net":  "42.97",
+        "PF":  "1.77",
+        "EquityDD":  "36.40 (26.95%)",
+        "Trades":  "24"
+    },
+    {
+        "Variant":  "structRoom",
+        "Period":  "verylong",
+        "Net":  "196.29",
+        "PF":  "2.45",
+        "EquityDD":  "47.21 (18.53%)",
+        "Trades":  "66"
+    },
+    {
+        "Variant":  "adxdrop5",
+        "Period":  "h2_2024",
+        "Net":  "-13.48",
+        "PF":  "0.72",
+        "EquityDD":  "33.75 (33.27%)",
+        "Trades":  "19"
+    },
+    {
+        "Variant":  "adxdrop5",
+        "Period":  "test",
+        "Net":  "29.30",
+        "PF":  "1.32",
+        "EquityDD":  "45.09 (36.21%)",
+        "Trades":  "36"
+    },
+    {
+        "Variant":  "adxdrop5",
+        "Period":  "verylong",
+        "Net":  "267.12",
+        "PF":  "2.49",
+        "EquityDD":  "56.31 (14.49%)",
+        "Trades":  "85"
+    },
+    {
+        "Variant":  "candle2",
+        "Period":  "h2_2024",
+        "Net":  "-5.49",
+        "PF":  "0.86",
+        "EquityDD":  "31.88 (30.37%)",
+        "Trades":  "18"
+    },
+    {
+        "Variant":  "candle2",
+        "Period":  "test",
+        "Net":  "28.47",
+        "PF":  "1.31",
+        "EquityDD":  "45.09 (32.26%)",
+        "Trades":  "37"
+    },
+    {
+        "Variant":  "candle2",
+        "Period":  "verylong",
+        "Net":  "303.54",
+        "PF":  "2.61",
+        "EquityDD":  "45.09 (24.40%)",
+        "Trades":  "93"
+    },
+    {
+        "Variant":  "fibShort_adxdrop5",
+        "Period":  "h2_2024",
+        "Net":  "6.96",
+        "PF":  "1.26",
+        "EquityDD":  "16.35 (15.65%)",
+        "Trades":  "13"
+    },
+    {
+        "Variant":  "fibShort_adxdrop5",
+        "Period":  "test",
+        "Net":  "6.61",
+        "PF":  "1.14",
+        "EquityDD":  "40.65 (29.30%)",
+        "Trades":  "24"
+    },
+    {
+        "Variant":  "fibShort_adxdrop5",
+        "Period":  "verylong",
+        "Net":  "182.98",
+        "PF":  "3.58",
+        "EquityDD":  "56.31 (19.14%)",
+        "Trades":  "54"
+    },
+    {
+        "Variant":  "structRoom_adxdrop5",
+        "Period":  "h2_2024",
+        "Net":  "-9.94",
+        "PF":  "0.71",
+        "EquityDD":  "33.49 (31.90%)",
+        "Trades":  "11"
+    },
+    {
+        "Variant":  "structRoom_adxdrop5",
+        "Period":  "test",
+        "Net":  "59.03",
+        "PF":  "2.50",
+        "EquityDD":  "36.40 (27.00%)",
+        "Trades":  "22"
+    },
+    {
+        "Variant":  "structRoom_adxdrop5",
+        "Period":  "verylong",
+        "Net":  "207.01",
+        "PF":  "2.89",
+        "EquityDD":  "47.21 (16.84%)",
+        "Trades":  "59"
+    }
+]

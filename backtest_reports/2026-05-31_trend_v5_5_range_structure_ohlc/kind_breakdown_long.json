@@ -1,0 +1,18 @@
+﻿[
+    {
+        "Kind":  "Trend",
+        "Trades":  102,
+        "Wins":  60,
+        "WinRate":  "58.82%",
+        "Net":  "211.50",
+        "Avg":  "2.07"
+    },
+    {
+        "Kind":  "Range",
+        "Trades":  1,
+        "Wins":  null,
+        "WinRate":  "0.00%",
+        "Net":  "1.51",
+        "Avg":  "1.51"
+    }
+]

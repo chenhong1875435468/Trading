@@ -1,0 +1,272 @@
+﻿[
+    {
+        "Set":  "Train",
+        "Group":  "Range",
+        "Count":  23,
+        "Win":  7,
+        "Loss":  16,
+        "Profit":  -46.93,
+        "Avg":  -2.04
+    },
+    {
+        "Set":  "Train",
+        "Group":  "Trend",
+        "Count":  32,
+        "Win":  18,
+        "Loss":  14,
+        "Profit":  4.86,
+        "Avg":  0.15
+    },
+    {
+        "Set":  "Train",
+        "Group":  "sell",
+        "Count":  31,
+        "Win":  16,
+        "Loss":  15,
+        "Profit":  -16.94,
+        "Avg":  -0.55
+    },
+    {
+        "Set":  "Train",
+        "Group":  "buy",
+        "Count":  24,
+        "Win":  9,
+        "Loss":  15,
+        "Profit":  -25.13,
+        "Avg":  -1.05
+    },
+    {
+        "Set":  "Train",
+        "Group":  "SL",
+        "Count":  46,
+        "Win":  "",
+        "Loss":  "",
+        "Profit":  -177.61,
+        "Avg":  -3.86
+    },
+    {
+        "Set":  "Train",
+        "Group":  "TP",
+        "Count":  9,
+        "Win":  "",
+        "Loss":  "",
+        "Profit":  135.54,
+        "Avg":  15.06
+    },
+    {
+        "Set":  "Test",
+        "Group":  "Range",
+        "Count":  10,
+        "Win":  6,
+        "Loss":  4,
+        "Profit":  66.91,
+        "Avg":  6.69
+    },
+    {
+        "Set":  "Test",
+        "Group":  "Trend",
+        "Count":  4,
+        "Win":  2,
+        "Loss":  2,
+        "Profit":  15.62,
+        "Avg":  3.9
+    },
+    {
+        "Set":  "Test",
+        "Group":  "sell",
+        "Count":  9,
+        "Win":  5,
+        "Loss":  4,
+        "Profit":  85.79,
+        "Avg":  9.53
+    },
+    {
+        "Set":  "Test",
+        "Group":  "buy",
+        "Count":  5,
+        "Win":  3,
+        "Loss":  2,
+        "Profit":  -3.26,
+        "Avg":  -0.65
+    },
+    {
+        "Set":  "Test",
+        "Group":  "TP",
+        "Count":  7,
+        "Win":  "",
+        "Loss":  "",
+        "Profit":  194.72,
+        "Avg":  27.82
+    },
+    {
+        "Set":  "Test",
+        "Group":  "SL",
+        "Count":  7,
+        "Win":  "",
+        "Loss":  "",
+        "Profit":  -112.19,
+        "Avg":  -16.03
+    },
+    {
+        "Set":  "Valid",
+        "Group":  "Trend",
+        "Count":  8,
+        "Win":  6,
+        "Loss":  2,
+        "Profit":  71.03,
+        "Avg":  8.88
+    },
+    {
+        "Set":  "Valid",
+        "Group":  "Range",
+        "Count":  7,
+        "Win":  4,
+        "Loss":  3,
+        "Profit":  31.38,
+        "Avg":  4.48
+    },
+    {
+        "Set":  "Valid",
+        "Group":  "sell",
+        "Count":  12,
+        "Win":  9,
+        "Loss":  3,
+        "Profit":  112.79,
+        "Avg":  9.4
+    },
+    {
+        "Set":  "Valid",
+        "Group":  "buy",
+        "Count":  3,
+        "Win":  null,
+        "Loss":  2,
+        "Profit":  -10.38,
+        "Avg":  -3.46
+    },
+    {
+        "Set":  "Valid",
+        "Group":  "SL",
+        "Count":  8,
+        "Win":  "",
+        "Loss":  "",
+        "Profit":  -53.16,
+        "Avg":  -6.64
+    },
+    {
+        "Set":  "Valid",
+        "Group":  "TP",
+        "Count":  7,
+        "Win":  "",
+        "Loss":  "",
+        "Profit":  155.57,
+        "Avg":  22.22
+    },
+    {
+        "Set":  "Year",
+        "Group":  "Range",
+        "Count":  40,
+        "Win":  17,
+        "Loss":  23,
+        "Profit":  51.36,
+        "Avg":  1.28
+    },
+    {
+        "Set":  "Year",
+        "Group":  "Trend",
+        "Count":  44,
+        "Win":  26,
+        "Loss":  18,
+        "Profit":  91.51,
+        "Avg":  2.08
+    },
+    {
+        "Set":  "Year",
+        "Group":  "sell",
+        "Count":  52,
+        "Win":  30,
+        "Loss":  22,
+        "Profit":  181.64,
+        "Avg":  3.49
+    },
+    {
+        "Set":  "Year",
+        "Group":  "buy",
+        "Count":  32,
+        "Win":  13,
+        "Loss":  19,
+        "Profit":  -38.77,
+        "Avg":  -1.21
+    },
+    {
+        "Set":  "Year",
+        "Group":  "SL",
+        "Count":  61,
+        "Win":  "",
+        "Loss":  "",
+        "Profit":  -342.96,
+        "Avg":  -5.62
+    },
+    {
+        "Set":  "Year",
+        "Group":  "TP",
+        "Count":  23,
+        "Win":  "",
+        "Loss":  "",
+        "Profit":  485.83,
+        "Avg":  21.12
+    },
+    {
+        "Set":  "Long",
+        "Group":  "Range",
+        "Count":  86,
+        "Win":  35,
+        "Loss":  51,
+        "Profit":  44.72,
+        "Avg":  0.52
+    },
+    {
+        "Set":  "Long",
+        "Group":  "Trend",
+        "Count":  127,
+        "Win":  66,
+        "Loss":  61,
+        "Profit":  117.4,
+        "Avg":  0.92
+    },
+    {
+        "Set":  "Long",
+        "Group":  "sell",
+        "Count":  142,
+        "Win":  66,
+        "Loss":  76,
+        "Profit":  148.09,
+        "Avg":  1.04
+    },
+    {
+        "Set":  "Long",
+        "Group":  "buy",
+        "Count":  71,
+        "Win":  35,
+        "Loss":  36,
+        "Profit":  14.03,
+        "Avg":  0.2
+    },
+    {
+        "Set":  "Long",
+        "Group":  "SL",
+        "Count":  152,
+        "Win":  "",
+        "Loss":  "",
+        "Profit":  -658.84,
+        "Avg":  -4.33
+    },
+    {
+        "Set":  "Long",
+        "Group":  "TP",
+        "Count":  61,
+        "Win":  "",
+        "Loss":  "",
+        "Profit":  820.96,
+        "Avg":  13.46
+    }
+]

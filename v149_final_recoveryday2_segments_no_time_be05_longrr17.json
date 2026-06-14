@@ -1,0 +1,62 @@
+﻿[
+    {
+        "name":  "latest_20260522_20260606",
+        "net":  -6.02,
+        "pf":  0.65,
+        "balanceDD":  "16.96 (16.96%)",
+        "equityDD":  "41.30 (41.16%)",
+        "recovery":  -0.15,
+        "trades":  3,
+        "inputs":  "InpLongTrendRewardRisk=1.70; InpMaxTradesPerDay=1; InpAllowRecoveryTradeAfterDailyLoss=true; InpMaxDailyRecoveryTrades=1; InpBreakevenTriggerR=0.50; InpUseTradeHours=false; InpAvoidWeekendEntries=false",
+        "entries":  "2026.05.22 23:45:00 sell; 2026.05.27 10:15:00 sell; 2026.05.27 16:00:00 sell",
+        "report":  "C:\\Users\\chenhomg\\Documents\\trading\\final_recoveryday2_latest_20260522_20260606.htm"
+    },
+    {
+        "name":  "train_20230102_20240601",
+        "net":  48.12,
+        "pf":  3.19,
+        "balanceDD":  "7.02 (4.96%)",
+        "equityDD":  "9.93 (7.66%)",
+        "recovery":  4.85,
+        "trades":  24,
+        "inputs":  "InpLongTrendRewardRisk=1.70; InpMaxTradesPerDay=1; InpAllowRecoveryTradeAfterDailyLoss=true; InpMaxDailyRecoveryTrades=1; InpBreakevenTriggerR=0.50; InpUseTradeHours=false; InpAvoidWeekendEntries=false",
+        "entries":  "2023.09.18 22:45:00 buy; 2023.09.21 05:30:00 sell; 2023.09.21 11:45:00 sell; 2023.09.26 20:50:00 sell; 2023.09.29 20:05:00 sell; 2023.11.01 06:15:00 sell; 2023.11.08 14:15:00 sell; 2023.11.08 19:35:00 sell; 2023.11.10 13:20:00 sell; 2023.11.20 10:55:00 sell; 2023.12.21 23:45:00 buy; 2024.01.02 22:30:00 sell; 2024.01.03 11:15:00 sell; 2024.01.09 19:40:00 sell; 2024.01.10 18:15:00 sell; 2024.01.17 20:15:00 sell; 2024.02.16 19:50:00 buy; 2024.03.28 07:15:00 buy; 2024.04.30 07:15:00 sell; 2024.05.09 01:50:00 sell; 2024.05.23 10:50:00 sell; 2024.05.23 19:45:00 sell; 2024.05.29 14:15:00 sell; 2024.05.31 20:20:00 sell",
+        "report":  "C:\\Users\\chenhomg\\Documents\\trading\\final_recoveryday2_train_20230102_20240601.htm"
+    },
+    {
+        "name":  "test_20240601_20250601",
+        "net":  5.28,
+        "pf":  1.04,
+        "balanceDD":  "30.07 (25.57%)",
+        "equityDD":  "48.42 (39.77%)",
+        "recovery":  0.11,
+        "trades":  42,
+        "inputs":  "InpLongTrendRewardRisk=1.70; InpMaxTradesPerDay=1; InpAllowRecoveryTradeAfterDailyLoss=true; InpMaxDailyRecoveryTrades=1; InpBreakevenTriggerR=0.50; InpUseTradeHours=false; InpAvoidWeekendEntries=false",
+        "entries":  "2024.06.07 18:30:00 sell; 2024.06.12 01:05:00 buy; 2024.06.25 07:00:00 sell; 2024.07.24 08:00:00 buy; 2024.08.14 18:50:00 sell; 2024.08.22 07:10:00 sell; 2024.08.27 06:50:00 sell; 2024.08.28 14:45:00 sell; 2024.09.03 04:10:00 sell; 2024.09.27 20:25:00 sell; 2024.10.14 07:40:00 buy; 2024.10.15 08:20:00 sell; 2024.10.23 20:40:00 sell; 2024.10.25 13:20:00 sell; 2024.11.01 19:45:00 sell; 2024.11.12 19:15:00 sell; 2024.11.13 23:50:00 sell; 2024.11.14 06:05:00 sell; 2024.11.20 02:10:00 buy; 2024.11.22 20:05:00 buy; 2024.12.02 04:20:00 sell; 2024.12.05 18:30:00 sell; 2024.12.09 09:30:00 buy; 2024.12.30 13:00:00 sell; 2024.12.30 18:20:00 sell; 2025.01.15 22:15:00 buy; 2025.01.27 06:35:00 sell; 2025.02.24 21:15:00 buy; 2025.02.27 06:10:00 sell; 2025.03.03 14:05:00 buy; 2025.04.04 12:45:00 sell; 2025.04.04 20:30:00 sell; 2025.04.07 18:15:00 sell; 2025.04.08 22:40:00 sell; 2025.04.22 22:35:00 sell; 2025.04.23 18:20:00 sell; 2025.05.01 06:10:00 sell; 2025.05.02 21:45:00 sell; 2025.05.08 22:05:00 sell; 2025.05.12 03:45:00 sell; 2025.05.14 06:15:00 sell; 2025.05.20 13:45:00 buy",
+        "report":  "C:\\Users\\chenhomg\\Documents\\trading\\final_recoveryday2_test_20240601_20250601.htm"
+    },
+    {
+        "name":  "valid_20250601_20260606",
+        "net":  228.39,
+        "pf":  3.98,
+        "balanceDD":  "23.85 (14.12%)",
+        "equityDD":  "42.66 (23.06%)",
+        "recovery":  5.35,
+        "trades":  33,
+        "inputs":  "InpLongTrendRewardRisk=1.70; InpMaxTradesPerDay=1; InpAllowRecoveryTradeAfterDailyLoss=true; InpMaxDailyRecoveryTrades=1; InpBreakevenTriggerR=0.50; InpUseTradeHours=false; InpAvoidWeekendEntries=false",
+        "entries":  "2025.06.06 19:15:00 sell; 2025.07.07 07:25:00 sell; 2025.07.09 08:00:00 sell; 2025.07.24 02:00:00 sell; 2025.07.25 07:45:00 sell; 2025.07.25 13:30:00 sell; 2025.08.06 12:45:00 sell; 2025.08.11 12:05:00 sell; 2025.08.14 19:15:00 sell; 2025.08.19 19:15:00 sell; 2025.08.20 22:15:00 buy; 2025.09.30 22:20:00 buy; 2025.10.02 14:20:00 buy; 2025.10.09 13:50:00 buy; 2025.10.21 13:20:00 sell; 2025.10.27 02:30:00 sell; 2025.11.18 06:20:00 sell; 2025.12.08 18:00:00 sell; 2025.12.10 18:45:00 sell; 2026.01.08 06:45:00 sell; 2026.03.12 20:35:00 sell; 2026.03.18 13:05:00 sell; 2026.03.26 22:30:00 sell; 2026.04.09 10:15:00 sell; 2026.04.23 07:45:00 sell; 2026.04.24 07:00:00 sell; 2026.04.28 07:05:00 sell; 2026.05.04 11:00:00 sell; 2026.05.11 03:00:00 sell; 2026.05.15 06:35:00 sell; 2026.05.22 23:45:00 sell; 2026.05.27 10:15:00 sell; 2026.05.27 16:00:00 sell",
+        "report":  "C:\\Users\\chenhomg\\Documents\\trading\\final_recoveryday2_valid_20250601_20260606.htm"
+    },
+    {
+        "name":  "verylong_20230102_20260606",
+        "net":  281.79,
+        "pf":  2.27,
+        "balanceDD":  "32.27 (17.82%)",
+        "equityDD":  "48.42 (28.51%)",
+        "recovery":  5.82,
+        "trades":  99,
+        "inputs":  "InpLongTrendRewardRisk=1.70; InpMaxTradesPerDay=1; InpAllowRecoveryTradeAfterDailyLoss=true; InpMaxDailyRecoveryTrades=1; InpBreakevenTriggerR=0.50; InpUseTradeHours=false; InpAvoidWeekendEntries=false",
+        "entries":  "2023.09.18 22:45:00 buy; 2023.09.21 05:30:00 sell; 2023.09.21 11:45:00 sell; 2023.09.26 20:50:00 sell; 2023.09.29 20:05:00 sell; 2023.11.01 06:15:00 sell; 2023.11.08 14:15:00 sell; 2023.11.08 19:35:00 sell; 2023.11.10 13:20:00 sell; 2023.11.20 10:55:00 sell; 2023.12.21 23:45:00 buy; 2024.01.02 22:30:00 sell; 2024.01.03 11:15:00 sell; 2024.01.09 19:40:00 sell; 2024.01.10 18:15:00 sell; 2024.01.17 20:15:00 sell; 2024.02.16 19:50:00 buy; 2024.03.28 07:15:00 buy; 2024.04.30 07:15:00 sell; 2024.05.09 01:50:00 sell; 2024.05.23 10:50:00 sell; 2024.05.23 19:45:00 sell; 2024.05.29 14:15:00 sell; 2024.05.31 20:20:00 sell; 2024.06.07 18:30:00 sell; 2024.06.12 01:05:00 buy; 2024.06.25 07:00:00 sell; 2024.07.24 08:00:00 buy; 2024.08.14 18:50:00 sell; 2024.08.22 07:10:00 sell; 2024.08.27 06:50:00 sell; 2024.08.28 14:45:00 sell; 2024.09.03 04:10:00 sell; 2024.09.27 20:25:00 sell; 2024.10.14 07:40:00 buy; 2024.10.15 08:20:00 sell; 2024.10.23 20:40:00 sell; 2024.10.25 13:20:00 sell; 2024.11.01 19:45:00 sell; 2024.11.12 19:15:00 sell; 2024.11.13 23:50:00 sell; 2024.11.14 06:05:00 sell; 2024.11.20 02:10:00 buy; 2024.11.22 20:05:00 buy; 2024.12.02 04:20:00 sell; 2024.12.05 18:30:00 sell; 2024.12.09 09:30:00 buy; 2024.12.30 13:00:00 sell; 2024.12.30 18:20:00 sell; 2025.01.15 22:15:00 buy; 2025.01.27 06:35:00 sell; 2025.02.24 21:15:00 buy; 2025.02.27 06:10:00 sell; 2025.03.03 14:05:00 buy; 2025.04.04 12:45:00 sell; 2025.04.04 20:30:00 sell; 2025.04.07 18:15:00 sell; 2025.04.08 22:40:00 sell; 2025.04.22 22:35:00 sell; 2025.04.23 18:20:00 sell; 2025.05.01 06:10:00 sell; 2025.05.02 21:45:00 sell; 2025.05.08 22:05:00 sell; 2025.05.12 03:45:00 sell; 2025.05.14 06:15:00 sell; 2025.05.20 13:45:00 buy; 2025.06.06 19:15:00 sell; 2025.07.07 07:25:00 sell; 2025.07.09 08:00:00 sell; 2025.07.24 02:00:00 sell; 2025.07.25 07:45:00 sell; 2025.07.25 13:30:00 sell; 2025.08.06 12:45:00 sell; 2025.08.11 12:05:00 sell; 2025.08.14 19:15:00 sell; 2025.08.19 19:15:00 sell; 2025.08.20 22:15:00 buy; 2025.09.30 22:20:00 buy; 2025.10.02 14:20:00 buy; 2025.10.09 13:50:00 buy; 2025.10.21 13:20:00 sell; 2025.10.27 02:30:00 sell; 2025.11.18 06:20:00 sell; 2025.12.08 18:00:00 sell; 2025.12.10 18:45:00 sell; 2026.01.08 06:45:00 sell; 2026.03.12 20:35:00 sell; 2026.03.18 13:05:00 sell; 2026.03.26 22:30:00 sell; 2026.04.09 10:15:00 sell; 2026.04.23 07:45:00 sell; 2026.04.24 07:00:00 sell; 2026.04.28 07:05:00 sell; 2026.05.04 11:00:00 sell; 2026.05.11 03:00:00 sell; 2026.05.15 06:35:00 sell; 2026.05.22 23:45:00 sell; 2026.05.27 10:15:00 sell; 2026.05.27 16:00:00 sell",
+        "report":  "C:\\Users\\chenhomg\\Documents\\trading\\final_recoveryday2_verylong_20230102_20260606.htm"
+    }
+]

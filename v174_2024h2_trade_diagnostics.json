@@ -1,0 +1,454 @@
+﻿{
+    "total":  {
+                  "Trades":  20,
+                  "Net":  -8.77,
+                  "Wins":  10,
+                  "Losses":  10
+              },
+    "bySide":  [
+                   {
+                       "Side":  "sell",
+                       "Trades":  15,
+                       "Net":  -9.51,
+                       "Avg":  -0.63,
+                       "Worst":  -7.02
+                   },
+                   {
+                       "Side":  "buy",
+                       "Trades":  5,
+                       "Net":  0.74,
+                       "Avg":  0.15,
+                       "Worst":  -3.53
+                   }
+               ],
+    "byMonth":  [
+                    {
+                        "Month":  "2024-08",
+                        "Trades":  3,
+                        "Net":  -12.98,
+                        "Worst":  -7.02
+                    },
+                    {
+                        "Month":  "2024-10",
+                        "Trades":  4,
+                        "Net":  -8.83,
+                        "Worst":  -5.8
+                    },
+                    {
+                        "Month":  "2024-11",
+                        "Trades":  6,
+                        "Net":  -4.25,
+                        "Worst":  -6.64
+                    },
+                    {
+                        "Month":  "2024-07",
+                        "Trades":  1,
+                        "Net":  -3.53,
+                        "Worst":  -3.53
+                    },
+                    {
+                        "Month":  "2024-09",
+                        "Trades":  2,
+                        "Net":  4.12,
+                        "Worst":  0.25
+                    },
+                    {
+                        "Month":  "2024-12",
+                        "Trades":  4,
+                        "Net":  16.7,
+                        "Worst":  -3.27
+                    }
+                ],
+    "byHour":  [
+                   {
+                       "Hour":  6,
+                       "Trades":  2,
+                       "Net":  -7.37,
+                       "Worst":  -4.51
+                   },
+                   {
+                       "Hour":  13,
+                       "Trades":  2,
+                       "Net":  -6.8,
+                       "Worst":  -3.53
+                   },
+                   {
+                       "Hour":  20,
+                       "Trades":  3,
+                       "Net":  -5.3,
+                       "Worst":  -5.8
+                   },
+                   {
+                       "Hour":  8,
+                       "Trades":  2,
+                       "Net":  -3.28,
+                       "Worst":  -3.53
+                   },
+                   {
+                       "Hour":  7,
+                       "Trades":  2,
+                       "Net":  -2.85,
+                       "Worst":  -3.1
+                   },
+                   {
+                       "Hour":  23,
+                       "Trades":  1,
+                       "Net":  -2.77,
+                       "Worst":  -2.77
+                   },
+                   {
+                       "Hour":  19,
+                       "Trades":  2,
+                       "Net":  -0.74,
+                       "Worst":  -6.64
+                   },
+                   {
+                       "Hour":  9,
+                       "Trades":  1,
+                       "Net":  0.25,
+                       "Worst":  0.25
+                   },
+                   {
+                       "Hour":  2,
+                       "Trades":  1,
+                       "Net":  3.52,
+                       "Worst":  3.52
+                   },
+                   {
+                       "Hour":  4,
+                       "Trades":  2,
+                       "Net":  4.12,
+                       "Worst":  0.25
+                   },
+                   {
+                       "Hour":  18,
+                       "Trades":  2,
+                       "Net":  12.45,
+                       "Worst":  -7.02
+                   }
+               ],
+    "worst":  [
+                  {
+                      "OpenTime":  "\/Date(1723632600000)\/",
+                      "Side":  "sell",
+                      "Month":  "2024-08",
+                      "Hour":  18,
+                      "DaySeq":  1,
+                      "Profit":  -7.02,
+                      "CloseReason":  "Max loss R close",
+                      "HoldMin":  525
+                  },
+                  {
+                      "OpenTime":  "\/Date(1731410100000)\/",
+                      "Side":  "sell",
+                      "Month":  "2024-11",
+                      "Hour":  19,
+                      "DaySeq":  1,
+                      "Profit":  -6.64,
+                      "CloseReason":  "sl 2599.91",
+                      "HoldMin":  52.3
+                  },
+                  {
+                      "OpenTime":  "\/Date(1729687200000)\/",
+                      "Side":  "sell",
+                      "Month":  "2024-10",
+                      "Hour":  20,
+                      "DaySeq":  1,
+                      "Profit":  -5.8,
+                      "CloseReason":  "sl 2721.52",
+                      "HoldMin":  359.3
+                  },
+                  {
+                      "OpenTime":  "\/Date(1731535500000)\/",
+                      "Side":  "sell",
+                      "Month":  "2024-11",
+                      "Hour":  6,
+                      "DaySeq":  1,
+                      "Profit":  -4.51,
+                      "CloseReason":  "sl 2564.29",
+                      "HoldMin":  46.7
+                  },
+                  {
+                      "OpenTime":  "\/Date(1729833600000)\/",
+                      "Side":  "sell",
+                      "Month":  "2024-10",
+                      "Hour":  13,
+                      "DaySeq":  1,
+                      "Profit":  -3.53,
+                      "CloseReason":  "sl 2720.91",
+                      "HoldMin":  19.3
+                  },
+                  {
+                      "OpenTime":  "\/Date(1721779200000)\/",
+                      "Side":  "buy",
+                      "Month":  "2024-07",
+                      "Hour":  8,
+                      "DaySeq":  1,
+                      "Profit":  -3.53,
+                      "CloseReason":  "sl 2414.47",
+                      "HoldMin":  16.7
+                  },
+                  {
+                      "OpenTime":  "\/Date(1735534800000)\/",
+                      "Side":  "sell",
+                      "Month":  "2024-12",
+                      "Hour":  13,
+                      "DaySeq":  1,
+                      "Profit":  -3.27,
+                      "CloseReason":  "sl 2613.84",
+                      "HoldMin":  12.7
+                  },
+                  {
+                      "OpenTime":  "\/Date(1724281800000)\/",
+                      "Side":  "sell",
+                      "Month":  "2024-08",
+                      "Hour":  7,
+                      "DaySeq":  1,
+                      "Profit":  -3.0999999999999996,
+                      "CloseReason":  "Max loss R close",
+                      "HoldMin":  75
+                  },
+                  {
+                      "OpenTime":  "\/Date(1724712600000)\/",
+                      "Side":  "sell",
+                      "Month":  "2024-08",
+                      "Hour":  6,
+                      "DaySeq":  1,
+                      "Profit":  -2.86,
+                      "CloseReason":  "Max loss R close",
+                      "HoldMin":  10
+                  },
+                  {
+                      "OpenTime":  "\/Date(1731513000000)\/",
+                      "Side":  "sell",
+                      "Month":  "2024-11",
+                      "Hour":  23,
+                      "DaySeq":  1,
+                      "Profit":  -2.7700000000000005,
+                      "CloseReason":  "sl 2577.67",
+                      "HoldMin":  89.7
+                  },
+                  {
+                      "OpenTime":  "\/Date(1728862800000)\/",
+                      "Side":  "buy",
+                      "Month":  "2024-10",
+                      "Hour":  7,
+                      "DaySeq":  1,
+                      "Profit":  0.25,
+                      "CloseReason":  "sl 2658.37",
+                      "HoldMin":  54.7
+                  },
+                  {
+                      "OpenTime":  "\/Date(1733084400000)\/",
+                      "Side":  "sell",
+                      "Month":  "2024-12",
+                      "Hour":  4,
+                      "DaySeq":  1,
+                      "Profit":  0.25,
+                      "CloseReason":  "sl 2628.36",
+                      "HoldMin":  60.7
+                  }
+              ],
+    "all":  [
+                {
+                    "OpenTime":  "\/Date(1721779200000)\/",
+                    "Side":  "buy",
+                    "Month":  "2024-07",
+                    "Hour":  8,
+                    "DaySeq":  1,
+                    "Profit":  -3.53,
+                    "CloseReason":  "sl 2414.47",
+                    "HoldMin":  16.7
+                },
+                {
+                    "OpenTime":  "\/Date(1723632600000)\/",
+                    "Side":  "sell",
+                    "Month":  "2024-08",
+                    "Hour":  18,
+                    "DaySeq":  1,
+                    "Profit":  -7.02,
+                    "CloseReason":  "Max loss R close",
+                    "HoldMin":  525
+                },
+                {
+                    "OpenTime":  "\/Date(1724281800000)\/",
+                    "Side":  "sell",
+                    "Month":  "2024-08",
+                    "Hour":  7,
+                    "DaySeq":  1,
+                    "Profit":  -3.0999999999999996,
+                    "CloseReason":  "Max loss R close",
+                    "HoldMin":  75
+                },
+                {
+                    "OpenTime":  "\/Date(1724712600000)\/",
+                    "Side":  "sell",
+                    "Month":  "2024-08",
+                    "Hour":  6,
+                    "DaySeq":  1,
+                    "Profit":  -2.86,
+                    "CloseReason":  "Max loss R close",
+                    "HoldMin":  10
+                },
+                {
+                    "OpenTime":  "\/Date(1725307800000)\/",
+                    "Side":  "sell",
+                    "Month":  "2024-09",
+                    "Hour":  4,
+                    "DaySeq":  1,
+                    "Profit":  3.87,
+                    "CloseReason":  "tp 2490.59",
+                    "HoldMin":  16.7
+                },
+                {
+                    "OpenTime":  "\/Date(1727439900000)\/",
+                    "Side":  "sell",
+                    "Month":  "2024-09",
+                    "Hour":  20,
+                    "DaySeq":  1,
+                    "Profit":  0.25,
+                    "CloseReason":  "sl 2646.75",
+                    "HoldMin":  26.3
+                },
+                {
+                    "OpenTime":  "\/Date(1728862800000)\/",
+                    "Side":  "buy",
+                    "Month":  "2024-10",
+                    "Hour":  7,
+                    "DaySeq":  1,
+                    "Profit":  0.25,
+                    "CloseReason":  "sl 2658.37",
+                    "HoldMin":  54.7
+                },
+                {
+                    "OpenTime":  "\/Date(1728951600000)\/",
+                    "Side":  "sell",
+                    "Month":  "2024-10",
+                    "Hour":  8,
+                    "DaySeq":  1,
+                    "Profit":  0.25,
+                    "CloseReason":  "sl 2640.77",
+                    "HoldMin":  17.7
+                },
+                {
+                    "OpenTime":  "\/Date(1729687200000)\/",
+                    "Side":  "sell",
+                    "Month":  "2024-10",
+                    "Hour":  20,
+                    "DaySeq":  1,
+                    "Profit":  -5.8,
+                    "CloseReason":  "sl 2721.52",
+                    "HoldMin":  359.3
+                },
+                {
+                    "OpenTime":  "\/Date(1729833600000)\/",
+                    "Side":  "sell",
+                    "Month":  "2024-10",
+                    "Hour":  13,
+                    "DaySeq":  1,
+                    "Profit":  -3.53,
+                    "CloseReason":  "sl 2720.91",
+                    "HoldMin":  19.3
+                },
+                {
+                    "OpenTime":  "\/Date(1730461500000)\/",
+                    "Side":  "sell",
+                    "Month":  "2024-11",
+                    "Hour":  19,
+                    "DaySeq":  1,
+                    "Profit":  5.8999999999999995,
+                    "CloseReason":  "sl 2735.70",
+                    "HoldMin":  3206.7
+                },
+                {
+                    "OpenTime":  "\/Date(1731410100000)\/",
+                    "Side":  "sell",
+                    "Month":  "2024-11",
+                    "Hour":  19,
+                    "DaySeq":  1,
+                    "Profit":  -6.64,
+                    "CloseReason":  "sl 2599.91",
+                    "HoldMin":  52.3
+                },
+                {
+                    "OpenTime":  "\/Date(1731513000000)\/",
+                    "Side":  "sell",
+                    "Month":  "2024-11",
+                    "Hour":  23,
+                    "DaySeq":  1,
+                    "Profit":  -2.7700000000000005,
+                    "CloseReason":  "sl 2577.67",
+                    "HoldMin":  89.7
+                },
+                {
+                    "OpenTime":  "\/Date(1731535500000)\/",
+                    "Side":  "sell",
+                    "Month":  "2024-11",
+                    "Hour":  6,
+                    "DaySeq":  1,
+                    "Profit":  -4.51,
+                    "CloseReason":  "sl 2564.29",
+                    "HoldMin":  46.7
+                },
+                {
+                    "OpenTime":  "\/Date(1732039800000)\/",
+                    "Side":  "buy",
+                    "Month":  "2024-11",
+                    "Hour":  2,
+                    "DaySeq":  1,
+                    "Profit":  3.52,
+                    "CloseReason":  "tp 2639.77",
+                    "HoldMin":  51.7
+                },
+                {
+                    "OpenTime":  "\/Date(1732277100000)\/",
+                    "Side":  "buy",
+                    "Month":  "2024-11",
+                    "Hour":  20,
+                    "DaySeq":  1,
+                    "Profit":  0.25,
+                    "CloseReason":  "sl 2708.57",
+                    "HoldMin":  97.7
+                },
+                {
+                    "OpenTime":  "\/Date(1733084400000)\/",
+                    "Side":  "sell",
+                    "Month":  "2024-12",
+                    "Hour":  4,
+                    "DaySeq":  1,
+                    "Profit":  0.25,
+                    "CloseReason":  "sl 2628.36",
+                    "HoldMin":  60.7
+                },
+                {
+                    "OpenTime":  "\/Date(1733394600000)\/",
+                    "Side":  "sell",
+                    "Month":  "2024-12",
+                    "Hour":  18,
+                    "DaySeq":  1,
+                    "Profit":  19.470000000000002,
+                    "CloseReason":  "tp 2618.36",
+                    "HoldMin":  519.7
+                },
+                {
+                    "OpenTime":  "\/Date(1733707800000)\/",
+                    "Side":  "buy",
+                    "Month":  "2024-12",
+                    "Hour":  9,
+                    "DaySeq":  1,
+                    "Profit":  0.25,
+                    "CloseReason":  "sl 2647.68",
+                    "HoldMin":  7.7
+                },
+                {
+                    "OpenTime":  "\/Date(1735534800000)\/",
+                    "Side":  "sell",
+                    "Month":  "2024-12",
+                    "Hour":  13,
+                    "DaySeq":  1,
+                    "Profit":  -3.27,
+                    "CloseReason":  "sl 2613.84",
+                    "HoldMin":  12.7
+                }
+            ]
+}

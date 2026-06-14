@@ -1,0 +1,122 @@
+﻿[
+    {
+        "Variant":  "base",
+        "Period":  "latest",
+        "Net":  "-6.02",
+        "PF":  "0.65",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "3"
+    },
+    {
+        "Variant":  "base",
+        "Period":  "train",
+        "Net":  "45.01",
+        "PF":  "3.07",
+        "EquityDD":  "9.93 (7.65%)",
+        "Trades":  "24"
+    },
+    {
+        "Variant":  "base",
+        "Period":  "test",
+        "Net":  "28.47",
+        "PF":  "1.31",
+        "EquityDD":  "45.09 (32.26%)",
+        "Trades":  "37"
+    },
+    {
+        "Variant":  "base",
+        "Period":  "valid",
+        "Net":  "230.06",
+        "PF":  "4.07",
+        "EquityDD":  "42.66 (22.86%)",
+        "Trades":  "32"
+    },
+    {
+        "Variant":  "base",
+        "Period":  "verylong",
+        "Net":  "303.54",
+        "PF":  "2.61",
+        "EquityDD":  "45.09 (24.40%)",
+        "Trades":  "93"
+    },
+    {
+        "Variant":  "move12",
+        "Period":  "latest",
+        "Net":  "-16.91",
+        "PF":  "0.00",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "2"
+    },
+    {
+        "Variant":  "move12",
+        "Period":  "train",
+        "Net":  "29.57",
+        "PF":  "2.45",
+        "EquityDD":  "15.73 (13.67%)",
+        "Trades":  "20"
+    },
+    {
+        "Variant":  "move12",
+        "Period":  "test",
+        "Net":  "52.76",
+        "PF":  "1.84",
+        "EquityDD":  "36.40 (26.18%)",
+        "Trades":  "29"
+    },
+    {
+        "Variant":  "move12",
+        "Period":  "valid",
+        "Net":  "222.69",
+        "PF":  "4.56",
+        "EquityDD":  "41.98 (34.37%)",
+        "Trades":  "28"
+    },
+    {
+        "Variant":  "move12",
+        "Period":  "verylong",
+        "Net":  "305.02",
+        "PF":  "3.09",
+        "EquityDD":  "41.98 (20.53%)",
+        "Trades":  "77"
+    },
+    {
+        "Variant":  "move12_entrybar07",
+        "Period":  "latest",
+        "Net":  "-16.91",
+        "PF":  "0.00",
+        "EquityDD":  "41.30 (41.16%)",
+        "Trades":  "2"
+    },
+    {
+        "Variant":  "move12_entrybar07",
+        "Period":  "train",
+        "Net":  "22.16",
+        "PF":  "2.09",
+        "EquityDD":  "16.37 (14.22%)",
+        "Trades":  "18"
+    },
+    {
+        "Variant":  "move12_entrybar07",
+        "Period":  "test",
+        "Net":  "52.76",
+        "PF":  "1.84",
+        "EquityDD":  "36.40 (26.18%)",
+        "Trades":  "29"
+    },
+    {
+        "Variant":  "move12_entrybar07",
+        "Period":  "valid",
+        "Net":  "226.40",
+        "PF":  "4.85",
+        "EquityDD":  "41.30 (12.02%)",
+        "Trades":  "27"
+    },
+    {
+        "Variant":  "move12_entrybar07",
+        "Period":  "verylong",
+        "Net":  "301.32",
+        "PF":  "3.12",
+        "EquityDD":  "41.30 (9.87%)",
+        "Trades":  "74"
+    }
+]
