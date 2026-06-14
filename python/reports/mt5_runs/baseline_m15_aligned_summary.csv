@@ -1,0 +1,4 @@
+suite,split,from_date,to_date,run_dir,status,net_profit,profit_factor,total_trades,max_equity_drawdown,relative_equity_drawdown,expected_payoff,sharpe_ratio
+baseline_m15_aligned,train,2024.02.23,2025.06.01,/Users/ch/Documents/Codex/2026-06-14/chenhong1875435468-trading-https-github-com-chenhong1875435468/python/reports/mt5_runs/baseline_m15_aligned_train_20240223_20250601,done,34.69,1.33,44,45.22,31.01,0.79,4.24
+baseline_m15_aligned,test,2025.06.01,2026.01.01,/Users/ch/Documents/Codex/2026-06-14/chenhong1875435468-trading-https-github-com-chenhong1875435468/python/reports/mt5_runs/baseline_m15_aligned_test_20250601_20260101,done,-38.91,0.44,18,61.16,50.15,-2.16,-5.0
+baseline_m15_aligned,valid,2026.01.01,2026.06.12,/Users/ch/Documents/Codex/2026-06-14/chenhong1875435468-trading-https-github-com-chenhong1875435468/python/reports/mt5_runs/baseline_m15_aligned_valid_20260101_20260612,done,192.9,4.23,17,61.12,19.77,11.35,26.25

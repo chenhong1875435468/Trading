@@ -1,0 +1,17 @@
+{
+  "workspace": {
+    "root": "/Users/ch/Library/Application Support/net.metaquotes.wine.metatrader5/drive_c/Program Files/MetaTrader 5",
+    "experts_dir": "/Users/ch/Library/Application Support/net.metaquotes.wine.metatrader5/drive_c/Program Files/MetaTrader 5/MQL5/Experts/Trading",
+    "scripts_dir": "/Users/ch/Library/Application Support/net.metaquotes.wine.metatrader5/drive_c/Program Files/MetaTrader 5/MQL5/Scripts/Trading",
+    "tester_profiles_dir": "/Users/ch/Library/Application Support/net.metaquotes.wine.metatrader5/drive_c/Program Files/MetaTrader 5/MQL5/Profiles/Tester",
+    "files_dir": "/Users/ch/Library/Application Support/net.metaquotes.wine.metatrader5/drive_c/Program Files/MetaTrader 5/MQL5/Files"
+  },
+  "installed": {
+    "ea_mq5": "/Users/ch/Library/Application Support/net.metaquotes.wine.metatrader5/drive_c/Program Files/MetaTrader 5/MQL5/Experts/Trading/XAUUSD_Regime_EA.mq5",
+    "ea_ex5": "/Users/ch/Library/Application Support/net.metaquotes.wine.metatrader5/drive_c/Program Files/MetaTrader 5/MQL5/Experts/Trading/XAUUSD_Regime_EA.ex5",
+    "history_exporter": "/Users/ch/Library/Application Support/net.metaquotes.wine.metatrader5/drive_c/Program Files/MetaTrader 5/MQL5/Scripts/Trading/CsvHistoryExporter.mq5",
+    "base_set": "/Users/ch/Library/Application Support/net.metaquotes.wine.metatrader5/drive_c/Program Files/MetaTrader 5/MQL5/Profiles/Tester/Trading_XAUUSD_Regime_EA_trend_v3.set",
+    "mt5_root": "/Users/ch/Library/Application Support/net.metaquotes.wine.metatrader5/drive_c/Program Files/MetaTrader 5",
+    "mql5_files_dir": "/Users/ch/Library/Application Support/net.metaquotes.wine.metatrader5/drive_c/Program Files/MetaTrader 5/MQL5/Files"
+  }
+}
