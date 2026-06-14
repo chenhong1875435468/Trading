@@ -1,0 +1,223 @@
+# XAUUSD 策略分析系统 — 全局配置
+# 所有路径均相对于 python/ 目录
+
+# 数据
+data:
+  raw_csv: "data/raw/XAUUSD_M15.csv"
+  processed_dir: "data/processed"
+  # MT5 导出 CSV 格式
+  csv_format:
+    delimiter: ","
+    datetime_format: "%Y.%m.%d %H:%M:%S"
+    columns: ["date", "time", "open", "high", "low", "close", "tickvol", "vol", "spread"]
+
+# 时间周期（分钟）
+timeframes:
+  signal: 15     # M15 — 主信号周期
+  higher: 30     # M30 — 高时间周期确认
+  entry: 5       # M5 — 入场时间周期
+
+# 策略参数（与 EA .set 文件对齐）
+strategy:
+  # 均线
+  fast_ema_period: 21
+  slow_ema_period: 55
+  entry_fast_ema_period: 8
+  entry_slow_ema_period: 21
+
+  # ADX
+  adx_period: 14
+  trend_adx_threshold: 24.0
+  range_adx_threshold: 22.0
+  intrabar_trend_adx_threshold: 22.0
+  min_trend_di_gap: 6.0
+  long_trend_di_gap_offset: 5.0
+  long_trend_adx_offset: 8.0
+
+  # RSI
+  rsi_period: 14
+  rsi_overbought: 68.0
+  rsi_oversold: 32.0
+  trend_buy_max_rsi: 68.0
+  trend_sell_min_rsi: 28.0
+
+  # ATR
+  atr_period: 14
+  min_atr_factor: 0.50
+  max_atr_expansion: 3.20
+
+  # 布林带
+  bands_period: 20
+  bands_deviation: 2.0
+
+  # 趋势量化过滤
+  min_trend_efficiency_ratio: 0.34
+  max_trend_choppiness: 55.0
+  min_trend_ema_gap_atr: 0.25
+  max_trend_distance_atr: 2.20
+  max_trend_adx_drop: 0.0
+  long_trend_efficiency_offset: 0.08
+
+  # 区间识别
+  range_lookback_bars: 36
+  range_min_width_atr: 2.0
+  range_max_width_atr: 5.0
+  range_ema_gap_atr: 1.60
+  range_grid_max_width_atr: 3.20
+
+  # 高级过滤器
+  use_advanced_filters: true
+  use_ema200_trend_filter: false    # EMA200 大势过滤：只顺大势方向交易
+  choppiness_period: 14
+  min_choppiness: 55.0
+  efficiency_period: 14
+  max_efficiency_ratio: 0.30
+
+  # VWAP
+  use_vwap_filter: true
+  min_vwap_deviation_atr: 0.10
+
+  # 流动性清扫
+  use_liquidity_sweep: true
+  sweep_lookback_bars: 24
+  sweep_buffer_atr: 0.04
+
+  # 区间边界
+  range_edge_buffer_atr: 0.25
+  range_close_back_inside_atr: 0.05
+  min_range_boundary_touches: 2
+  range_touch_buffer_atr: 0.20
+  require_range_false_break: true
+  range_false_break_buffer_atr: 0.02
+
+  # SuperTrend
+  use_supertrend_filter: false
+  supertrend_period: 10
+  supertrend_multiplier: 3.0
+
+  # 入场信号K线
+  use_signal_bar_trend_entry: true
+  use_intrabar_trend_entry: true
+  synchronize_trend_entry_to_bar: true
+
+  # 入场过滤器
+  use_entry_ema_alignment: false
+  intrabar_lookback_bars: 6
+  trend_breakout_buffer_atr: 0.05
+  trend_pullback_min_atr: 0.25
+  min_entry_body_ratio: 0.45
+  min_entry_close_position: 0.65
+  max_entry_bar_atr: 0.80
+  max_signal_bar_atr: 1.20
+  max_intrabar_move_atr: 1.60
+
+  # K线形态过滤
+  use_candle_trend_filter: true
+  candle_min_body_atr: 0.10
+  candle_max_opposite_wick_ratio: 0.45
+  candle_momentum_lookback: 3
+  candle_min_momentum_closes: 2
+
+  # 结构支撑阻力
+  use_structure_room_filter: false
+  use_structure_pullback_entry: false
+  structure_lookback_bars: 48
+  structure_pivot_span: 2
+  min_room_to_structure_atr: 0.35
+  structure_break_buffer_atr: 0.03
+  structure_pullback_zone_atr: 0.35
+  structure_reject_buffer_atr: 0.05
+
+  # 斐波那契
+  use_fibonacci_trend_filter: false
+  use_fibonacci_for_long: true
+  use_fibonacci_for_short: false
+  fibonacci_lookback_bars: 96
+  fibonacci_min_impulse_atr: 1.20
+  fibonacci_min_retracement: 0.236
+  fibonacci_max_retracement: 0.886
+  fibonacci_zone_buffer_atr: 0.25
+
+  # 止损止盈
+  use_wider_trend_stop: true
+  trend_atr_stop_multiplier: 1.50
+  range_atr_stop_buffer: 0.25
+  trend_reward_risk: 2.50
+  long_trend_reward_risk: 2.00
+  short_trend_reward_risk: 1.80
+  range_reward_risk: 1.00
+  range_atr_stop_multiplier: 0.55
+  min_stop_points: 80
+  max_stop_points: 2500
+  min_trend_trade_r: 1.40
+  min_range_trade_r: 0.75
+
+  # 区间网格
+  use_range_grid: true
+  range_grid_max_positions: 2
+  range_grid_step_atr: 0.90
+  range_grid_take_profit_atr: 1.20
+  range_grid_stop_buffer_atr: 0.25
+  range_grid_min_choppiness: 62.0
+  range_grid_max_efficiency: 0.18
+  range_grid_entry_zone: 0.35
+  range_grid_min_touches: 2
+  range_grid_use_higher_bias: true
+
+  # 出场管理
+  use_breakeven_stop: false
+  breakeven_trigger_r: 0.40
+  breakeven_buffer_points: 30
+  use_atr_trailing_stop: false
+  atr_trail_trigger_r: 1.10
+  atr_trail_multiplier: 1.40
+  min_managed_stop_step_points: 250
+  manage_stops_on_entry_bar_only: true
+  max_loss_close_r: 0.90
+
+  # 交易方向: both / long_only / short_only
+  trade_direction: both
+  use_ema200_trend_filter: true
+
+  # 风控
+  max_spread_points: 350
+  max_slippage_points: 30
+  max_open_positions: 1
+  max_trades_per_day: 1
+  max_daily_loss_percent: 0.0
+  max_daily_loss_money: 0.0
+  max_consecutive_losses: 0
+  min_bars_between_trades: 2
+  allow_recovery_trade_after_daily_loss: true
+  max_daily_recovery_trades: 1
+  min_daily_loss_for_recovery_trade: 7.50
+  min_recovery_loss_hold_minutes: 40
+  loss_cooldown_threshold: 2
+  loss_cooldown_bars: 4
+
+  # 交易时段
+  use_trade_hours: false
+  trade_start_hour: 4
+  trade_end_hour: 23
+  avoid_weekend_entries: false
+  friday_last_entry_hour: 20
+
+# 回测
+backtest:
+  initial_capital: 100.0
+  commission: 0.0          # MT5 回测不计算佣金
+  spread_points: 30        # 默认模拟点差
+  use_percent_risk: false  # 使用固定手数
+  fixed_lot: 0.01
+  risk_percent: 0.50
+
+# 前向行走验证
+walk_forward:
+  train_years: 2
+  test_months: 6
+  min_trades_train: 20
+
+# 输出
+output:
+  reports_dir: "reports"
+  charts_dir: "reports/charts"
